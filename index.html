@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>redwhite.js</title>
+    <!--
+      首屏就把机身配色贴上，免得深色用户每次刷新先闪一下米白。
+
+      必须是**内联的非模块脚本**：模块脚本（下面那个 /src/main.tsx）是 defer 的，等它
+      跑起来首屏已经画完了；而配色 token 挂在 :root[data-skin] 上，没贴上之前浏览器
+      按米白那一套画。
+
+      键名与两个取值跟 src/ui/skinCache.ts 各写了一遍——内联脚本没法 import。两边
+      对不上的表现就是"还是先闪一下白"，而单看两边代码各自都是对的，所以
+      skinCache.test.ts 里有一组用例直接读这个文件盯着它们一致。
+
+      真正的落盘在 IndexedDB（settings 表），localStorage 这份只是给首屏用的缓存。
+      读不到就什么都不贴，让 React 那边按默认值来。
+    -->
+    <script>
+      try {
+        var skin = localStorage.getItem('redwhite:skin')
+        if (skin === 'light' || skin === 'dark') {
+          document.documentElement.dataset.skin = skin
+        }
+      } catch (ignored) {
+        // localStorage 在隐私模式下会抛，不是返回 null。闪一下总比白屏好。
+      }
+    </script>
+    <script type="module" crossorigin src="/redwhite/assets/index-BBST6wt8.js"></script>
+    <link rel="stylesheet" crossorigin href="/redwhite/assets/index-B7oju-UE.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
