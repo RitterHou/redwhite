@@ -4407,11 +4407,11 @@
   },
   {
     "file": "10efbfcd606f.nes",
-    "title": "未知游戏 032",
+    "title": "美国队长与复仇者",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 032",
-    "initials": "wzyx 032"
+    "pinyin": "meiguoduizhangyufuchouzhe",
+    "initials": "mgdzyfcz"
   },
   {
     "file": "ecf9cbac2ead.nes",
@@ -4445,11 +4445,11 @@
   },
   {
     "file": "95610c432927.nes",
-    "title": "未知游戏 048",
+    "title": "大工源先生",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 048",
-    "initials": "wzyx 048"
+    "pinyin": "dagongyuanxiansheng",
+    "initials": "dgyxs"
   },
   {
     "file": "5f999fb675c8.nes",
@@ -4517,11 +4517,11 @@
   },
   {
     "file": "406542b9f2bd.nes",
-    "title": "未知游戏 066",
+    "title": "越野摩托",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 066",
-    "initials": "wzyx 066"
+    "pinyin": "yueyemotuo",
+    "initials": "yymt"
   },
   {
     "file": "fdb1d57455d8.nes",
@@ -4589,11 +4589,11 @@
   },
   {
     "file": "b802f416d7e5.nes",
-    "title": "未知游戏 082",
+    "title": "月风魔传",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 082",
-    "initials": "wzyx 082"
+    "pinyin": "yuefengmochuan",
+    "initials": "yfmc"
   },
   {
     "file": "39425f2795bc.nes",
@@ -4611,19 +4611,17 @@
   },
   {
     "file": "b65bfa270853.nes",
-    "title": "未知游戏 086",
+    "title": "大话西游",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 086",
-    "initials": "wzyx 086"
+    "pinyin": "dahuaxiyou",
+    "initials": "dhxy"
   },
   {
     "file": "296ce50986f6.nes",
-    "title": "未知游戏 087",
+    "title": "Great Tank",
     "author": "",
-    "featured": false,
-    "pinyin": "weizhiyouxi 087",
-    "initials": "wzyx 087"
+    "featured": false
   },
   {
     "file": "f339436320c2.nes",
@@ -4723,11 +4721,11 @@
   },
   {
     "file": "f53fd2b03cfc.nes",
-    "title": "未知游戏 101",
+    "title": "冒险岛2",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 101",
-    "initials": "wzyx 101"
+    "pinyin": "maoxiandao2",
+    "initials": "mxd2"
   },
   {
     "file": "9f8d51762125.nes",
@@ -4763,11 +4761,9 @@
   },
   {
     "file": "dc4dc8894af9.nes",
-    "title": "未知游戏 108",
+    "title": "KAGE",
     "author": "",
-    "featured": false,
-    "pinyin": "weizhiyouxi 108",
-    "initials": "wzyx 108"
+    "featured": false
   },
   {
     "file": "8a9e3af36c39.nes",
@@ -4851,11 +4847,11 @@
   },
   {
     "file": "73c2329c3a2c.nes",
-    "title": "未知游戏 126",
+    "title": "热血高校躲避球部",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 126",
-    "initials": "wzyx 126"
+    "pinyin": "rexuegaoxiaoduobiqiubu",
+    "initials": "rxgxdbqb"
   },
   {
     "file": "71efded19e16.nes",
@@ -5003,19 +4999,19 @@
   },
   {
     "file": "6e0c56f13188.nes",
-    "title": "未知游戏 152",
+    "title": "洛克人6",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 152",
-    "initials": "wzyx 152"
+    "pinyin": "luokeren6",
+    "initials": "lkr6"
   },
   {
     "file": "303d91f30c53.nes",
-    "title": "未知游戏 153",
+    "title": "洛克人6",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 153",
-    "initials": "wzyx 153"
+    "pinyin": "luokeren6",
+    "initials": "lkr6"
   },
   {
     "file": "371c81f2baf7.nes",
@@ -5089,11 +5085,11 @@
   },
   {
     "file": "adfc8e6372fd.nes",
-    "title": "未知游戏 173",
+    "title": "雪人兄弟",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 173",
-    "initials": "wzyx 173"
+    "pinyin": "xuerenxiongdi",
+    "initials": "xrxd"
   },
   {
     "file": "4aee1b4ba103.nes",
@@ -5129,11 +5125,11 @@
   },
   {
     "file": "dd78ece5ab0c.nes",
-    "title": "未知游戏 178",
+    "title": "热血物语(美版)",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 178",
-    "initials": "wzyx 178"
+    "pinyin": "rexuewuyu(meiban)",
+    "initials": "rxwy(mb)"
   },
   {
     "file": "c1c92e9ca256.nes",
@@ -5161,27 +5157,27 @@
   },
   {
     "file": "ea343f4e445a.nes",
-    "title": "未知游戏 183",
+    "title": "超级马里奥",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 183",
-    "initials": "wzyx 183"
+    "pinyin": "chaojimaliao",
+    "initials": "cjmla"
   },
   {
     "file": "d9f36f09b863.nes",
-    "title": "未知游戏 184",
+    "title": "超级马里奥2",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 184",
-    "initials": "wzyx 184"
+    "pinyin": "chaojimaliao2",
+    "initials": "cjmla2"
   },
   {
     "file": "07e3c42ad202.nes",
-    "title": "未知游戏 186",
+    "title": "超级马里奥(改版)",
     "author": "",
     "featured": false,
-    "pinyin": "weizhiyouxi 186",
-    "initials": "wzyx 186"
+    "pinyin": "chaojimaliao(gaiban)",
+    "initials": "cjmla(gb)"
   },
   {
     "file": "c3e3f1b1e3a1.nes",
