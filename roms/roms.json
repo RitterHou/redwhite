@@ -1,498 +1,581 @@
 [
   {
     "file": "driar.nes",
+    "size": 131088,
     "title": "Driar",
     "author": "Adolfsson & Eriksson",
     "featured": true
   },
   {
     "file": "filthykitchen.nes",
+    "size": 65552,
     "title": "Filthy Kitchen",
     "author": "",
     "featured": true
   },
   {
     "file": "flappybird.nes",
+    "size": 24592,
     "title": "Flappy Bird",
     "author": "Nioreh",
     "featured": true
   },
   {
     "file": "nomolos.nes",
+    "size": 524304,
     "title": "Nomolos: Storming the CATsle",
     "author": "Gradual Games",
     "featured": true
   },
   {
     "file": "novathesquirrel.nes",
+    "size": 262160,
     "title": "Nova the Squirrel",
     "author": "NovaSquirrel",
     "featured": true
   },
   {
     "file": "sir-ababol-remastered.nes",
+    "size": 40976,
     "title": "Sir Ababol Remastered Edition NES",
     "author": "The Mojon Twins",
     "featured": true
   },
   {
     "file": "super-tilt-bro.nes",
+    "size": 40976,
     "title": "Super Tilt Bro",
     "author": "Sylvain Gadrat (sgadrat)",
     "featured": true
   },
   {
     "file": "owlia.nes",
+    "size": 524304,
     "title": "The Legends of Owlia",
     "author": "Gradual Games",
     "featured": true
   },
   {
     "file": "roboninjaclimb.nes",
+    "size": 49168,
     "title": "Robo-Ninja-Climb",
     "author": "Nathan Tolbert",
     "featured": false
   },
   {
     "file": "3in12ppak.nes",
+    "size": 40976,
     "title": "3-in-1 2p Pak",
     "author": "SlyDog Studios",
     "featured": false
   },
   {
     "file": "31in1realgame-multicart.nes",
+    "size": 393232,
     "title": "31 in 1 Real Game!",
     "author": "Mojon Twins",
     "featured": false
   },
   {
     "file": "ambushed.nes",
+    "size": 16400,
     "title": "Ambushed",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "assimilate.nes",
+    "size": 262160,
     "title": "Assimilate",
     "author": "Nessylum Games",
     "featured": false
   },
   {
     "file": "babelblox.nes",
+    "size": 524304,
     "title": "Babel Blox",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "blaster.nes",
+    "size": 24592,
     "title": "Big City Sliding Blaster",
     "author": "NovaSquirrel",
     "featured": false
   },
   {
     "file": "blackboxchallenge.nes",
+    "size": 524304,
     "title": "Black Box Challenge",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "bombarray.nes",
+    "size": 16400,
     "title": "Bomb Array",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "bootee.nes",
+    "size": 40976,
     "title": "Bootèe (NES)",
     "author": "Mojon Twins",
     "featured": false
   },
   {
     "file": "bronyblaster.nes",
+    "size": 163856,
     "title": "Brony Blaster",
     "author": "FG Software / Vectrex28",
     "featured": false
   },
   {
     "file": "cheril-the-goddess.nes",
+    "size": 65552,
     "title": "Cheril the Goddess",
     "author": "",
     "featured": false
   },
   {
     "file": "cl1k.nes",
+    "size": 16400,
     "title": "CL1K",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "croom.nes",
+    "size": 24592,
     "title": "Concentration Room 0.02a",
     "author": "Damian Yerrick",
     "featured": false
   },
   {
     "file": "debrisdodger.nes",
+    "size": 16400,
     "title": "Debris Dodger",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "dabg.nes",
+    "size": 24592,
     "title": "Double Action Blaster Guys",
     "author": "NovaSquirrel",
     "featured": false
   },
   {
     "file": "fff.nes",
+    "size": 65552,
     "title": "F-FF",
     "author": "Pubby",
     "featured": false
   },
   {
     "file": "falling.nes",
+    "size": 40976,
     "title": "Falling",
     "author": "tragicmuffin",
     "featured": false
   },
   {
     "file": "flappyblock.nes",
+    "size": 16400,
     "title": "Flappy Block",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "flappyjack.nes",
+    "size": 40976,
     "title": "Flappy Jack",
     "author": "",
     "featured": false
   },
   {
     "file": "forpoints.nes",
+    "size": 16400,
     "title": "For Points",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "gsm.nes",
+    "size": 16400,
     "title": "GSM",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "indivisibleonnes.nes",
+    "size": 262160,
     "title": "Indivisible on NES",
     "author": "KasumiDirect",
     "featured": false
   },
   {
     "file": "invaders.nes",
+    "size": 32784,
     "title": "Invaders Must Die!",
     "author": "Sebastian Mihai",
     "featured": false
   },
   {
     "file": "jetpaco.nes",
+    "size": 40976,
     "title": "Jet Paco - Space Agent!",
     "author": "Mojo Twins",
     "featured": false
   },
   {
     "file": "kyff.nes",
+    "size": 40976,
     "title": "K.Y.F.F.",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "lala.nes",
+    "size": 81936,
     "title": "Lala The Magical",
     "author": "Mojon Twins",
     "featured": false
   },
   {
     "file": "lightshields.nes",
+    "size": 24592,
     "title": "LightShields",
     "author": "Zutano Games",
     "featured": false
   },
   {
     "file": "lunarlimit.nes",
+    "size": 40976,
     "title": "Lunar Limit",
     "author": "Pubby",
     "featured": false
   },
   {
     "file": "madwizard.nes",
+    "size": 40976,
     "title": "Mad Wizard - A Candelabra Chronicle, The",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "mashymashy.nes",
+    "size": 24592,
     "title": "MashyMashy",
     "author": "Mitch3b",
     "featured": false
   },
   {
     "file": "megamountain.nes",
+    "size": 40976,
     "title": "MegaMountainNES",
     "author": "AdrianMakesGames, Damian Yerrick",
     "featured": false
   },
   {
     "file": "memory.nes",
+    "size": 16400,
     "title": "Memory",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "mguard.nes",
+    "size": 16400,
     "title": "Meteor Guard",
     "author": "Slydog Studios",
     "featured": false
   },
   {
     "file": "mguard2.nes",
+    "size": 16400,
     "title": "Meteor Guard 2",
     "author": "Slydog Studios",
     "featured": false
   },
   {
     "file": "midnightjogger.nes",
+    "size": 16400,
     "title": "Midnight Jogger",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "miedow.nes",
+    "size": 65552,
     "title": "Miedow (Cheril's Nightmares)",
     "author": "Mojon Twins",
     "featured": false
   },
   {
     "file": "mineshaft.nes",
+    "size": 24592,
     "title": "MINESHAFT",
     "author": "Nioreh",
     "featured": false
   },
   {
     "file": "mouser2.nes",
+    "size": 24592,
     "title": "MOUSER II",
     "author": "Tony Young",
     "featured": false
   },
   {
     "file": "viruscleaner.nes",
+    "size": 40976,
     "title": "NES Virus Cleaner",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "nesertbus.nes",
+    "size": 24592,
     "title": "NesertBus",
     "author": "",
     "featured": false
   },
   {
     "file": "ninjamuncher.nes",
+    "size": 16400,
     "title": "Ninja Muncher",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "nintencattheparody.nes",
+    "size": 40976,
     "title": "Nintencat: The Parody",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "nopoints.nes",
+    "size": 16400,
     "title": "No Points",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "obstacletrek.nes",
+    "size": 16400,
     "title": "Obstacle Trek",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "pegs.nes",
+    "size": 40976,
     "title": "Pegs",
     "author": "Slydog Studios",
     "featured": false
   },
   {
     "file": "pong1k.nes",
+    "size": 16400,
     "title": "Pong 1K",
     "author": "Slydog Studios",
     "featured": false
   },
   {
     "file": "pong1k2p.nes",
+    "size": 16400,
     "title": "Pong 1K 2P",
     "author": "Slydog Studios",
     "featured": false
   },
   {
     "file": "vigilanteninja.nes",
+    "size": 24592,
     "title": "Purple Cape Man! Vigilante Ninja",
     "author": "dougeff",
     "featured": false
   },
   {
     "file": "ralph4.nes",
+    "size": 24592,
     "title": "RALPH 4",
     "author": "pubby",
     "featured": false
   },
   {
     "file": "rhde.nes",
+    "size": 32784,
     "title": "RHDE: Furniture Fight",
     "author": "Damian Yerrick",
     "featured": false
   },
   {
     "file": "riseofamondus.nes",
+    "size": 131088,
     "title": "Rise of Amondus",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "robotfindskitten.nes",
+    "size": 32784,
     "title": "RobotFindsKitten for NES 0.10.122",
     "author": "Damian Yerrick",
     "featured": false
   },
   {
     "file": "rpsls.nes",
+    "size": 40976,
     "title": "Rock Paper Scissors Lizard Sbock",
     "author": "",
     "featured": false
   },
   {
     "file": "roulette.nes",
+    "size": 24592,
     "title": "Russian Roulette",
     "author": "Damian Yerrick",
     "featured": false
   },
   {
     "file": "sgthelmet.nes",
+    "size": 40976,
     "title": "Sgt. Helmet - Training Day",
     "author": "Mojon Twins",
     "featured": false
   },
   {
     "file": "simonesays.nes",
+    "size": 16400,
     "title": "Simone Says",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "snailmaze.nes",
+    "size": 40976,
     "title": "Snail Maze",
     "author": "Slydog Studios",
     "featured": false
   },
   {
     "file": "spaceymcracey.nes",
+    "size": 40976,
     "title": "Spacey McRacey",
     "author": "",
     "featured": false
   },
   {
     "file": "starevil.nes",
+    "size": 40976,
     "title": "Star Evil",
     "author": "Pubby",
     "featured": false
   },
   {
     "file": "superpakpak.nes",
+    "size": 65552,
     "title": "Super PakPak",
     "author": "AOH Games",
     "featured": false
   },
   {
     "file": "superuwol.nes",
+    "size": 40976,
     "title": "Super Uwol",
     "author": "",
     "featured": false
   },
   {
     "file": "thatswhack.nes",
+    "size": 16400,
     "title": "That's Whack!",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "theinvasion.nes",
+    "size": 16400,
     "title": "The Invasion",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "themadwizard.nes",
+    "size": 131088,
     "title": "The Mad Wizard: A Candelabra Chronicle",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "theonewiththewalls.nes",
+    "size": 16400,
     "title": "The One with the Walls",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "thewit.nes",
+    "size": 40976,
     "title": "The Wit.nes (demo)",
     "author": "dustmop",
     "featured": false
   },
   {
     "file": "thwaite.nes",
+    "size": 24592,
     "title": "Thwaite",
     "author": "Damian Yerrick",
     "featured": false
   },
   {
     "file": "tictacxo.nes",
+    "size": 40976,
     "title": "Tic Tac XO",
     "author": "SlyDog Studios (Robert L Bryant)",
     "featured": false
   },
   {
     "file": "tictactwop.nes",
+    "size": 16400,
     "title": "Tic-Tac-Two-P",
     "author": "Sly Dog Studios",
     "featured": false
   },
   {
     "file": "tigerjenny.nes",
+    "size": 40976,
     "title": "Tiger Jenny v0.1",
     "author": "Ludosity",
     "featured": false
   },
   {
     "file": "twindragons.nes",
+    "size": 262160,
     "title": "Twin Dragons",
     "author": "Antoine Gohin",
     "featured": false
   },
   {
     "file": "wo-xiang-niao-niao.nes",
+    "size": 40976,
     "title": "Wo Xiang Niao Niao",
     "author": "Mojon Twins",
     "featured": false
   },
   {
     "file": "yun.nes",
+    "size": 65552,
     "title": "Yun",
     "author": "MojonTwins",
     "featured": false
   },
   {
     "file": "3go.nes",
+    "size": 393232,
     "title": "三国志-中原之霸者(中文)",
     "author": "3GO",
     "featured": false,
@@ -501,6 +584,7 @@
   },
   {
     "file": "a-ressha-de-ikou-j.nes",
+    "size": 671776,
     "title": "A列车",
     "author": "A Ressha De Ikou (J)",
     "featured": false,
@@ -509,6 +593,7 @@
   },
   {
     "file": "ad-d-hillsfar-j.nes",
+    "size": 786464,
     "title": "AD&D英雄冒险",
     "author": "AD&D Hillsfar (J)",
     "featured": false,
@@ -517,6 +602,7 @@
   },
   {
     "file": "ad-d-pool-of-radiance-j.nes",
+    "size": 1179680,
     "title": "AD&D龙之战士",
     "author": "AD&D Pool of Radiance (J)",
     "featured": false,
@@ -525,6 +611,7 @@
   },
   {
     "file": "aoki-ookami-to-shiroki-mejika-genghis-khan-j.nes",
+    "size": 262160,
     "title": "元朝秘史2-苍狼与白鹿",
     "author": "Aoki Ookami To Shiroki Mejika - Genghis Khan (J)",
     "featured": false,
@@ -533,6 +620,7 @@
   },
   {
     "file": "armed-dragon-fantasy-villgust-j.nes",
+    "size": 917536,
     "title": "甲龙传说外传",
     "author": "Armed Dragon Fantasy Villgust (J)",
     "featured": false,
@@ -541,12 +629,14 @@
   },
   {
     "file": "artelius-j.nes",
+    "size": 688160,
     "title": "Artelius (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "bard-s-tale-tales-of-the-unknown-the-j.nes",
+    "size": 262160,
     "title": "秘境探险(秘境魔宝)",
     "author": "Bard's Tale - Tales of the Unknown, The (J)",
     "featured": false,
@@ -555,6 +645,7 @@
   },
   {
     "file": "bard-s-tale-2-the-destiny-knight-j.nes",
+    "size": 262160,
     "title": "秘境探险2(秘境魔宝2)",
     "author": "Bard's Tale 2 - The Destiny Knight (J)",
     "featured": false,
@@ -563,6 +654,7 @@
   },
   {
     "file": "baseball-stars-j.nes",
+    "size": 262160,
     "title": "棒球之星",
     "author": "Baseball Stars (J)",
     "featured": false,
@@ -571,6 +663,7 @@
   },
   {
     "file": "battle-stadium-senbatsu-pro-yakyuu-j.nes",
+    "size": 262160,
     "title": "战斗棒球大赛",
     "author": "Battle Stadium - Senbatsu Pro Yakyuu (J)",
     "featured": false,
@@ -579,6 +672,7 @@
   },
   {
     "file": "best-play-pro-yakyuu-90-j.nes",
+    "size": 262160,
     "title": "亚斯基职业野球'90",
     "author": "Best Play - Pro Yakyuu '90 (J)",
     "featured": false,
@@ -587,6 +681,7 @@
   },
   {
     "file": "best-play-pro-yakyuu-2-j.nes",
+    "size": 262160,
     "title": "亚斯基职业野球2",
     "author": "Best Play - Pro Yakyuu 2 (J)",
     "featured": false,
@@ -595,6 +690,7 @@
   },
   {
     "file": "best-play-pro-yakyuu-special-j.nes",
+    "size": 786464,
     "title": "亚斯基职业野球特别篇",
     "author": "Best Play - Pro Yakyuu Special (J)",
     "featured": false,
@@ -603,6 +699,7 @@
   },
   {
     "file": "bikkuriman-world-gekitou-sei-senshi-j.nes",
+    "size": 786464,
     "title": "激斗圣战士",
     "author": "Bikkuriman World - Gekitou Sei Senshi (J)",
     "featured": false,
@@ -611,6 +708,7 @@
   },
   {
     "file": "bloody-warriors-shan-goo-no-gyakushuu-j.nes",
+    "size": 786464,
     "title": "血之战士",
     "author": "Bloody Warriors - Shan Goo No Gyakushuu (J)",
     "featured": false,
@@ -619,6 +717,7 @@
   },
   {
     "file": "capcom-barcelona-92-j.nes",
+    "size": 786464,
     "title": "巴塞罗那奥运'92",
     "author": "Capcom Barcelona '92 (J)",
     "featured": false,
@@ -627,12 +726,14 @@
   },
   {
     "file": "chaos-world-j.nes",
+    "size": 917536,
     "title": "Chaos World (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "choujin-ultra-baseball-j.nes",
+    "size": 262160,
     "title": "超人棒球",
     "author": "Choujin - Ultra Baseball (J)",
     "featured": false,
@@ -641,6 +742,7 @@
   },
   {
     "file": "chronicle-of-the-radia-war-j.nes",
+    "size": 917536,
     "title": "RADIA 战争",
     "author": "Chronicle of the Radia War (J)",
     "featured": false,
@@ -649,6 +751,7 @@
   },
   {
     "file": "cocoron-j.nes",
+    "size": 262160,
     "title": "魔法世界",
     "author": "Cocoron (J)",
     "featured": false,
@@ -657,6 +760,7 @@
   },
   {
     "file": "columbus-ougon-no-yoake-j.nes",
+    "size": 262160,
     "title": "哥伦布传",
     "author": "Columbus - Ougon No Yoake (J)",
     "featured": false,
@@ -665,6 +769,7 @@
   },
   {
     "file": "conflict-j.nes",
+    "size": 262160,
     "title": "三军大作战",
     "author": "Conflict (J)",
     "featured": false,
@@ -673,6 +778,7 @@
   },
   {
     "file": "cosmic-wars-j.nes",
+    "size": 262160,
     "title": "宇宙争霸战(太空模拟战)",
     "author": "Cosmic Wars (J)",
     "featured": false,
@@ -681,6 +787,7 @@
   },
   {
     "file": "cosmo-police-galivan-j.nes",
+    "size": 262160,
     "title": "宇宙刑警",
     "author": "Cosmo Police - Galivan (J)",
     "featured": false,
@@ -689,6 +796,7 @@
   },
   {
     "file": "dai-2-ji-super-robot-taisen-j.nes",
+    "size": 1048608,
     "title": "第2次机器人大战",
     "author": "Dai 2 Ji - Super Robot Taisen (J)",
     "featured": false,
@@ -697,6 +805,7 @@
   },
   {
     "file": "daikaijuu-deburas-j.nes",
+    "size": 917536,
     "title": "大怪兽迪普拉斯",
     "author": "Daikaijuu - Deburas (J)",
     "featured": false,
@@ -705,6 +814,7 @@
   },
   {
     "file": "daisenryaku-j.nes",
+    "size": 688160,
     "title": "大战略",
     "author": "Daisenryaku (J)",
     "featured": false,
@@ -713,6 +823,7 @@
   },
   {
     "file": "deep-dungeon-3-yuushi-e-no-tabi-j.nes",
+    "size": 786464,
     "title": "深入地底3-勇者之旅",
     "author": "Deep Dungeon 3 - Yuushi E No Tabi (J)",
     "featured": false,
@@ -721,6 +832,7 @@
   },
   {
     "file": "deep-dungeon-4-kuro-no-youjutsushi-j.nes",
+    "size": 786464,
     "title": "深入地底4-黑暗妖术师",
     "author": "Deep Dungeon 4 - Kuro No Youjutsushi (J)",
     "featured": false,
@@ -729,6 +841,7 @@
   },
   {
     "file": "derby-stallion-j.nes",
+    "size": 786464,
     "title": "达比大赛特别版(德比赛马特别版)",
     "author": "Derby Stallion (J)",
     "featured": false,
@@ -737,6 +850,7 @@
   },
   {
     "file": "derby-stallion-zenkokuban-j.nes",
+    "size": 786464,
     "title": "达比大赛全国版(德比赛马全国版)",
     "author": "Derby Stallion - Zenkokuban (J)",
     "featured": false,
@@ -745,6 +859,7 @@
   },
   {
     "file": "destiny-of-an-emperor-j.nes",
+    "size": 786464,
     "title": "吞食天地",
     "author": "Destiny of an Emperor (j)",
     "featured": false,
@@ -753,6 +868,7 @@
   },
   {
     "file": "destiny-of-an-emperor-2-j.nes",
+    "size": 1048608,
     "title": "吞食天地2-诸葛孔明传",
     "author": "Destiny of an Emperor 2 (j)",
     "featured": false,
@@ -761,6 +877,7 @@
   },
   {
     "file": "digital-devil-monogatari-megami-tensei-2-j.nes",
+    "size": 1048608,
     "title": "女神转生2",
     "author": "Digital Devil Monogatari - Megami Tensei 2 (J)",
     "featured": false,
@@ -769,6 +886,7 @@
   },
   {
     "file": "dokuganryuu-masamune-j.nes",
+    "size": 786464,
     "title": "独眼龙正宗",
     "author": "Dokuganryuu Masamune (J)",
     "featured": false,
@@ -777,6 +895,7 @@
   },
   {
     "file": "doraemon-gigazombie-no-gyakushuu-j.nes",
+    "size": 786464,
     "title": "机器猫小叮当冒险RPG(日版)",
     "author": "Doraemon - Gigazombie No Gyakushuu (J)",
     "featured": false,
@@ -785,6 +904,7 @@
   },
   {
     "file": "doraemon-the-revenge-of-giga-zombie-j.nes",
+    "size": 786464,
     "title": "机器猫小叮当冒险RPG(美版)",
     "author": "Doraemon - The Revenge of Giga Zombie (J)",
     "featured": false,
@@ -793,6 +913,7 @@
   },
   {
     "file": "double-moon-densetsu-j.nes",
+    "size": 1048608,
     "title": "双月传说",
     "author": "Double Moon Densetsu (J)",
     "featured": false,
@@ -801,6 +922,7 @@
   },
   {
     "file": "dragon-quest-3-j.nes",
+    "size": 786464,
     "title": "勇者斗恶龙3",
     "author": "Dragon Quest 3 (J)",
     "featured": false,
@@ -809,6 +931,7 @@
   },
   {
     "file": "dragon-quest-4-j.nes",
+    "size": 1048608,
     "title": "勇者斗恶龙4",
     "author": "Dragon Quest 4 (J)",
     "featured": false,
@@ -817,6 +940,7 @@
   },
   {
     "file": "dragon-wars-j.nes",
+    "size": 393232,
     "title": "龙之战争(神龙大战)",
     "author": "Dragon Wars (J)",
     "featured": false,
@@ -825,6 +949,7 @@
   },
   {
     "file": "dungeon-magic-swords-of-element-j.nes",
+    "size": 786464,
     "title": "地下城与魔法(日版)",
     "author": "Dungeon & Magic - Swords of Element (J)",
     "featured": false,
@@ -833,6 +958,7 @@
   },
   {
     "file": "dungeon-kid-j.nes",
+    "size": 131088,
     "title": "迷宫小子",
     "author": "Dungeon Kid (J)",
     "featured": false,
@@ -841,6 +967,7 @@
   },
   {
     "file": "earth-bound-prototype-time-hack-u-h.nes",
+    "size": 524304,
     "title": "妈妈Mother美版",
     "author": "Earth Bound (Prototype) (Time Hack) (U) [h]",
     "featured": false,
@@ -849,6 +976,7 @@
   },
   {
     "file": "emo-yan-no-10-bai-pro-yakyuu-j.nes",
+    "size": 786464,
     "title": "10倍力量职业棒球",
     "author": "Emo Yan No 10 Bai Pro Yakyuu (J)",
     "featured": false,
@@ -857,6 +985,7 @@
   },
   {
     "file": "esper-dream-2-aratanaru-tatakai-j.nes",
+    "size": 393232,
     "title": "世界之梦2",
     "author": "Esper Dream 2 - Aratanaru Tatakai (J)",
     "featured": false,
@@ -865,6 +994,7 @@
   },
   {
     "file": "f1-circus-j.nes",
+    "size": 393232,
     "title": "F1竞赛场",
     "author": "F1 Circus (J)",
     "featured": false,
@@ -873,6 +1003,7 @@
   },
   {
     "file": "famicom-meijin-sen-j.nes",
+    "size": 786464,
     "title": "任天堂围棋名人战",
     "author": "Famicom Meijin Sen (J)",
     "featured": false,
@@ -881,6 +1012,7 @@
   },
   {
     "file": "famicom-shougi-ryuuousen-j.nes",
+    "size": 786464,
     "title": "家庭将棋龙王战",
     "author": "Famicom Shougi - Ryuuousen (J)",
     "featured": false,
@@ -889,6 +1021,7 @@
   },
   {
     "file": "family-circuit-91-j.nes",
+    "size": 1179680,
     "title": "家庭赛车'91",
     "author": "Family Circuit '91 (J)",
     "featured": false,
@@ -897,6 +1030,7 @@
   },
   {
     "file": "faria-j.nes",
+    "size": 262160,
     "title": "法利亚",
     "author": "Faria (J)",
     "featured": false,
@@ -905,6 +1039,7 @@
   },
   {
     "file": "final-fantasy-j.nes",
+    "size": 262160,
     "title": "最终幻想(太空战士)",
     "author": "Final Fantasy (J)",
     "featured": false,
@@ -913,6 +1048,7 @@
   },
   {
     "file": "final-fantasy-1-2-j.nes",
+    "size": 1048608,
     "title": "最终幻想1+2(太空战士1+2)",
     "author": "Final Fantasy 1 & 2 (J)",
     "featured": false,
@@ -921,6 +1057,7 @@
   },
   {
     "file": "final-fantasy-2-j.nes",
+    "size": 262160,
     "title": "最终幻想2(太空战士2)",
     "author": "Final Fantasy 2 (J)",
     "featured": false,
@@ -929,6 +1066,7 @@
   },
   {
     "file": "final-fantasy-3-j.nes",
+    "size": 1048608,
     "title": "最终幻想3(太空战士3)",
     "author": "Final Fantasy 3 (J)",
     "featured": false,
@@ -937,6 +1075,7 @@
   },
   {
     "file": "fire-emblem-j.nes",
+    "size": 393232,
     "title": "火炎之纹章(圣火徽章)",
     "author": "Fire Emblem (J)",
     "featured": false,
@@ -945,6 +1084,7 @@
   },
   {
     "file": "fire-emblem-gaiden-j.nes",
+    "size": 393232,
     "title": "火炎之纹章外传",
     "author": "Fire Emblem Gaiden (J)",
     "featured": false,
@@ -953,6 +1093,7 @@
   },
   {
     "file": "gambler-jiko-chuushin-ha-maajan-game-j.nes",
+    "size": 262160,
     "title": "自我中心派麻将",
     "author": "Gambler Jiko Chuushin Ha - Maajan Game (J)",
     "featured": false,
@@ -961,6 +1102,7 @@
   },
   {
     "file": "ganbare-goemon-gaiden-kieta-kogane-kiseru-j.nes",
+    "size": 1048608,
     "title": "大盗伍佑卫门外传-黄金财宝",
     "author": "Ganbare Goemon Gaiden - Kieta Kogane Kiseru (J)",
     "featured": false,
@@ -969,6 +1111,7 @@
   },
   {
     "file": "ganbare-goemon-gaiden-2-tenka-no-zaihou-j.nes",
+    "size": 1048608,
     "title": "大盗伍佑卫门外传2-天下财宝",
     "author": "Ganbare Goemon Gaiden 2 - Tenka No Zaihou (J)",
     "featured": false,
@@ -977,6 +1120,7 @@
   },
   {
     "file": "gen-ke-le-zhuan-c.nes",
+    "size": 262160,
     "title": "荆轲新传(中文)",
     "author": "Gen Ke Le Zhuan (C)",
     "featured": false,
@@ -985,6 +1129,7 @@
   },
   {
     "file": "hanjuku-hero-j.nes",
+    "size": 131088,
     "title": "半熟英雄",
     "author": "Hanjuku Hero (J)",
     "featured": false,
@@ -993,6 +1138,7 @@
   },
   {
     "file": "joy-mech-fight-j.nes",
+    "size": 1048608,
     "title": "快乐机器人格斗",
     "author": "Joy Mech Fight (J)",
     "featured": false,
@@ -1001,6 +1147,7 @@
   },
   {
     "file": "kyuukyoku-tiger-j.nes",
+    "size": 262160,
     "title": "究极虎",
     "author": "Kyuukyoku Tiger (J)",
     "featured": false,
@@ -1009,6 +1156,7 @@
   },
   {
     "file": "metalgr2.nes",
+    "size": 262287,
     "title": "合金装备2",
     "author": "METALGR2",
     "featured": false,
@@ -1017,6 +1165,7 @@
   },
   {
     "file": "maajan-taikai-j.nes",
+    "size": 131088,
     "title": "麻将大会",
     "author": "Maajan Taikai (J)",
     "featured": false,
@@ -1025,6 +1174,7 @@
   },
   {
     "file": "maajan-taisen-j.nes",
+    "size": 917536,
     "title": "麻将大战",
     "author": "Maajan Taisen (J)",
     "featured": false,
@@ -1033,6 +1183,7 @@
   },
   {
     "file": "majin-eiyuu-den-wataru-gaiden-j.nes",
+    "size": 262160,
     "title": "魔神英雄传外传-瓦塔诺",
     "author": "Majin Eiyuu Den Wataru Gaiden (J)",
     "featured": false,
@@ -1041,6 +1192,7 @@
   },
   {
     "file": "mother-j.nes",
+    "size": 917536,
     "title": "妈妈(Mother)",
     "author": "Mother (J)",
     "featured": false,
@@ -1049,6 +1201,7 @@
   },
   {
     "file": "nobunaga-no-yabou-sengoku-gunyuuden-j.nes",
+    "size": 917536,
     "title": "信长野望-战国群雄传",
     "author": "Nobunaga No Yabou - Sengoku Gunyuuden (J)",
     "featured": false,
@@ -1057,6 +1210,7 @@
   },
   {
     "file": "nobunaga-no-yabou-bushou-fuuun-roku-j.nes",
+    "size": 786448,
     "title": "信长野望-武将风云录",
     "author": "Nobunaga no Yabou - Bushou Fuuun Roku (J)",
     "featured": false,
@@ -1065,6 +1219,7 @@
   },
   {
     "file": "nobunaga-no-yabou-zenkoku-ban-j-a.nes",
+    "size": 262160,
     "title": "信长野望-全国版",
     "author": "Nobunaga no Yabou - Zenkoku Ban (J) [a]",
     "featured": false,
@@ -1073,6 +1228,7 @@
   },
   {
     "file": "rxftbljp.nes",
+    "size": 262160,
     "title": "热血足球",
     "author": "RXFTBLJP",
     "featured": false,
@@ -1081,6 +1237,7 @@
   },
   {
     "file": "sidepo-1.nes",
+    "size": 131088,
     "title": "花式撞球(美版)",
     "author": "SIDEPO~1",
     "featured": false,
@@ -1089,6 +1246,7 @@
   },
   {
     "file": "sangokushi-2-j.nes",
+    "size": 524304,
     "title": "光荣三国志2(日版)",
     "author": "Sangokushi 2 (J)",
     "featured": false,
@@ -1097,6 +1255,7 @@
   },
   {
     "file": "sangokushi-2-hanou-no-tairiku-j.nes",
+    "size": 1048608,
     "title": "三国志2-霸王的大陆",
     "author": "Sangokushi 2 - Hanou No Tairiku (J)",
     "featured": false,
@@ -1105,6 +1264,7 @@
   },
   {
     "file": "shen-huo-le-zhuan-c.nes",
+    "size": 262160,
     "title": "圣火列传(中文)",
     "author": "Shen Huo Le Zhuan (C)",
     "featured": false,
@@ -1113,6 +1273,7 @@
   },
   {
     "file": "suikoden-tenmei-no-chikai-j.nes",
+    "size": 393232,
     "title": "水浒传-天命之誓",
     "author": "Suikoden - Tenmei No Chikai (J)",
     "featured": false,
@@ -1121,6 +1282,7 @@
   },
   {
     "file": "yong-ze-do-re-long-6-c.nes",
+    "size": 524304,
     "title": "勇者斗恶龙3(中文)",
     "author": "Yong Ze Do Re Long 6 (C)",
     "featured": false,
@@ -1129,6 +1291,7 @@
   },
   {
     "file": "d4cjqrdz.nes",
+    "size": 786448,
     "title": "第四次机器人大战(中文)",
     "author": "d4cjqrdz",
     "featured": false,
@@ -1137,6 +1300,7 @@
   },
   {
     "file": "ddz.nes",
+    "size": 524304,
     "title": "地道战(中文)",
     "author": "ddz",
     "featured": false,
@@ -1145,6 +1309,7 @@
   },
   {
     "file": "ds.nes",
+    "size": 524304,
     "title": "赌神中文版",
     "author": "ds",
     "featured": false,
@@ -1153,6 +1318,7 @@
   },
   {
     "file": "fcno004.nes",
+    "size": 786448,
     "title": "信长野望之武将风云录",
     "author": "fcno004",
     "featured": false,
@@ -1161,6 +1327,7 @@
   },
   {
     "file": "femblem2.nes",
+    "size": 393232,
     "title": "圣火徽章外传",
     "author": "femblem2",
     "featured": false,
@@ -1169,6 +1336,7 @@
   },
   {
     "file": "jafy.nes",
+    "size": 786448,
     "title": "甲A风云(中文)",
     "author": "jafy",
     "featured": false,
@@ -1177,6 +1345,7 @@
   },
   {
     "file": "jdsecj.nes",
+    "size": 524304,
     "title": "基督山恩仇记(中文)",
     "author": "jdsecj",
     "featured": false,
@@ -1185,6 +1354,7 @@
   },
   {
     "file": "lyxz.nes",
+    "size": 524304,
     "title": "绿野仙踪(中文)",
     "author": "lyxz",
     "featured": false,
@@ -1193,6 +1363,7 @@
   },
   {
     "file": "mdsym.nes",
+    "size": 524304,
     "title": "魔道士阴谋(超魔兽大战中文版)",
     "author": "mdsym",
     "featured": false,
@@ -1201,6 +1372,7 @@
   },
   {
     "file": "sidepoo1.nes",
+    "size": 131088,
     "title": "台球",
     "author": "sidepoo1",
     "featured": false,
@@ -1209,6 +1381,7 @@
   },
   {
     "file": "89-dennou-kyuusei-uranai-j.nes",
+    "size": 786464,
     "title": "89电脑占卜",
     "author": "'89 Dennou Kyuusei Uranai (J)",
     "featured": false,
@@ -1217,6 +1390,7 @@
   },
   {
     "file": "10-yard-fight-j.nes",
+    "size": 24592,
     "title": "10码大战-橄榄球大赛",
     "author": "10-Yard Fight (J)",
     "featured": false,
@@ -1225,6 +1399,7 @@
   },
   {
     "file": "100-man-kid-maboroshi-no-teiou-hen-j.nes",
+    "size": 262160,
     "title": "100万美元-幻之帝王篇",
     "author": "100 Man $ Kid - Maboroshi No Teiou Hen (J)",
     "featured": false,
@@ -1233,6 +1408,7 @@
   },
   {
     "file": "100in1.nes",
+    "size": 1048592,
     "title": "100合1",
     "author": "100IN1",
     "featured": false,
@@ -1241,24 +1417,28 @@
   },
   {
     "file": "1942-ju.nes",
+    "size": 40976,
     "title": "1942 (JU)",
     "author": "",
     "featured": false
   },
   {
     "file": "1943-j.nes",
+    "size": 131088,
     "title": "1943 (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "1944.nes",
+    "size": 131088,
     "title": "1944",
     "author": "",
     "featured": false
   },
   {
     "file": "1999-hore-mitakotoka-seikimatsu-j.nes",
+    "size": 393232,
     "title": "1999强手棋",
     "author": "1999 - Hore, Mitakotoka! Seikimatsu (J)",
     "featured": false,
@@ -1267,6 +1447,7 @@
   },
   {
     "file": "4-nin-uchi-mahjong-j.nes",
+    "size": 24592,
     "title": "4人麻将",
     "author": "4 Nin Uchi Mahjong (J)",
     "featured": false,
@@ -1275,6 +1456,7 @@
   },
   {
     "file": "8-eye-s-j.nes",
+    "size": 786464,
     "title": "8只眼",
     "author": "8 Eye's (J)",
     "featured": false,
@@ -1283,6 +1465,7 @@
   },
   {
     "file": "rom.nes",
+    "size": 262160,
     "title": "未命名 ROM 1",
     "author": "",
     "featured": false,
@@ -1291,6 +1474,7 @@
   },
   {
     "file": "aso-armored-scrum-object-j.nes",
+    "size": 65552,
     "title": "ASO战机",
     "author": "ASO - Armored Scrum Object (J)",
     "featured": false,
@@ -1299,6 +1483,7 @@
   },
   {
     "file": "aa-yakyuu-jinsei-itchokusen-j.nes",
+    "size": 1048608,
     "title": "呜呼!野球人生一直线",
     "author": "Aa! Yakyuu Jinsei Itchokusen (J)",
     "featured": false,
@@ -1307,6 +1492,7 @@
   },
   {
     "file": "abadox-j.nes",
+    "size": 786464,
     "title": "阿贝道X(绝对合体)",
     "author": "Abadox (J)",
     "featured": false,
@@ -1315,6 +1501,7 @@
   },
   {
     "file": "abarenbou-tengu-j.nes",
+    "size": 786464,
     "title": "超级乌鸦天狗",
     "author": "Abarenbou Tengu (J)",
     "featured": false,
@@ -1323,6 +1510,7 @@
   },
   {
     "file": "aces-iron-eagle-3-j.nes",
+    "size": 1048608,
     "title": "ACES铁鹰战机3",
     "author": "Aces - Iron Eagle 3 (J)",
     "featured": false,
@@ -1331,6 +1519,7 @@
   },
   {
     "file": "adventures-of-lolo-j.nes",
+    "size": 65552,
     "title": "罗罗大冒险(蛋王子)",
     "author": "Adventures of Lolo (J)",
     "featured": false,
@@ -1339,6 +1528,7 @@
   },
   {
     "file": "after-burner-2-j.nes",
+    "size": 917536,
     "title": "冲破火网2",
     "author": "After Burner 2 (J)",
     "featured": false,
@@ -1347,6 +1537,7 @@
   },
   {
     "file": "ai-sensei-no-oshiete-watashi-no-hoshi-j.nes",
+    "size": 917536,
     "title": "爱先生的占卜之星",
     "author": "Ai Sensei No Oshiete - Watashi No Hoshi (J)",
     "featured": false,
@@ -1355,6 +1546,7 @@
   },
   {
     "file": "aigiina-no-yogen-j.nes",
+    "size": 131088,
     "title": "古代预言",
     "author": "Aigiina No Yogen (J)",
     "featured": false,
@@ -1363,6 +1555,7 @@
   },
   {
     "file": "air-fortress-kuuchuu-yousai-j.nes",
+    "size": 786464,
     "title": "空中大作战(空中要塞)",
     "author": "Air Fortress - Kuuchuu Yousai (J)",
     "featured": false,
@@ -1371,12 +1564,14 @@
   },
   {
     "file": "akira-j.nes",
+    "size": 917536,
     "title": "Akira (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "akumajou-densetsu-j.nes",
+    "size": 917536,
     "title": "恶魔城传说(恶魔城3日版)",
     "author": "Akumajou Densetsu (J)",
     "featured": false,
@@ -1385,6 +1580,7 @@
   },
   {
     "file": "akumajou-dracula-j.nes",
+    "size": 131088,
     "title": "恶魔城日版",
     "author": "Akumajou Dracula (J)",
     "featured": false,
@@ -1393,6 +1589,7 @@
   },
   {
     "file": "akumajou-special-boku-dracula-kun-j.nes",
+    "size": 786464,
     "title": "恶魔城外传-王子传奇(德拉克拉君)",
     "author": "Akumajou Special - Boku Dracula Kun (J)",
     "featured": false,
@@ -1401,6 +1598,7 @@
   },
   {
     "file": "alien-syndrome-j.nes",
+    "size": 786464,
     "title": "霹雳神兵",
     "author": "Alien Syndrome (J)",
     "featured": false,
@@ -1409,6 +1607,7 @@
   },
   {
     "file": "america-oudan-ultra-quiz-shijou-saidai-no-tatakai-j.nes",
+    "size": 1048608,
     "title": "横断美国问答-史上最大的战斗",
     "author": "America Oudan Ultra Quiz - Shijou Saidai No Tatakai (J)",
     "featured": false,
@@ -1417,6 +1616,7 @@
   },
   {
     "file": "american-dream-j.nes",
+    "size": 786464,
     "title": "柏青哥君美国之梦(派金宫君美国之梦)",
     "author": "American Dream (J)",
     "featured": false,
@@ -1425,6 +1625,7 @@
   },
   {
     "file": "ankoku-shinwa-yamatotakeru-densetsu-j.nes",
+    "size": 786464,
     "title": "暗黑神话",
     "author": "Ankoku Shinwa - Yamatotakeru Densetsu (J)",
     "featured": false,
@@ -1433,6 +1634,7 @@
   },
   {
     "file": "antarctic-adventure-j.nes",
+    "size": 24592,
     "title": "南极大冒险",
     "author": "Antarctic Adventure (J)",
     "featured": false,
@@ -1441,6 +1643,7 @@
   },
   {
     "file": "arabian-dream-sharezerd-j.nes",
+    "size": 262160,
     "title": "阿拉伯之梦",
     "author": "Arabian Dream Sharezerd (J)",
     "featured": false,
@@ -1449,12 +1652,14 @@
   },
   {
     "file": "arctic-trained-j.nes",
+    "size": 655904,
     "title": "Arctic (Trained) (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "argos-no-senshi-j.nes",
+    "size": 131088,
     "title": "未来战士",
     "author": "Argos No Senshi (J)",
     "featured": false,
@@ -1463,6 +1668,7 @@
   },
   {
     "file": "argus-j.nes",
+    "size": 49168,
     "title": "百眼巨神",
     "author": "Argus (J)",
     "featured": false,
@@ -1471,6 +1677,7 @@
   },
   {
     "file": "arkanoid-j.nes",
+    "size": 40976,
     "title": "打砖块",
     "author": "Arkanoid (J)",
     "featured": false,
@@ -1479,6 +1686,7 @@
   },
   {
     "file": "arumajiro-j.nes",
+    "size": 917536,
     "title": "仙人掌",
     "author": "Arumajiro (J)",
     "featured": false,
@@ -1487,6 +1695,7 @@
   },
   {
     "file": "asmik-kun-land-j.nes",
+    "size": 262160,
     "title": "阿斯米君世界",
     "author": "Asmik Kun Land (J)",
     "featured": false,
@@ -1495,6 +1704,7 @@
   },
   {
     "file": "astro-robo-sasa-j.nes",
+    "size": 40976,
     "title": "漂浮枪手",
     "author": "Astro Robo Sasa (J)",
     "featured": false,
@@ -1503,6 +1713,7 @@
   },
   {
     "file": "athena-j.nes",
+    "size": 131088,
     "title": "雅典娜",
     "author": "Athena (J)",
     "featured": false,
@@ -1511,6 +1722,7 @@
   },
   {
     "file": "atlantis-no-nazo-j.nes",
+    "size": 66064,
     "title": "亚特兰蒂斯之迷",
     "author": "Atlantis No Nazo (J)",
     "featured": false,
@@ -1519,6 +1731,7 @@
   },
   {
     "file": "attack-animal-gakuen-j.nes",
+    "size": 131088,
     "title": "攻击动物学园",
     "author": "Attack Animal Gakuen (J)",
     "featured": false,
@@ -1527,6 +1740,7 @@
   },
   {
     "file": "b-wings-alt-j.nes",
+    "size": 40976,
     "title": "B计划(ALT版)",
     "author": "B-Wings (Alt) (J)",
     "featured": false,
@@ -1535,6 +1749,7 @@
   },
   {
     "file": "b-wings-j.nes",
+    "size": 40976,
     "title": "B计划(日版)",
     "author": "B-Wings (J)",
     "featured": false,
@@ -1543,6 +1758,7 @@
   },
   {
     "file": "bionic-c.nes",
+    "size": 262160,
     "title": "希特勒复活",
     "author": "BIONIC_C",
     "featured": false,
@@ -1551,6 +1767,7 @@
   },
   {
     "file": "bombman.nes",
+    "size": 41103,
     "title": "炸弹人合集",
     "author": "BOMBMAN",
     "featured": false,
@@ -1559,6 +1776,7 @@
   },
   {
     "file": "buraifig.nes",
+    "size": 65552,
     "title": "无赖战士",
     "author": "BURAIFIG",
     "featured": false,
@@ -1567,6 +1785,7 @@
   },
   {
     "file": "babel-no-tou-j.nes",
+    "size": 65552,
     "title": "巴比伦塔",
     "author": "Babel No Tou (J)",
     "featured": false,
@@ -1575,6 +1794,7 @@
   },
   {
     "file": "baken-hisshougaku-gate-in-j.nes",
+    "size": 262160,
     "title": "马券必胜学",
     "author": "Baken Hisshougaku Gate In (J)",
     "featured": false,
@@ -1583,6 +1803,7 @@
   },
   {
     "file": "bakushou-ai-no-gekijou-j.nes",
+    "size": 262160,
     "title": "爆笑爱之剧场",
     "author": "Bakushou! Ai No Gekijou (J)",
     "featured": false,
@@ -1591,6 +1812,7 @@
   },
   {
     "file": "bakushou-jinsei-gekijou-j.nes",
+    "size": 917536,
     "title": "爆笑人生剧场",
     "author": "Bakushou!! Jinsei Gekijou (J)",
     "featured": false,
@@ -1599,6 +1821,7 @@
   },
   {
     "file": "bakushou-jinsei-gekijou-2-j.nes",
+    "size": 917536,
     "title": "爆笑人生剧场2",
     "author": "Bakushou!! Jinsei Gekijou 2 (J)",
     "featured": false,
@@ -1607,6 +1830,7 @@
   },
   {
     "file": "bakushou-jinsei-gekijou-3-j.nes",
+    "size": 1048608,
     "title": "爆笑人生剧场3",
     "author": "Bakushou!! Jinsei Gekijou 3 (J)",
     "featured": false,
@@ -1615,6 +1839,7 @@
   },
   {
     "file": "ballblazer-j.nes",
+    "size": 131088,
     "title": "滚球大战",
     "author": "Ballblazer (J)",
     "featured": false,
@@ -1623,6 +1848,7 @@
   },
   {
     "file": "balloon-fight-ju.nes",
+    "size": 24592,
     "title": "气球战士(气球大战)",
     "author": "Balloon Fight (JU)",
     "featured": false,
@@ -1631,6 +1857,7 @@
   },
   {
     "file": "baltron-j.nes",
+    "size": 40976,
     "title": "巴特龙战机",
     "author": "Baltron (J)",
     "featured": false,
@@ -1639,6 +1866,7 @@
   },
   {
     "file": "banana-j.nes",
+    "size": 65552,
     "title": "香蕉",
     "author": "Banana (J)",
     "featured": false,
@@ -1647,6 +1875,7 @@
   },
   {
     "file": "bananan-ouji-no-daibouken-j.nes",
+    "size": 262160,
     "title": "香蕉王子大冒险",
     "author": "Bananan Ouji No Daibouken (J)",
     "featured": false,
@@ -1655,6 +1884,7 @@
   },
   {
     "file": "bar-games-j.nes",
+    "size": 65552,
     "title": "水果狸",
     "author": "Bar Games (J)",
     "featured": false,
@@ -1663,6 +1893,7 @@
   },
   {
     "file": "baseball-j.nes",
+    "size": 24592,
     "title": "棒球",
     "author": "Baseball (J)",
     "featured": false,
@@ -1671,6 +1902,7 @@
   },
   {
     "file": "bat-tery-j.nes",
+    "size": 131088,
     "title": "魔境铁人",
     "author": "Bat & Tery (J)",
     "featured": false,
@@ -1679,6 +1911,7 @@
   },
   {
     "file": "batman-j.nes",
+    "size": 262160,
     "title": "蝙蝠侠",
     "author": "Batman (J)",
     "featured": false,
@@ -1687,6 +1920,7 @@
   },
   {
     "file": "battle-city-j.nes",
+    "size": 24592,
     "title": "坦克大战",
     "author": "Battle City (J)",
     "featured": false,
@@ -1695,6 +1929,7 @@
   },
   {
     "file": "battle-fleet-j.nes",
+    "size": 262160,
     "title": "大海战",
     "author": "Battle Fleet (J)",
     "featured": false,
@@ -1703,6 +1938,7 @@
   },
   {
     "file": "battle-storm-j.nes",
+    "size": 262160,
     "title": "战斗风暴",
     "author": "Battle Storm (J)",
     "featured": false,
@@ -1711,6 +1947,7 @@
   },
   {
     "file": "battletoads-double-dragon-u.nes",
+    "size": 262160,
     "title": "忍者蛙与双截龙",
     "author": "Battletoads Double Dragon (U)",
     "featured": false,
@@ -1719,6 +1956,7 @@
   },
   {
     "file": "be-bop-highschool-koukousei-gokuraku-densetsu-j.nes",
+    "size": 262160,
     "title": "高校生极乐传说",
     "author": "Be-Bop-Highschool - Koukousei Gokuraku Densetsu (J)",
     "featured": false,
@@ -1727,6 +1965,7 @@
   },
   {
     "file": "best-play-pro-yakyuu-j.nes",
+    "size": 688160,
     "title": "亚斯基职业野球",
     "author": "Best Play - Pro Yakyuu (J)",
     "featured": false,
@@ -1735,6 +1974,7 @@
   },
   {
     "file": "binary-land-j.nes",
+    "size": 24592,
     "title": "企鹅先生",
     "author": "Binary Land (J)",
     "featured": false,
@@ -1743,6 +1983,7 @@
   },
   {
     "file": "bio-miracle-bokutte-upa-j.nes",
+    "size": 786464,
     "title": "超级宝宝",
     "author": "Bio Miracle Bokutte Upa (J)",
     "featured": false,
@@ -1751,6 +1992,7 @@
   },
   {
     "file": "bird-week-j.nes",
+    "size": 24592,
     "title": "鸟的故事",
     "author": "Bird Week (J)",
     "featured": false,
@@ -1759,6 +2001,7 @@
   },
   {
     "file": "black-bass-2-the-j.nes",
+    "size": 131088,
     "title": "黑巴斯2",
     "author": "Black Bass 2, The (J)",
     "featured": false,
@@ -1767,6 +2010,7 @@
   },
   {
     "file": "black-bass-the-j.nes",
+    "size": 131088,
     "title": "黑巴斯",
     "author": "Black Bass, The (J)",
     "featured": false,
@@ -1775,6 +2019,7 @@
   },
   {
     "file": "blue-marlin-the-j.nes",
+    "size": 786464,
     "title": "蓝色马林",
     "author": "Blue Marlin, The (J)",
     "featured": false,
@@ -1783,6 +2028,7 @@
   },
   {
     "file": "bokosuka-wars-j.nes",
+    "size": 40976,
     "title": "武士救美",
     "author": "Bokosuka Wars (J)",
     "featured": false,
@@ -1791,6 +2037,7 @@
   },
   {
     "file": "bomber-king-j.nes",
+    "size": 131088,
     "title": "炸弹之王",
     "author": "Bomber King (J)",
     "featured": false,
@@ -1799,6 +2046,7 @@
   },
   {
     "file": "bomber-man-j.nes",
+    "size": 24592,
     "title": "炸弹人",
     "author": "Bomber Man (J)",
     "featured": false,
@@ -1807,6 +2055,7 @@
   },
   {
     "file": "bomber-man-2-j.nes",
+    "size": 131088,
     "title": "炸弹人2",
     "author": "Bomber Man 2 (J)",
     "featured": false,
@@ -1815,6 +2064,7 @@
   },
   {
     "file": "bomberman-2-u.nes",
+    "size": 131088,
     "title": "炸弹人2(美版)",
     "author": "Bomberman 2 (U)",
     "featured": false,
@@ -1823,6 +2073,7 @@
   },
   {
     "file": "booby-kids-j.nes",
+    "size": 131088,
     "title": "时空小子",
     "author": "Booby Kids (J)",
     "featured": false,
@@ -1831,6 +2082,7 @@
   },
   {
     "file": "boulder-dash-j.nes",
+    "size": 65552,
     "title": "新地底探险",
     "author": "Boulder Dash (J)",
     "featured": false,
@@ -1839,6 +2091,7 @@
   },
   {
     "file": "brainseries13in1.nes",
+    "size": 1048592,
     "title": "13合1(内含烟山坦克大全，即可消草的90坦克)",
     "author": "BrainSeries13in1",
     "featured": false,
@@ -1847,6 +2100,7 @@
   },
   {
     "file": "bucky-o-hare-j.nes",
+    "size": 786464,
     "title": "外星战将",
     "author": "Bucky O'Hare (J)",
     "featured": false,
@@ -1855,6 +2109,7 @@
   },
   {
     "file": "buggy-popper-j.nes",
+    "size": 65552,
     "title": "公路追逐赛",
     "author": "Buggy Popper (J)",
     "featured": false,
@@ -1863,6 +2118,7 @@
   },
   {
     "file": "burger-time-j.nes",
+    "size": 24592,
     "title": "汉堡时代",
     "author": "Burger Time (J)",
     "featured": false,
@@ -1871,6 +2127,7 @@
   },
   {
     "file": "caveman.nes",
+    "size": 262160,
     "title": "原始人运动会",
     "author": "CAVEMAN",
     "featured": false,
@@ -1879,6 +2136,7 @@
   },
   {
     "file": "contra.nes",
+    "size": 131088,
     "title": "魂斗罗",
     "author": "CONTRA",
     "featured": false,
@@ -1887,6 +2145,7 @@
   },
   {
     "file": "cadillac-j.nes",
+    "size": 65552,
     "title": "扑克方块",
     "author": "Cadillac (J)",
     "featured": false,
@@ -1895,6 +2154,7 @@
   },
   {
     "file": "captain-ed-j.nes",
+    "size": 786464,
     "title": "ED上尉",
     "author": "Captain Ed (J)",
     "featured": false,
@@ -1903,6 +2163,7 @@
   },
   {
     "file": "captain-silver-j.nes",
+    "size": 786464,
     "title": "银色上尉",
     "author": "Captain Silver (J)",
     "featured": false,
@@ -1911,6 +2172,7 @@
   },
   {
     "file": "captain-tsubasa-j.nes",
+    "size": 786464,
     "title": "天使之翼(足球小将)",
     "author": "Captain Tsubasa (J)",
     "featured": false,
@@ -1919,6 +2181,7 @@
   },
   {
     "file": "captain-tsubasa-vol-2-super-striker-j.nes",
+    "size": 393232,
     "title": "天使之翼2(足球小将2)",
     "author": "Captain Tsubasa Vol 2 - Super Striker (J)",
     "featured": false,
@@ -1927,6 +2190,7 @@
   },
   {
     "file": "castle-excellent-j.nes",
+    "size": 589856,
     "title": "精致之城(城堡探险)",
     "author": "Castle Excellent (J)",
     "featured": false,
@@ -1935,6 +2199,7 @@
   },
   {
     "file": "castle-quest-j.nes",
+    "size": 786464,
     "title": "勇者之城",
     "author": "Castle Quest (J)",
     "featured": false,
@@ -1943,6 +2208,7 @@
   },
   {
     "file": "cattou-ninden-teyandee-j.nes",
+    "size": 786464,
     "title": "功夫猫党(忍者猫)",
     "author": "Cattou Ninden Teyandee (J)",
     "featured": false,
@@ -1951,12 +2217,14 @@
   },
   {
     "file": "chack-n-pop-j.nes",
+    "size": 24592,
     "title": "Chack 'n Pop (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "challenger-j.nes",
+    "size": 40976,
     "title": "列车寻宝",
     "author": "Challenger (J)",
     "featured": false,
@@ -1965,6 +2233,7 @@
   },
   {
     "file": "championship-bowling-j.nes",
+    "size": 589856,
     "title": "保龄球大赛",
     "author": "Championship Bowling (J)",
     "featured": false,
@@ -1973,6 +2242,7 @@
   },
   {
     "file": "championship-lode-runner-j.nes",
+    "size": 24592,
     "title": "金块(淘金者)",
     "author": "Championship Lode Runner (J)",
     "featured": false,
@@ -1981,6 +2251,7 @@
   },
   {
     "file": "chester-field-j.nes",
+    "size": 131088,
     "title": "暗黑之挑战",
     "author": "Chester Field (J)",
     "featured": false,
@@ -1989,6 +2260,7 @@
   },
   {
     "file": "chibi-maruko-chan-uki-uki-shopping-j.nes",
+    "size": 786464,
     "title": "樱桃小丸子",
     "author": "Chibi Maruko Chan - Uki Uki Shopping (J)",
     "featured": false,
@@ -1997,12 +2269,14 @@
   },
   {
     "file": "chiisana-obake-atchi-sotchi-kotchi-j.nes",
+    "size": 786464,
     "title": "Chiisana Obake - Atchi Sotchi Kotchi (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "chip-to-dale-no-daisakusen-j.nes",
+    "size": 786464,
     "title": "松鼠大作战",
     "author": "Chip To Dale No Daisakusen (J)",
     "featured": false,
@@ -2011,6 +2285,7 @@
   },
   {
     "file": "chip-to-dale-no-daisakusen-2-j.nes",
+    "size": 262160,
     "title": "松鼠大作战2",
     "author": "Chip To Dale No Daisakusen 2 (J)",
     "featured": false,
@@ -2019,6 +2294,7 @@
   },
   {
     "file": "chitei-senkuu-bazorudaa-j.nes",
+    "size": 262160,
     "title": "地底大作战(地底战记)",
     "author": "Chitei Senkuu - Bazorudaa (J)",
     "featured": false,
@@ -2027,6 +2303,7 @@
   },
   {
     "file": "chiyo-no-fuji-no-ooichou-j.nes",
+    "size": 262160,
     "title": "千代大相扑(千代富士之大银杏)",
     "author": "Chiyo No Fuji No Ooichou (J)",
     "featured": false,
@@ -2035,6 +2312,7 @@
   },
   {
     "file": "choplifter-j.nes",
+    "size": 49168,
     "title": "直升机大战",
     "author": "Choplifter (J)",
     "featured": false,
@@ -2043,6 +2321,7 @@
   },
   {
     "file": "choujikuu-yousai-macross-j.nes",
+    "size": 24592,
     "title": "超时空要塞",
     "author": "Choujikuu Yousai - Macross (J)",
     "featured": false,
@@ -2051,6 +2330,7 @@
   },
   {
     "file": "choujin-ookami-senki-warwolf-j.nes",
+    "size": 262160,
     "title": "超人狼战记",
     "author": "Choujin Ookami Senki - Warwolf (J)",
     "featured": false,
@@ -2059,6 +2339,7 @@
   },
   {
     "file": "choujin-sentai-jetman-j.nes",
+    "size": 262160,
     "title": "鸟人战队",
     "author": "Choujin Sentai - Jetman (J)",
     "featured": false,
@@ -2067,6 +2348,7 @@
   },
   {
     "file": "chouwakusei-senki-metafight-j.nes",
+    "size": 262160,
     "title": "超惑星战记(超行星战记)",
     "author": "Chouwakusei Senki - Metafight (J)",
     "featured": false,
@@ -2075,6 +2357,7 @@
   },
   {
     "file": "chuugoku-janshi-story-tonpuu-j.nes",
+    "size": 262160,
     "title": "东风-中国麻将",
     "author": "Chuugoku Janshi Story Tonpuu (J)",
     "featured": false,
@@ -2083,6 +2366,7 @@
   },
   {
     "file": "chuuka-taisen-j.nes",
+    "size": 262160,
     "title": "中华大仙",
     "author": "Chuuka Taisen (J)",
     "featured": false,
@@ -2091,6 +2375,7 @@
   },
   {
     "file": "circus-charlie-j.nes",
+    "size": 24592,
     "title": "马戏团",
     "author": "Circus Charlie (J)",
     "featured": false,
@@ -2099,6 +2384,7 @@
   },
   {
     "file": "city-adventure-touch-mystery-of-triangle-j.nes",
+    "size": 131088,
     "title": "城市冒险-接触",
     "author": "City Adventure Touch - Mystery of Triangle (J)",
     "featured": false,
@@ -2107,6 +2393,7 @@
   },
   {
     "file": "clu-clu-land-ju.nes",
+    "size": 24592,
     "title": "CLU CLU 世界",
     "author": "Clu Clu Land (JU)",
     "featured": false,
@@ -2115,6 +2402,7 @@
   },
   {
     "file": "cobra-command-j.nes",
+    "size": 262160,
     "title": "眼镜蛇指挥官",
     "author": "Cobra Command (J)",
     "featured": false,
@@ -2123,6 +2411,7 @@
   },
   {
     "file": "commando-j.nes",
+    "size": 131088,
     "title": "战场之狼",
     "author": "Commando (J)",
     "featured": false,
@@ -2131,6 +2420,7 @@
   },
   {
     "file": "cosmic-epsilon-j.nes",
+    "size": 917536,
     "title": "宇宙战机",
     "author": "Cosmic Epsilon (J)",
     "featured": false,
@@ -2139,6 +2429,7 @@
   },
   {
     "file": "cosmo-genesis-j.nes",
+    "size": 589856,
     "title": "宇宙创世纪",
     "author": "Cosmo Genesis (J)",
     "featured": false,
@@ -2147,6 +2438,7 @@
   },
   {
     "file": "crayon-shin-chan-j.nes",
+    "size": 262160,
     "title": "蜡笔小新",
     "author": "Crayon Shin Chan (J)",
     "featured": false,
@@ -2155,6 +2447,7 @@
   },
   {
     "file": "crazy-climber-j.nes",
+    "size": 262160,
     "title": "疯狂爬梯工",
     "author": "Crazy Climber (J)",
     "featured": false,
@@ -2163,6 +2456,7 @@
   },
   {
     "file": "crisis-force-j.nes",
+    "size": 262160,
     "title": "帝国战机",
     "author": "Crisis Force (J)",
     "featured": false,
@@ -2171,6 +2465,7 @@
   },
   {
     "file": "cross-fire-j.nes",
+    "size": 262160,
     "title": "脱狱2(血火纵横)",
     "author": "Cross Fire (J)",
     "featured": false,
@@ -2179,6 +2474,7 @@
   },
   {
     "file": "cycle-race-road-man-j.nes",
+    "size": 262160,
     "title": "单车王",
     "author": "Cycle Race - Road Man (J)",
     "featured": false,
@@ -2187,6 +2483,7 @@
   },
   {
     "file": "darkman.nes",
+    "size": 262160,
     "title": "上海教父",
     "author": "DARKMAN",
     "featured": false,
@@ -2195,6 +2492,7 @@
   },
   {
     "file": "dd1.nes",
+    "size": 262288,
     "title": "双截龙",
     "author": "DD1",
     "featured": false,
@@ -2203,6 +2501,7 @@
   },
   {
     "file": "daiku-no-gen-san-j.nes",
+    "size": 262160,
     "title": "大力工头-阿源君",
     "author": "Daiku No Gen San (J)",
     "featured": false,
@@ -2211,6 +2510,7 @@
   },
   {
     "file": "daiku-no-gen-san-2-akage-no-dan-no-gyakushuu-j.nes",
+    "size": 1048608,
     "title": "大力工头-阿源君2",
     "author": "Daiku No Gen San 2 - Akage No Dan No Gyakushuu (J)",
     "featured": false,
@@ -2219,6 +2519,7 @@
   },
   {
     "file": "daimeiro-meikyuu-no-tatsujin-j.nes",
+    "size": 262160,
     "title": "大迷路",
     "author": "Daimeiro - Meikyuu No Tatsujin (J)",
     "featured": false,
@@ -2227,6 +2528,7 @@
   },
   {
     "file": "daiva-imperial-of-nirsartia-j.nes",
+    "size": 131088,
     "title": "超人迪瓦",
     "author": "Daiva - Imperial of Nirsartia (J)",
     "featured": false,
@@ -2235,6 +2537,7 @@
   },
   {
     "file": "dark-lord-j.nes",
+    "size": 917536,
     "title": "黑暗统治者",
     "author": "Dark Lord (J)",
     "featured": false,
@@ -2243,6 +2546,7 @@
   },
   {
     "file": "datach-battle-rush-j.nes",
+    "size": 262160,
     "title": "条码版战斗机器人",
     "author": "Datach Battle Rush (J)",
     "featured": false,
@@ -2251,6 +2555,7 @@
   },
   {
     "file": "datach-crayon-shin-chan-j.nes",
+    "size": 262160,
     "title": "蜡笔小新条码版",
     "author": "Datach Crayon Shin Chan (J)",
     "featured": false,
@@ -2259,6 +2564,7 @@
   },
   {
     "file": "datach-dragon-ball-z-gekitou-tenkaichi-budou-kai-j.nes",
+    "size": 262160,
     "title": "龙珠Z-激斗天下一武道会",
     "author": "Datach Dragon Ball Z - Gekitou Tenkaichi Budou Kai (J)",
     "featured": false,
@@ -2267,6 +2573,7 @@
   },
   {
     "file": "datach-gundam-wars-j.nes",
+    "size": 262160,
     "title": "SD高达条码版",
     "author": "Datach Gundam Wars (J)",
     "featured": false,
@@ -2275,6 +2582,7 @@
   },
   {
     "file": "datach-j-league-super-top-players-j.nes",
+    "size": 262160,
     "title": "J联盟条码足球",
     "author": "Datach J League - Super Top Players (J)",
     "featured": false,
@@ -2283,6 +2591,7 @@
   },
   {
     "file": "datach-ultraman-kurabu-j.nes",
+    "size": 786464,
     "title": "超人俱乐部",
     "author": "Datach Ultraman Kurabu (J)",
     "featured": false,
@@ -2291,6 +2600,7 @@
   },
   {
     "file": "deblock-j.nes",
+    "size": 589856,
     "title": "星际俄罗斯方块",
     "author": "Deblock (J)",
     "featured": false,
@@ -2299,6 +2609,7 @@
   },
   {
     "file": "dengeki-big-bang-j.nes",
+    "size": 786464,
     "title": "电击作战",
     "author": "Dengeki - Big Bang! (J)",
     "featured": false,
@@ -2307,6 +2618,7 @@
   },
   {
     "file": "densetsu-no-kishi-elrond-j.nes",
+    "size": 131088,
     "title": "传说骑士",
     "author": "Densetsu No Kishi - Elrond (J)",
     "featured": false,
@@ -2315,6 +2627,7 @@
   },
   {
     "file": "devil-man-j.nes",
+    "size": 786464,
     "title": "恶魔人",
     "author": "Devil Man (J)",
     "featured": false,
@@ -2323,6 +2636,7 @@
   },
   {
     "file": "devil-world-alt-j.nes",
+    "size": 24592,
     "title": "恶魔世界(ALT版)",
     "author": "Devil World (Alt) (J)",
     "featured": false,
@@ -2331,6 +2645,7 @@
   },
   {
     "file": "devil-world-j.nes",
+    "size": 24592,
     "title": "恶魔世界(日版)",
     "author": "Devil World (J)",
     "featured": false,
@@ -2339,12 +2654,14 @@
   },
   {
     "file": "die-hard-j.nes",
+    "size": 786464,
     "title": "Die Hard (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "dig-dug-j.nes",
+    "size": 24592,
     "title": "挖金子(打空气，叮当)",
     "author": "Dig Dug (J)",
     "featured": false,
@@ -2353,6 +2670,7 @@
   },
   {
     "file": "dig-dug-2-j.nes",
+    "size": 40976,
     "title": "挖金子2(打空气2，叮当2)",
     "author": "Dig Dug 2 (J)",
     "featured": false,
@@ -2361,6 +2679,7 @@
   },
   {
     "file": "digital-devil-monogatari-megami-tensei-j.nes",
+    "size": 786464,
     "title": "女神转生",
     "author": "Digital Devil Monogatari - Megami Tensei (J)",
     "featured": false,
@@ -2369,6 +2688,7 @@
   },
   {
     "file": "doki-doki-yuuenchi-j.nes",
+    "size": 786464,
     "title": "游园地",
     "author": "Doki! Doki! Yuuenchi (J)",
     "featured": false,
@@ -2377,6 +2697,7 @@
   },
   {
     "file": "don-doko-don-j.nes",
+    "size": 917536,
     "title": "工人战记(咚咚)",
     "author": "Don Doko Don (J)",
     "featured": false,
@@ -2385,6 +2706,7 @@
   },
   {
     "file": "don-doko-don-2-j.nes",
+    "size": 917536,
     "title": "工人战记2(咚咚2)",
     "author": "Don Doko Don 2 (J)",
     "featured": false,
@@ -2393,6 +2715,7 @@
   },
   {
     "file": "donald-duck-j.nes",
+    "size": 786464,
     "title": "唐老鸭",
     "author": "Donald Duck (J)",
     "featured": false,
@@ -2401,6 +2724,7 @@
   },
   {
     "file": "donald-land-j.nes",
+    "size": 786464,
     "title": "麦当劳世界",
     "author": "Donald Land (J)",
     "featured": false,
@@ -2409,6 +2733,7 @@
   },
   {
     "file": "donkey-kong-ju.nes",
+    "size": 24592,
     "title": "大金刚",
     "author": "Donkey Kong (JU)",
     "featured": false,
@@ -2417,6 +2742,7 @@
   },
   {
     "file": "donkey-kong-3-jue.nes",
+    "size": 24592,
     "title": "大金刚3",
     "author": "Donkey Kong 3 (JUE)",
     "featured": false,
@@ -2425,6 +2751,7 @@
   },
   {
     "file": "donkey-kong-jr-ju.nes",
+    "size": 24592,
     "title": "大金刚JR",
     "author": "Donkey Kong Jr (JU)",
     "featured": false,
@@ -2433,6 +2760,7 @@
   },
   {
     "file": "door-door-j.nes",
+    "size": 24592,
     "title": "门门",
     "author": "Door Door (J)",
     "featured": false,
@@ -2441,6 +2769,7 @@
   },
   {
     "file": "doraemon-j.nes",
+    "size": 688160,
     "title": "机器猫小叮当冒险",
     "author": "Doraemon (J)",
     "featured": false,
@@ -2449,6 +2778,7 @@
   },
   {
     "file": "double-dragon-u.nes",
+    "size": 262160,
     "title": "双截龙1(美版)",
     "author": "Double Dragon (U)",
     "featured": false,
@@ -2457,6 +2787,7 @@
   },
   {
     "file": "double-dragon-2-the-revenge-j.nes",
+    "size": 786464,
     "title": "双截龙2",
     "author": "Double Dragon 2 - The Revenge (J)",
     "featured": false,
@@ -2465,6 +2796,7 @@
   },
   {
     "file": "double-dragon-3-the-rosetta-stone-j.nes",
+    "size": 786464,
     "title": "双截龙3",
     "author": "Double Dragon 3 - The Rosetta Stone (J)",
     "featured": false,
@@ -2473,6 +2805,7 @@
   },
   {
     "file": "double-dragon-3-the-sacred-stones-u.nes",
+    "size": 262160,
     "title": "双截龙3(美版)",
     "author": "Double Dragon 3 - The Sacred Stones (U)",
     "featured": false,
@@ -2481,6 +2814,7 @@
   },
   {
     "file": "dough-boy-j.nes",
+    "size": 40976,
     "title": "美国大兵",
     "author": "Dough Boy (J)",
     "featured": false,
@@ -2489,6 +2823,7 @@
   },
   {
     "file": "downtown-nekketsu-koushin-kyoku-soreyuke-daiundoukai-j.nes",
+    "size": 786464,
     "title": "热血进行曲",
     "author": "Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (J)",
     "featured": false,
@@ -2497,6 +2832,7 @@
   },
   {
     "file": "downtown-nekketsu-monogatari-j.nes",
+    "size": 786464,
     "title": "热血物语",
     "author": "Downtown - Nekketsu Monogatari (J)",
     "featured": false,
@@ -2505,6 +2841,7 @@
   },
   {
     "file": "dragon-ball-shen-ron-no-nazo-j.nes",
+    "size": 688160,
     "title": "龙珠-神龙之迷",
     "author": "Dragon Ball - Shen Ron No Nazo (J)",
     "featured": false,
@@ -2513,6 +2850,7 @@
   },
   {
     "file": "dragon-ball-2-daimaou-fukkatsu-j.nes",
+    "size": 786464,
     "title": "龙珠2-大魔王复活",
     "author": "Dragon Ball 2 - Daimaou Fukkatsu (J)",
     "featured": false,
@@ -2521,6 +2859,7 @@
   },
   {
     "file": "dragon-ball-3-gokuu-den-j.nes",
+    "size": 393232,
     "title": "龙珠3-悟空传",
     "author": "Dragon Ball 3 - Gokuu Den (J)",
     "featured": false,
@@ -2529,6 +2868,7 @@
   },
   {
     "file": "dragon-ball-z-kyoushuu-saiya-jin-j.nes",
+    "size": 1048608,
     "title": "龙珠Z-强袭塞亚人",
     "author": "Dragon Ball Z - Kyoushuu! Saiya Jin (J)",
     "featured": false,
@@ -2537,6 +2877,7 @@
   },
   {
     "file": "dragon-ball-z-2-gekishin-freeza-j.nes",
+    "size": 1048608,
     "title": "龙珠Z2-激斗弗利撒",
     "author": "Dragon Ball Z 2 - Gekishin Freeza! (J)",
     "featured": false,
@@ -2545,6 +2886,7 @@
   },
   {
     "file": "dragon-ball-z-3-ressen-jinzou-ningen-j.nes",
+    "size": 1048608,
     "title": "龙珠Z3-烈战人造人",
     "author": "Dragon Ball Z 3 - Ressen Jinzou Ningen (J)",
     "featured": false,
@@ -2553,6 +2895,7 @@
   },
   {
     "file": "dragon-ball-z-gaiden-saiya-jin-zetsumetsu-keikaku-j.nes",
+    "size": 1048608,
     "title": "龙珠Z外传-塞亚人灭绝计划",
     "author": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (J)",
     "featured": false,
@@ -2561,6 +2904,7 @@
   },
   {
     "file": "dragon-buster-j.nes",
+    "size": 688160,
     "title": "倚天屠龙记",
     "author": "Dragon Buster (J)",
     "featured": false,
@@ -2569,6 +2913,7 @@
   },
   {
     "file": "dragon-buster-2-yami-no-fuuin-j.nes",
+    "size": 196624,
     "title": "倚天屠龙记2",
     "author": "Dragon Buster 2 - Yami No Fuuin (J)",
     "featured": false,
@@ -2577,6 +2922,7 @@
   },
   {
     "file": "dragon-fighter-j.nes",
+    "size": 786464,
     "title": "龙战士",
     "author": "Dragon Fighter (J)",
     "featured": false,
@@ -2585,6 +2931,7 @@
   },
   {
     "file": "dragon-ninja-j.nes",
+    "size": 786464,
     "title": "龙之忍者",
     "author": "Dragon Ninja (J)",
     "featured": false,
@@ -2593,6 +2940,7 @@
   },
   {
     "file": "dragon-quest-j.nes",
+    "size": 589856,
     "title": "勇者斗恶龙",
     "author": "Dragon Quest (J)",
     "featured": false,
@@ -2601,6 +2949,7 @@
   },
   {
     "file": "dragon-quest-2-j.nes",
+    "size": 131088,
     "title": "勇者斗恶龙2",
     "author": "Dragon Quest 2 (J)",
     "featured": false,
@@ -2609,6 +2958,7 @@
   },
   {
     "file": "dragon-scroll-yomigaerishi-maryuu-j.nes",
+    "size": 786464,
     "title": "复活魔龙(龙之卷轴)",
     "author": "Dragon Scroll - Yomigaerishi Maryuu (J)",
     "featured": false,
@@ -2617,6 +2967,7 @@
   },
   {
     "file": "dragon-slayer-4-drasle-family-j.nes",
+    "size": 196624,
     "title": "屠龙记4",
     "author": "Dragon Slayer 4 - Drasle Family (J)",
     "featured": false,
@@ -2625,6 +2976,7 @@
   },
   {
     "file": "dragon-spirit-aratanaru-densetsu-j.nes",
+    "size": 786464,
     "title": "龙魂",
     "author": "Dragon Spirit - Aratanaru Densetsu (J)",
     "featured": false,
@@ -2633,6 +2985,7 @@
   },
   {
     "file": "dragon-unit-j.nes",
+    "size": 131088,
     "title": "龙之军团(龙之城堡)",
     "author": "Dragon Unit (J)",
     "featured": false,
@@ -2641,6 +2994,7 @@
   },
   {
     "file": "dragonlance-dragons-of-flame-j.nes",
+    "size": 786464,
     "title": "龙之矛-龙的火焰",
     "author": "Dragonlance - Dragons of Flame (J)",
     "featured": false,
@@ -2649,6 +3003,7 @@
   },
   {
     "file": "dream-master-j.nes",
+    "size": 1048608,
     "title": "梦境之王",
     "author": "Dream Master (J)",
     "featured": false,
@@ -2657,6 +3012,7 @@
   },
   {
     "file": "duck-hunt-jue.nes",
+    "size": 24592,
     "title": "打猎(猎鸭记)",
     "author": "Duck Hunt (JUE)",
     "featured": false,
@@ -2665,6 +3021,7 @@
   },
   {
     "file": "duck-tales-2-j.nes",
+    "size": 131088,
     "title": "唐老鸭梦冒险2",
     "author": "Duck Tales 2 (J)",
     "featured": false,
@@ -2673,6 +3030,7 @@
   },
   {
     "file": "dynamite-batman-j.nes",
+    "size": 393232,
     "title": "蝙蝠侠2",
     "author": "Dynamite Batman (J)",
     "featured": false,
@@ -2681,6 +3039,7 @@
   },
   {
     "file": "dynamite-bowl-j.nes",
+    "size": 589856,
     "title": "爆炸保龄球",
     "author": "Dynamite Bowl (J)",
     "featured": false,
@@ -2689,6 +3048,7 @@
   },
   {
     "file": "eggerland-meikyuu-no-fukkatsu-j.nes",
+    "size": 688160,
     "title": "罗罗大冒险日版(蛋王子日版)",
     "author": "Eggerland - Meikyuu No Fukkatsu (J)",
     "featured": false,
@@ -2697,6 +3057,7 @@
   },
   {
     "file": "egypt-j.nes",
+    "size": 589856,
     "title": "埃及",
     "author": "Egypt (J)",
     "featured": false,
@@ -2705,6 +3066,7 @@
   },
   {
     "file": "eigo-asobi-j.nes",
+    "size": 24592,
     "title": "大力水手学英语",
     "author": "Eigo Asobi (J)",
     "featured": false,
@@ -2713,6 +3075,7 @@
   },
   {
     "file": "elevator-action-j.nes",
+    "size": 40976,
     "title": "电梯迷宫",
     "author": "Elevator Action (J)",
     "featured": false,
@@ -2721,12 +3084,14 @@
   },
   {
     "file": "elysion-j.nes",
+    "size": 786464,
     "title": "Elysion (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "empire-strikes-back-the-j.nes",
+    "size": 1048608,
     "title": "星球大战-帝国反击战",
     "author": "Empire Strikes Back, The (J)",
     "featured": false,
@@ -2735,6 +3100,7 @@
   },
   {
     "file": "erika-to-satoru-no-yume-bouken-j.nes",
+    "size": 786464,
     "title": "少年梦冒险",
     "author": "Erika To Satoru No Yume Bouken (J)",
     "featured": false,
@@ -2743,6 +3109,7 @@
   },
   {
     "file": "ernarc-no-zaihou-j.nes",
+    "size": 131088,
     "title": "艾鲁那财宝",
     "author": "Ernarc No Zaihou (J)",
     "featured": false,
@@ -2751,6 +3118,7 @@
   },
   {
     "file": "esper-bouken-tai-j.nes",
+    "size": 786464,
     "title": "冒险队",
     "author": "Esper Bouken Tai (J)",
     "featured": false,
@@ -2759,6 +3127,7 @@
   },
   {
     "file": "excitebike-ju.nes",
+    "size": 24592,
     "title": "越野摩托车(火暴机车赛)",
     "author": "Excitebike (JU)",
     "featured": false,
@@ -2767,6 +3136,7 @@
   },
   {
     "file": "exciting-boxing-j.nes",
+    "size": 786464,
     "title": "火暴拳击",
     "author": "Exciting Boxing (J)",
     "featured": false,
@@ -2775,6 +3145,7 @@
   },
   {
     "file": "exciting-rally-world-rally-championship-j.nes",
+    "size": 786464,
     "title": "火暴拉力赛车",
     "author": "Exciting Rally - World Rally Championship (J)",
     "featured": false,
@@ -2783,6 +3154,7 @@
   },
   {
     "file": "exed-exes-j.nes",
+    "size": 40976,
     "title": "太空大战",
     "author": "Exed Exes (J)",
     "featured": false,
@@ -2791,6 +3163,7 @@
   },
   {
     "file": "exerion-j.nes",
+    "size": 24592,
     "title": "火凤凰",
     "author": "Exerion (J)",
     "featured": false,
@@ -2799,6 +3172,7 @@
   },
   {
     "file": "f-1-race-j.nes",
+    "size": 24592,
     "title": "F1公路赛车",
     "author": "F-1 Race (J)",
     "featured": false,
@@ -2807,6 +3181,7 @@
   },
   {
     "file": "f4152c.nes",
+    "size": 524304,
     "title": "忍者神龟3",
     "author": "F4152C",
     "featured": false,
@@ -2815,6 +3190,7 @@
   },
   {
     "file": "fc-genjin-freakthoropus-computerus-j.nes",
+    "size": 393232,
     "title": "FC原人",
     "author": "FC Genjin - Freakthoropus Computerus (J)",
     "featured": false,
@@ -2823,6 +3199,7 @@
   },
   {
     "file": "famicom-disk-system-bios-rom-j.nes",
+    "size": 40976,
     "title": "FC磁碟机BIOS文件",
     "author": "Famicom Disk System BIOS ROM (J)",
     "featured": false,
@@ -2831,6 +3208,7 @@
   },
   {
     "file": "famicom-igo-nyuumon-j.nes",
+    "size": 688160,
     "title": "家庭围棋入门",
     "author": "Famicom Igo Nyuumon (J)",
     "featured": false,
@@ -2839,6 +3217,7 @@
   },
   {
     "file": "famicom-jump-eiyuu-retsuden-j.nes",
+    "size": 393232,
     "title": "英雄列传",
     "author": "Famicom Jump - Eiyuu Retsuden (J)",
     "featured": false,
@@ -2847,6 +3226,7 @@
   },
   {
     "file": "famicom-wars-j.nes",
+    "size": 786464,
     "title": "任天堂战争",
     "author": "Famicom Wars (J)",
     "featured": false,
@@ -2855,6 +3235,7 @@
   },
   {
     "file": "famicom-yakyuu-ban-j.nes",
+    "size": 262160,
     "title": "任天堂棒球",
     "author": "Famicom Yakyuu Ban (J)",
     "featured": false,
@@ -2863,6 +3244,7 @@
   },
   {
     "file": "family-basic-ver-3-j.nes",
+    "size": 40976,
     "title": "FC的Basic语言文件",
     "author": "Family BASIC (Ver 3) (J)",
     "featured": false,
@@ -2871,6 +3253,7 @@
   },
   {
     "file": "family-boxing-j.nes",
+    "size": 131088,
     "title": "家庭拳击赛",
     "author": "Family Boxing (J)",
     "featured": false,
@@ -2879,6 +3262,7 @@
   },
   {
     "file": "family-circuit-j.nes",
+    "size": 688160,
     "title": "家庭赛车",
     "author": "Family Circuit (J)",
     "featured": false,
@@ -2887,6 +3271,7 @@
   },
   {
     "file": "family-computer-othello-j.nes",
+    "size": 589856,
     "title": "家庭五子棋(奥赛罗棋)",
     "author": "Family Computer Othello (J)",
     "featured": false,
@@ -2895,6 +3280,7 @@
   },
   {
     "file": "family-jockey-j.nes",
+    "size": 589856,
     "title": "家庭赛马",
     "author": "Family Jockey (J)",
     "featured": false,
@@ -2903,6 +3289,7 @@
   },
   {
     "file": "family-mahjong-j.nes",
+    "size": 196624,
     "title": "家庭麻将",
     "author": "Family Mahjong (J)",
     "featured": false,
@@ -2911,6 +3298,7 @@
   },
   {
     "file": "family-mahjong-2-shanghai-e-no-michi-j.nes",
+    "size": 196624,
     "title": "家庭麻将2-上海之道",
     "author": "Family Mahjong 2 - Shanghai E No Michi (J)",
     "featured": false,
@@ -2919,6 +3307,7 @@
   },
   {
     "file": "family-pinball-j.nes",
+    "size": 196624,
     "title": "家庭弹珠台",
     "author": "Family Pinball (J)",
     "featured": false,
@@ -2927,6 +3316,7 @@
   },
   {
     "file": "family-stadium-87-pro-yakyuu-j.nes",
+    "size": 98320,
     "title": "明星职业棒球'87",
     "author": "Family Stadium '87 - Pro Yakyuu (J)",
     "featured": false,
@@ -2935,6 +3325,7 @@
   },
   {
     "file": "family-stadium-88-pro-yakyuu-j.nes",
+    "size": 196624,
     "title": "明星职业棒球'88",
     "author": "Family Stadium '88 - Pro Yakyuu (J)",
     "featured": false,
@@ -2943,6 +3334,7 @@
   },
   {
     "file": "family-stadium-89-kaimakuban-j.nes",
+    "size": 720928,
     "title": "明星职业棒球'89",
     "author": "Family Stadium '89 - Kaimakuban!! (J)",
     "featured": false,
@@ -2951,6 +3343,7 @@
   },
   {
     "file": "family-stadium-90-j.nes",
+    "size": 262160,
     "title": "明星职业棒球'90",
     "author": "Family Stadium '90 (J)",
     "featured": false,
@@ -2959,6 +3352,7 @@
   },
   {
     "file": "family-stadium-91-j.nes",
+    "size": 262160,
     "title": "明星职业棒球'91",
     "author": "Family Stadium '91 (J)",
     "featured": false,
@@ -2967,6 +3361,7 @@
   },
   {
     "file": "family-stadium-92-j.nes",
+    "size": 262160,
     "title": "明星职业棒球'92",
     "author": "Family Stadium '92 (J)",
     "featured": false,
@@ -2975,6 +3370,7 @@
   },
   {
     "file": "family-stadium-93-j.nes",
+    "size": 262672,
     "title": "明星职业棒球'93",
     "author": "Family Stadium '93 (J)",
     "featured": false,
@@ -2983,6 +3379,7 @@
   },
   {
     "file": "family-stadium-94-j.nes",
+    "size": 262160,
     "title": "明星职业棒球'94",
     "author": "Family Stadium '94 (J)",
     "featured": false,
@@ -2991,6 +3388,7 @@
   },
   {
     "file": "family-stadium-pro-yakyuu-j.nes",
+    "size": 98320,
     "title": "明星职业棒球",
     "author": "Family Stadium - Pro Yakyuu (J)",
     "featured": false,
@@ -2999,6 +3397,7 @@
   },
   {
     "file": "family-tennis-j.nes",
+    "size": 131088,
     "title": "家庭网球",
     "author": "Family Tennis (J)",
     "featured": false,
@@ -3007,6 +3406,7 @@
   },
   {
     "file": "family-trainer-running-stadium-j.nes",
+    "size": 589856,
     "title": "家庭游戏体感田径赛",
     "author": "Family Trainer - Running Stadium (J)",
     "featured": false,
@@ -3015,6 +3415,7 @@
   },
   {
     "file": "fantasy-zone-j.nes",
+    "size": 131088,
     "title": "梦幻地带(幻想空间)",
     "author": "Fantasy Zone (J)",
     "featured": false,
@@ -3023,6 +3424,7 @@
   },
   {
     "file": "fantasy-zone-2-the-teardrop-of-opa-opa-j.nes",
+    "size": 262160,
     "title": "梦幻地带2(幻想空间2)",
     "author": "Fantasy Zone 2 - The Teardrop of Opa-Opa (J)",
     "featured": false,
@@ -3031,6 +3433,7 @@
   },
   {
     "file": "faxanadu-j.nes",
+    "size": 262160,
     "title": "沙纳多",
     "author": "Faxanadu (J)",
     "featured": false,
@@ -3039,6 +3442,7 @@
   },
   {
     "file": "field-combat-j.nes",
+    "size": 24592,
     "title": "杀戮战场(原野战斗)",
     "author": "Field Combat (J)",
     "featured": false,
@@ -3047,6 +3451,7 @@
   },
   {
     "file": "fighting-golf-j.nes",
+    "size": 262160,
     "title": "战斗高尔夫",
     "author": "Fighting Golf (J)",
     "featured": false,
@@ -3055,6 +3460,7 @@
   },
   {
     "file": "final-lap-j.nes",
+    "size": 262160,
     "title": "最后直路(最后冲刺)",
     "author": "Final Lap (J)",
     "featured": false,
@@ -3063,6 +3469,7 @@
   },
   {
     "file": "final-mission-j.nes",
+    "size": 262160,
     "title": "最终任务(空中魂斗罗)",
     "author": "Final Mission (J)",
     "featured": false,
@@ -3071,12 +3478,14 @@
   },
   {
     "file": "flappy-j.nes",
+    "size": 40976,
     "title": "Flappy (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "fleet-commander-j.nes",
+    "size": 589856,
     "title": "紧急命令",
     "author": "Fleet Commander (J)",
     "featured": false,
@@ -3085,6 +3494,7 @@
   },
   {
     "file": "flipull-j.nes",
+    "size": 589856,
     "title": "趣味方块",
     "author": "Flipull (J)",
     "featured": false,
@@ -3093,6 +3503,7 @@
   },
   {
     "file": "flying-hero-j.nes",
+    "size": 131088,
     "title": "救火英雄",
     "author": "Flying Hero (J)",
     "featured": false,
@@ -3101,6 +3512,7 @@
   },
   {
     "file": "formation-z-j.nes",
+    "size": 24592,
     "title": "变形战机",
     "author": "Formation Z (J)",
     "featured": false,
@@ -3109,12 +3521,14 @@
   },
   {
     "file": "foton-j.nes",
+    "size": 655392,
     "title": "Foton (J)",
     "author": "",
     "featured": false
   },
   {
     "file": "fuzzical-fighter-j.nes",
+    "size": 262160,
     "title": "奇幻勇士",
     "author": "Fuzzical Fighter (J)",
     "featured": false,
@@ -3123,6 +3537,7 @@
   },
   {
     "file": "gijoe.nes",
+    "size": 393232,
     "title": "眼镜蛇部队",
     "author": "GIJOE",
     "featured": false,
@@ -3131,6 +3546,7 @@
   },
   {
     "file": "gunsmoke.nes",
+    "size": 131088,
     "title": "荒野大镖客",
     "author": "GUNSMOKE",
     "featured": false,
@@ -3139,6 +3555,7 @@
   },
   {
     "file": "galaga-j.nes",
+    "size": 24592,
     "title": "大蜜蜂",
     "author": "Galaga (J)",
     "featured": false,
@@ -3147,6 +3564,7 @@
   },
   {
     "file": "galaxian-j.nes",
+    "size": 24592,
     "title": "小蜜蜂",
     "author": "Galaxian (J)",
     "featured": false,
@@ -3155,6 +3573,7 @@
   },
   {
     "file": "galg-j.nes",
+    "size": 40976,
     "title": "头脑战舰",
     "author": "Galg (J)",
     "featured": false,
@@ -3163,6 +3582,7 @@
   },
   {
     "file": "gambler-jiko-chuushin-ha-2-j.nes",
+    "size": 262160,
     "title": "自我中心派2麻将",
     "author": "Gambler Jiko Chuushin Ha 2 (J)",
     "featured": false,
@@ -3171,6 +3591,7 @@
   },
   {
     "file": "ganbare-goemon-karakuri-douchuu-j.nes",
+    "size": 262160,
     "title": "大盗伍佑卫门",
     "author": "Ganbare Goemon - Karakuri Douchuu (J)",
     "featured": false,
@@ -3179,6 +3600,7 @@
   },
   {
     "file": "ganbare-penant-race-j.nes",
+    "size": 262160,
     "title": "棒球锦标赛",
     "author": "Ganbare Penant Race! (J)",
     "featured": false,
@@ -3187,6 +3609,7 @@
   },
   {
     "file": "garfield-a-week-of-garfield-j.nes",
+    "size": 688160,
     "title": "加菲猫",
     "author": "Garfield - A Week of Garfield (J)",
     "featured": false,
@@ -3195,6 +3618,7 @@
   },
   {
     "file": "gegege-no-kitarou-youkai-daimakyou-j.nes",
+    "size": 589856,
     "title": "鬼太郎-妖怪大魔境",
     "author": "Gegege No Kitarou - Youkai Daimakyou (J)",
     "featured": false,
@@ -3203,6 +3627,7 @@
   },
   {
     "file": "gegege-no-kitarou-2-youkaigundan-no-chousen-j.nes",
+    "size": 262160,
     "title": "鬼太郎2-妖怪军团挑战",
     "author": "Gegege No Kitarou 2 - Youkaigundan No Chousen (J)",
     "featured": false,
@@ -3211,6 +3636,7 @@
   },
   {
     "file": "gevara-j.nes",
+    "size": 262160,
     "title": "古巴战士",
     "author": "Gevara (J)",
     "featured": false,
@@ -3219,6 +3645,7 @@
   },
   {
     "file": "gomoku-narabe-j.nes",
+    "size": 24592,
     "title": "五子棋",
     "author": "Gomoku Narabe (J)",
     "featured": false,
@@ -3227,6 +3654,7 @@
   },
   {
     "file": "gradius-2-j.nes",
+    "size": 262160,
     "title": "沙罗曼蛇3",
     "author": "Gradius 2 (J)",
     "featured": false,
@@ -3235,6 +3663,7 @@
   },
   {
     "file": "great-tank-j.nes",
+    "size": 262160,
     "title": "大坦克(导弹坦克)",
     "author": "Great Tank (J)",
     "featured": false,
@@ -3243,6 +3672,7 @@
   },
   {
     "file": "highway-star-j.nes",
+    "size": 655392,
     "title": "高速公路赛车(高速之星)",
     "author": "Highway Star (J)",
     "featured": false,
@@ -3251,6 +3681,7 @@
   },
   {
     "file": "ikari3.nes",
+    "size": 262160,
     "title": "怒3(美版)",
     "author": "IKARI3",
     "featured": false,
@@ -3259,6 +3690,7 @@
   },
   {
     "file": "ikari-j.nes",
+    "size": 131088,
     "title": "怒",
     "author": "Ikari (J)",
     "featured": false,
@@ -3267,6 +3699,7 @@
   },
   {
     "file": "ikari-2-j.nes",
+    "size": 786464,
     "title": "怒2",
     "author": "Ikari 2 (J)",
     "featured": false,
@@ -3275,6 +3708,7 @@
   },
   {
     "file": "ikari-3-j.nes",
+    "size": 786464,
     "title": "怒3",
     "author": "Ikari 3 (J)",
     "featured": false,
@@ -3283,6 +3717,7 @@
   },
   {
     "file": "ikinari-musician-j.nes",
+    "size": 49168,
     "title": "一丽音乐会",
     "author": "Ikinari Musician (J)",
     "featured": false,
@@ -3291,6 +3726,7 @@
   },
   {
     "file": "jurassic.nes",
+    "size": 262160,
     "title": "侏罗纪公园",
     "author": "JURASSIC",
     "featured": false,
@@ -3299,6 +3735,7 @@
   },
   {
     "file": "jackal-u.nes",
+    "size": 131088,
     "title": "赤色要塞",
     "author": "Jackal (U)",
     "featured": false,
@@ -3307,6 +3744,7 @@
   },
   {
     "file": "kickmast.nes",
+    "size": 262160,
     "title": "踢王",
     "author": "KICKMAST",
     "featured": false,
@@ -3315,6 +3753,7 @@
   },
   {
     "file": "king-kong-2-ikari-no-megaton-punch-j.nes",
+    "size": 262160,
     "title": "绿色兵团",
     "author": "King Kong 2 - Ikari No Megaton Punch (J)",
     "featured": false,
@@ -3323,6 +3762,7 @@
   },
   {
     "file": "king-s-knight-j.nes",
+    "size": 65552,
     "title": "国王骑士",
     "author": "King's Knight (J)",
     "featured": false,
@@ -3331,6 +3771,7 @@
   },
   {
     "file": "kujaku-ou-j.nes",
+    "size": 262160,
     "title": "孔雀王",
     "author": "Kujaku Ou (J)",
     "featured": false,
@@ -3339,6 +3780,7 @@
   },
   {
     "file": "kujaku-ou-2-j.nes",
+    "size": 262160,
     "title": "孔雀王2",
     "author": "Kujaku Ou 2 (J)",
     "featured": false,
@@ -3347,6 +3789,7 @@
   },
   {
     "file": "kunio-kun-no-nekketsu-soccer-league-j.nes",
+    "size": 262160,
     "title": "热血足球2(热血联盟足球)",
     "author": "Kunio Kun No Nekketsu Soccer League (J)",
     "featured": false,
@@ -3355,6 +3798,7 @@
   },
   {
     "file": "mario.nes",
+    "size": 40976,
     "title": "超级玛利",
     "author": "MARIO",
     "featured": false,
@@ -3363,6 +3807,7 @@
   },
   {
     "file": "mario2.nes",
+    "size": 262160,
     "title": "超级玛利2(日版)",
     "author": "MARIO2",
     "featured": false,
@@ -3371,6 +3816,7 @@
   },
   {
     "file": "mario3.nes",
+    "size": 393232,
     "title": "超级玛利3",
     "author": "MARIO3",
     "featured": false,
@@ -3379,6 +3825,7 @@
   },
   {
     "file": "missimpo.nes",
+    "size": 262160,
     "title": "虎胆妙算",
     "author": "MISSIMPO",
     "featured": false,
@@ -3387,6 +3834,7 @@
   },
   {
     "file": "motorcty.nes",
+    "size": 262160,
     "title": "城市巡警",
     "author": "MOTORCTY",
     "featured": false,
@@ -3395,6 +3843,7 @@
   },
   {
     "file": "maajan-j.nes",
+    "size": 24592,
     "title": "麻雀",
     "author": "Maajan (J)",
     "featured": false,
@@ -3403,6 +3852,7 @@
   },
   {
     "file": "mad-city-j.nes",
+    "size": 786464,
     "title": "鳄鱼先生",
     "author": "Mad City (J)",
     "featured": false,
@@ -3411,6 +3861,7 @@
   },
   {
     "file": "majaventure-maajan-senki-j.nes",
+    "size": 786464,
     "title": "麻雀战记",
     "author": "Majaventure - Maajan Senki (J)",
     "featured": false,
@@ -3419,6 +3870,7 @@
   },
   {
     "file": "makaimura-j.nes",
+    "size": 131088,
     "title": "魔界村",
     "author": "Makaimura (J)",
     "featured": false,
@@ -3427,6 +3879,7 @@
   },
   {
     "file": "meikyuu-kumikyoku-j.nes",
+    "size": 65552,
     "title": "迷宫组曲",
     "author": "Meikyuu Kumikyoku (J)",
     "featured": false,
@@ -3435,6 +3888,7 @@
   },
   {
     "file": "meikyuujima-j.nes",
+    "size": 786464,
     "title": "迷宫岛",
     "author": "Meikyuujima (J)",
     "featured": false,
@@ -3443,6 +3897,7 @@
   },
   {
     "file": "meitantei-holmes-kiri-no-london-satsujin-jiken-j.nes",
+    "size": 786464,
     "title": "名侦探福尔摩斯-伦敦之杀人事件",
     "author": "Meitantei Holmes - Kiri No London Satsujin Jiken (J)",
     "featured": false,
@@ -3451,6 +3906,7 @@
   },
   {
     "file": "mighty-final-fight-j.nes",
+    "size": 786464,
     "title": "SD街头快打(快打旋风)",
     "author": "Mighty Final Fight (J)",
     "featured": false,
@@ -3459,6 +3915,7 @@
   },
   {
     "file": "mito-koumon-j.nes",
+    "size": 786464,
     "title": "水户黄门",
     "author": "Mito Koumon (J)",
     "featured": false,
@@ -3467,6 +3924,7 @@
   },
   {
     "file": "mitsume-ga-tooru-j.nes",
+    "size": 786464,
     "title": "三目童子",
     "author": "Mitsume Ga Tooru (J)",
     "featured": false,
@@ -3475,6 +3933,7 @@
   },
   {
     "file": "moero-twinbee-j.nes",
+    "size": 131088,
     "title": "兵蜂2",
     "author": "Moero Twinbee (J)",
     "featured": false,
@@ -3483,6 +3942,7 @@
   },
   {
     "file": "ninjaga2.nes",
+    "size": 262160,
     "title": "忍者龙剑传2",
     "author": "NINJAGA2",
     "featured": false,
@@ -3491,6 +3951,7 @@
   },
   {
     "file": "ninjaga3.nes",
+    "size": 262160,
     "title": "忍者龙剑传3",
     "author": "NINJAGA3",
     "featured": false,
@@ -3499,6 +3960,7 @@
   },
   {
     "file": "nekketsu-kakutou-densetsu-j.nes",
+    "size": 786464,
     "title": "热血格斗传说",
     "author": "Nekketsu Kakutou Densetsu (J)",
     "featured": false,
@@ -3507,6 +3969,7 @@
   },
   {
     "file": "nekketsu-kouha-kunio-kun-j.nes",
+    "size": 131088,
     "title": "热血硬派",
     "author": "Nekketsu Kouha - Kunio Kun (J)",
     "featured": false,
@@ -3515,6 +3978,7 @@
   },
   {
     "file": "nekketsu-koukou-dodgeball-bu-j.nes",
+    "size": 786464,
     "title": "热血高校躲避球",
     "author": "Nekketsu Koukou - Dodgeball Bu (J)",
     "featured": false,
@@ -3523,6 +3987,7 @@
   },
   {
     "file": "nekketsu-koukou-dodgeball-bu-soccer-hen-j.nes",
+    "size": 786464,
     "title": "热血高校-足球篇",
     "author": "Nekketsu Koukou Dodgeball Bu - Soccer Hen (J)",
     "featured": false,
@@ -3531,6 +3996,7 @@
   },
   {
     "file": "nekketsu-shinkiroku-harukanaru-kin-medal-j.nes",
+    "size": 786464,
     "title": "热血新记录",
     "author": "Nekketsu Shinkiroku - Harukanaru Kin Medal (J)",
     "featured": false,
@@ -3539,6 +4005,7 @@
   },
   {
     "file": "nekketsu-street-basket-ganbare-dunk-heroes-j.nes",
+    "size": 786464,
     "title": "热血篮球",
     "author": "Nekketsu! Street Basket - Ganbare Dunk Heroes (J)",
     "featured": false,
@@ -3547,6 +4014,7 @@
   },
   {
     "file": "ningen-heiki-dead-fox-j.nes",
+    "size": 786464,
     "title": "人间兵器",
     "author": "Ningen Heiki - Dead Fox (J)",
     "featured": false,
@@ -3555,6 +4023,7 @@
   },
   {
     "file": "ninja-ryuukenden-j.nes",
+    "size": 786464,
     "title": "忍者龙剑传1（日版掉血少）",
     "author": "Ninja Ryuukenden (J)",
     "featured": false,
@@ -3563,6 +4032,7 @@
   },
   {
     "file": "ninja-ryuukenden-2-ankoku-no-jashin-ken-j.nes",
+    "size": 786464,
     "title": "忍者龙剑传2",
     "author": "Ninja Ryuukenden 2 - Ankoku No Jashin Ken (J)",
     "featured": false,
@@ -3571,6 +4041,7 @@
   },
   {
     "file": "ninja-ryuukenden-3-yomi-no-hakobune-j.nes",
+    "size": 786464,
     "title": "忍者龙剑传3",
     "author": "Ninja Ryuukenden 3 - Yomi No Hakobune (J)",
     "featured": false,
@@ -3579,6 +4050,7 @@
   },
   {
     "file": "pow.nes",
+    "size": 262160,
     "title": "脱狱",
     "author": "POW",
     "featured": false,
@@ -3587,6 +4059,7 @@
   },
   {
     "file": "poker-3-5-in-1-c.nes",
+    "size": 131088,
     "title": "扑克5合1",
     "author": "Poker 3 - 5 in 1 (C)",
     "featured": false,
@@ -3595,6 +4068,7 @@
   },
   {
     "file": "pro-sport-hockey-u.nes",
+    "size": 262160,
     "title": "冰上曲棍球",
     "author": "Pro Sport Hockey (U)",
     "featured": false,
@@ -3603,6 +4077,7 @@
   },
   {
     "file": "puyo-puyo-j.nes",
+    "size": 131088,
     "title": "魔法气泡",
     "author": "Puyo Puyo (J)",
     "featured": false,
@@ -3611,6 +4086,7 @@
   },
   {
     "file": "puzslot-j.nes",
+    "size": 262160,
     "title": "角子方块",
     "author": "Puzslot (J)",
     "featured": false,
@@ -3619,6 +4095,7 @@
   },
   {
     "file": "rushnatk.nes",
+    "size": 131088,
     "title": "绿色兵团",
     "author": "RUSHNATK",
     "featured": false,
@@ -3627,6 +4104,7 @@
   },
   {
     "file": "rxhpus.nes",
+    "size": 131215,
     "title": "热血硬派(美版)",
     "author": "RXHPUS",
     "featured": false,
@@ -3635,6 +4113,7 @@
   },
   {
     "file": "rainbow-islands-the-story-of-bubble-bobble-2-j.nes",
+    "size": 131088,
     "title": "彩虹岛(彩虹魔法)",
     "author": "Rainbow Islands - The Story of Bubble Bobble 2 (J)",
     "featured": false,
@@ -3643,6 +4122,7 @@
   },
   {
     "file": "robocop-j.nes",
+    "size": 262160,
     "title": "机械战警",
     "author": "Robocop (J)",
     "featured": false,
@@ -3651,6 +4131,7 @@
   },
   {
     "file": "rush-n-attack-u.nes",
+    "size": 131088,
     "title": "绿色兵团",
     "author": "Rush'n Attack (U)",
     "featured": false,
@@ -3659,6 +4140,7 @@
   },
   {
     "file": "scat.nes",
+    "size": 262160,
     "title": "最终任务",
     "author": "SCAT",
     "featured": false,
@@ -3667,6 +4149,7 @@
   },
   {
     "file": "scon.nes",
+    "size": 262288,
     "title": "魂斗罗外传(魂斗罗3)",
     "author": "SCON",
     "featured": false,
@@ -3675,6 +4158,7 @@
   },
   {
     "file": "shadninj.nes",
+    "size": 262160,
     "title": "赤影战士",
     "author": "SHADNINJ",
     "featured": false,
@@ -3683,6 +4167,7 @@
   },
   {
     "file": "silkworm.nes",
+    "size": 262160,
     "title": "中东战争(联合大作战)",
     "author": "SILKWORM",
     "featured": false,
@@ -3691,6 +4176,7 @@
   },
   {
     "file": "superc.nes",
+    "size": 253968,
     "title": "魂斗罗2美版(超级魂斗罗美版)",
     "author": "SUPERC",
     "featured": false,
@@ -3699,6 +4185,7 @@
   },
   {
     "file": "saiyuuki-world-j.nes",
+    "size": 131088,
     "title": "西游记",
     "author": "Saiyuuki World (J)",
     "featured": false,
@@ -3707,6 +4194,7 @@
   },
   {
     "file": "saiyuuki-world-2-tenjoukai-no-mashou-j.nes",
+    "size": 262160,
     "title": "西游记2",
     "author": "Saiyuuki World 2 - Tenjoukai No Mashou (J)",
     "featured": false,
@@ -3715,6 +4203,7 @@
   },
   {
     "file": "sakigake-otoko-juku-j.nes",
+    "size": 262160,
     "title": "魁!男塾",
     "author": "Sakigake!! Otoko Juku (J)",
     "featured": false,
@@ -3723,6 +4212,7 @@
   },
   {
     "file": "salamander-j.nes",
+    "size": 131088,
     "title": "沙罗曼蛇",
     "author": "Salamander (J)",
     "featured": false,
@@ -3731,6 +4221,7 @@
   },
   {
     "file": "sansuu-asobi-j.nes",
+    "size": 24592,
     "title": "金刚JR算术游戏",
     "author": "Sansuu Asobi (J)",
     "featured": false,
@@ -3739,6 +4230,7 @@
   },
   {
     "file": "shanghai-j.nes",
+    "size": 131088,
     "title": "上海",
     "author": "Shanghai (J)",
     "featured": false,
@@ -3747,6 +4239,7 @@
   },
   {
     "file": "shanghai-2-j.nes",
+    "size": 131088,
     "title": "上海2",
     "author": "Shanghai 2 (J)",
     "featured": false,
@@ -3755,6 +4248,7 @@
   },
   {
     "file": "side-pocket-j.nes",
+    "size": 163856,
     "title": "花式撞球(日版)",
     "author": "Side Pocket (J)",
     "featured": false,
@@ -3763,6 +4257,7 @@
   },
   {
     "file": "snake-rattle-n-roll-u-b4.nes",
+    "size": 262288,
     "title": "响尾蛇",
     "author": "Snake Rattle'n Roll (U) [b4]",
     "featured": false,
@@ -3771,6 +4266,7 @@
   },
   {
     "file": "sugoro-quest-dice-no-senshitachi-j.nes",
+    "size": 786464,
     "title": "赌神",
     "author": "Sugoro Quest - Dice No Senshitachi! (J)",
     "featured": false,
@@ -3779,6 +4275,7 @@
   },
   {
     "file": "summer-carnival-92-recca-j.nes",
+    "size": 786464,
     "title": "烈火'92",
     "author": "Summer Carnival '92 - Recca (J)",
     "featured": false,
@@ -3787,6 +4284,7 @@
   },
   {
     "file": "super-8-in-1-fighting-unl.nes",
+    "size": 3145744,
     "title": "超级格斗8合1",
     "author": "Super 8 in 1 Fighting (UNL)",
     "featured": false,
@@ -3795,6 +4293,7 @@
   },
   {
     "file": "super-contra-j.nes",
+    "size": 786464,
     "title": "魂斗罗2(超级魂斗罗)",
     "author": "Super Contra (J)",
     "featured": false,
@@ -3803,6 +4302,7 @@
   },
   {
     "file": "super-mario-bros-j.nes",
+    "size": 40976,
     "title": "超级马里奥",
     "author": "Super Mario Bros (J)",
     "featured": false,
@@ -3811,6 +4311,7 @@
   },
   {
     "file": "super-mario-bros-2-j.nes",
+    "size": 262288,
     "title": "超级马里奥2",
     "author": "Super Mario Bros 2 (J)",
     "featured": false,
@@ -3819,6 +4320,7 @@
   },
   {
     "file": "super-mario-bros-3-j.nes",
+    "size": 393232,
     "title": "超级马里奥3",
     "author": "Super Mario Bros 3 (J)",
     "featured": false,
@@ -3827,6 +4329,7 @@
   },
   {
     "file": "super-42-in-1.nes",
+    "size": 1048592,
     "title": "42合1",
     "author": "Super_42-in-1",
     "featured": false,
@@ -3835,6 +4338,7 @@
   },
   {
     "file": "twincobr.nes",
+    "size": 262160,
     "title": "究极虎(美版)",
     "author": "TWINCOBR",
     "featured": false,
@@ -3843,6 +4347,7 @@
   },
   {
     "file": "takahashi-meijin-no-boukenjima-4-j.nes",
+    "size": 393232,
     "title": "高桥名人的冒险岛4",
     "author": "Takahashi Meijin No Boukenjima 4 (J)",
     "featured": false,
@@ -3851,6 +4356,7 @@
   },
   {
     "file": "top-gun-je.nes",
+    "size": 131088,
     "title": "捍卫战士(壮志凌云，TOP GUN)",
     "author": "Top Gun (JE)",
     "featured": false,
@@ -3859,6 +4365,7 @@
   },
   {
     "file": "top-gun-2-dual-fighters-j.nes",
+    "size": 262160,
     "title": "捍卫战士2(壮志凌云2，TOP GUN2)",
     "author": "Top Gun 2 - Dual Fighters (J)",
     "featured": false,
@@ -3867,6 +4374,7 @@
   },
   {
     "file": "top-rider-j.nes",
+    "size": 688160,
     "title": "顶级摩托车",
     "author": "Top Rider (J)",
     "featured": false,
@@ -3875,6 +4383,7 @@
   },
   {
     "file": "toukaidou-gojuusan-tsugi-j.nes",
+    "size": 49168,
     "title": "东海道五十三次",
     "author": "Toukaidou Gojuusan Tsugi (J)",
     "featured": false,
@@ -3883,6 +4392,7 @@
   },
   {
     "file": "toukon-kurabu-j.nes",
+    "size": 393232,
     "title": "斗魂俱乐部",
     "author": "Toukon Kurabu (J)",
     "featured": false,
@@ -3891,6 +4401,7 @@
   },
   {
     "file": "transformers-convoy-no-nazo-j.nes",
+    "size": 65552,
     "title": "变形金刚",
     "author": "Transformers - Convoy No Nazo (J)",
     "featured": false,
@@ -3899,6 +4410,7 @@
   },
   {
     "file": "viva-las-vegas-j.nes",
+    "size": 262160,
     "title": "万岁拉斯维加斯",
     "author": "Viva! Las Vegas (J)",
     "featured": false,
@@ -3907,6 +4419,7 @@
   },
   {
     "file": "volguard-2-j.nes",
+    "size": 40976,
     "title": "变形金刚2",
     "author": "Volguard 2 (J)",
     "featured": false,
@@ -3915,6 +4428,7 @@
   },
   {
     "file": "wai-wai-world-j.nes",
+    "size": 262160,
     "title": "柯纳米世界(KONAMI世界)",
     "author": "Wai Wai World (J)",
     "featured": false,
@@ -3923,6 +4437,7 @@
   },
   {
     "file": "wai-wai-world-2-sos-paseri-jou-j.nes",
+    "size": 393232,
     "title": "柯纳米世界2(KONAMI世界2)",
     "author": "Wai Wai World 2 - SOS!! Paseri Jou (J)",
     "featured": false,
@@ -3931,6 +4446,7 @@
   },
   {
     "file": "wily-light-no-rockboard-that-s-paradise-j.nes",
+    "size": 262160,
     "title": "洛克人大富翁(洛克人桌棋)",
     "author": "Wily & Light No Rockboard - That's Paradise (J)",
     "featured": false,
@@ -3939,6 +4455,7 @@
   },
   {
     "file": "yie-ar-kung-fu-j.nes",
+    "size": 24592,
     "title": "功夫",
     "author": "Yie Ar Kung-Fu (J)",
     "featured": false,
@@ -3947,6 +4464,7 @@
   },
   {
     "file": "youkai-douchuuki-j.nes",
+    "size": 262160,
     "title": "妖怪道中记",
     "author": "Youkai Douchuuki (J)",
     "featured": false,
@@ -3955,6 +4473,7 @@
   },
   {
     "file": "c31.nes",
+    "size": 40976,
     "title": "中国象棋",
     "author": "c31",
     "featured": false,
@@ -3963,6 +4482,7 @@
   },
   {
     "file": "caltron.nes",
+    "size": 393232,
     "title": "6合1",
     "author": "caltron",
     "featured": false,
@@ -3971,6 +4491,7 @@
   },
   {
     "file": "cv3j.nes",
+    "size": 393232,
     "title": "恶魔城传说（中文）",
     "author": "cv3j",
     "featured": false,
@@ -3979,6 +4500,7 @@
   },
   {
     "file": "excite.nes",
+    "size": 41104,
     "title": "摩托机车",
     "author": "excite",
     "featured": false,
@@ -3987,6 +4509,7 @@
   },
   {
     "file": "fctw001.nes",
+    "size": 524304,
     "title": "洛克人X",
     "author": "fctw001",
     "featured": false,
@@ -3995,6 +4518,7 @@
   },
   {
     "file": "fctw005.nes",
+    "size": 262160,
     "title": "双截龙4(日版)",
     "author": "fctw005",
     "featured": false,
@@ -4003,6 +4527,7 @@
   },
   {
     "file": "field.nes",
+    "size": 24592,
     "title": "飞碟大战",
     "author": "field",
     "featured": false,
@@ -4011,6 +4536,7 @@
   },
   {
     "file": "finalf3.nes",
+    "size": 786448,
     "title": "快打旋风3",
     "author": "finalf3",
     "featured": false,
@@ -4019,6 +4545,7 @@
   },
   {
     "file": "goonies.nes",
+    "size": 49296,
     "title": "七宝奇谋",
     "author": "goonies",
     "featured": false,
@@ -4027,6 +4554,7 @@
   },
   {
     "file": "iceclimb.nes",
+    "size": 40976,
     "title": "雪人兄弟",
     "author": "iceclimb",
     "featured": false,
@@ -4035,6 +4563,7 @@
   },
   {
     "file": "irontank.nes",
+    "size": 262160,
     "title": "大坦克",
     "author": "irontank",
     "featured": false,
@@ -4043,6 +4572,7 @@
   },
   {
     "file": "kinnik.nes",
+    "size": 24592,
     "title": "摔角",
     "author": "kinnik",
     "featured": false,
@@ -4051,6 +4581,7 @@
   },
   {
     "file": "pacman.nes",
+    "size": 24592,
     "title": "吃豆",
     "author": "pacman",
     "featured": false,
@@ -4059,6 +4590,7 @@
   },
   {
     "file": "rainbowisland.nes",
+    "size": 131088,
     "title": "彩虹岛",
     "author": "rainbowisland",
     "featured": false,
@@ -4067,6 +4599,7 @@
   },
   {
     "file": "red.nes",
+    "size": 65552,
     "title": "红巾特攻队",
     "author": "red",
     "featured": false,
@@ -4075,6 +4608,7 @@
   },
   {
     "file": "roadfigh.nes",
+    "size": 65552,
     "title": "大赛车",
     "author": "roadfigh",
     "featured": false,
@@ -4083,6 +4617,7 @@
   },
   {
     "file": "robocop2.nes",
+    "size": 262160,
     "title": "机械战警2",
     "author": "robocop2",
     "featured": false,
@@ -4091,6 +4626,7 @@
   },
   {
     "file": "s700in1.nes",
+    "size": 3145744,
     "title": "700合1",
     "author": "s700in1",
     "featured": false,
@@ -4099,6 +4635,7 @@
   },
   {
     "file": "sag32-1.nes",
+    "size": 1048592,
     "title": "32合1",
     "author": "sag32-1",
     "featured": false,
@@ -4107,6 +4644,7 @@
   },
   {
     "file": "saints.nes",
+    "size": 262160,
     "title": "圣斗士星矢",
     "author": "saints",
     "featured": false,
@@ -4115,6 +4653,7 @@
   },
   {
     "file": "sango4.nes",
+    "size": 524304,
     "title": "三国志4-赤壁风云",
     "author": "sango4",
     "featured": false,
@@ -4123,6 +4662,7 @@
   },
   {
     "file": "scontra.nes",
+    "size": 524304,
     "title": "中文魂斗罗()",
     "author": "scontra",
     "featured": false,
@@ -4131,6 +4671,7 @@
   },
   {
     "file": "srw2.nes",
+    "size": 524304,
     "title": "第二次机器人大战(中文)",
     "author": "srw2",
     "featured": false,
@@ -4139,6 +4680,7 @@
   },
   {
     "file": "tetrisa.nes",
+    "size": 65552,
     "title": "俄罗斯方块",
     "author": "tetrisa",
     "featured": false,
@@ -4147,6 +4689,7 @@
   },
   {
     "file": "tmnt1.nes",
+    "size": 262160,
     "title": "忍者神龟1",
     "author": "tmnt1",
     "featured": false,
@@ -4155,6 +4698,7 @@
   },
   {
     "file": "tmnt2.nes",
+    "size": 524304,
     "title": "忍者神龟2",
     "author": "tmnt2",
     "featured": false,
@@ -4163,6 +4707,7 @@
   },
   {
     "file": "twinbee3.nes",
+    "size": 262160,
     "title": "兵蜂3",
     "author": "twinbee3",
     "featured": false,
@@ -4171,6 +4716,7 @@
   },
   {
     "file": "vs-battle-city.nes",
+    "size": 49168,
     "title": "VS 坦克大战",
     "author": "vs battle city",
     "featured": false,
@@ -4179,6 +4725,7 @@
   },
   {
     "file": "vs-dr-mario.nes",
+    "size": 98320,
     "title": "马里奥医生",
     "author": "vs dr mario",
     "featured": false,
@@ -4187,6 +4734,7 @@
   },
   {
     "file": "wolfpig.nes",
+    "size": 40976,
     "title": "猪小弟",
     "author": "wolfpig",
     "featured": false,
@@ -4195,6 +4743,7 @@
   },
   {
     "file": "rom-2.nes",
+    "size": 262160,
     "title": "假面忍者花丸",
     "author": "",
     "featured": false,
@@ -4203,6 +4752,7 @@
   },
   {
     "file": "rom-4.nes",
+    "size": 262160,
     "title": "快打旋风中文版",
     "author": "",
     "featured": false,
@@ -4211,6 +4761,7 @@
   },
   {
     "file": "rom-5.nes",
+    "size": 24592,
     "title": "马戏团",
     "author": "",
     "featured": false,
@@ -4219,12 +4770,14 @@
   },
   {
     "file": "24792b75423c.nes",
+    "size": 131088,
     "title": "1944",
     "author": "",
     "featured": false
   },
   {
     "file": "252aa1b4bbbd.nes",
+    "size": 2097168,
     "title": "76合1",
     "author": "",
     "featured": false,
@@ -4233,6 +4786,7 @@
   },
   {
     "file": "efb48859ec4b.nes",
+    "size": 24719,
     "title": "90坦克",
     "author": "",
     "featured": false,
@@ -4241,6 +4795,7 @@
   },
   {
     "file": "037843f2082d.nes",
+    "size": 131088,
     "title": "93超级魂(烟山软件)",
     "author": "",
     "featured": false,
@@ -4249,6 +4804,7 @@
   },
   {
     "file": "c6261912ca4b.nes",
+    "size": 98320,
     "title": "AV麻将",
     "author": "",
     "featured": false,
@@ -4257,6 +4813,7 @@
   },
   {
     "file": "961d57cf312e.nes",
+    "size": 131088,
     "title": "AV麻雀俱乐部",
     "author": "",
     "featured": false,
@@ -4265,6 +4822,7 @@
   },
   {
     "file": "6b926e6351dc.nes",
+    "size": 131088,
     "title": "FC塞尔达传说汉化版",
     "author": "",
     "featured": false,
@@ -4273,6 +4831,7 @@
   },
   {
     "file": "fe582914103f.nes",
+    "size": 131088,
     "title": "RAD赛车2",
     "author": "",
     "featured": false,
@@ -4281,6 +4840,7 @@
   },
   {
     "file": "92e5056be67f.nes",
+    "size": 786464,
     "title": "Taito 篮球",
     "author": "",
     "featured": false,
@@ -4289,6 +4849,7 @@
   },
   {
     "file": "5407c86bac11.nes",
+    "size": 393232,
     "title": "Tecmo NBA篮球(U)",
     "author": "",
     "featured": false,
@@ -4297,6 +4858,7 @@
   },
   {
     "file": "a33cdf27577b.nes",
+    "size": 262160,
     "title": "未知游戏 006",
     "author": "",
     "featured": false,
@@ -4305,6 +4867,7 @@
   },
   {
     "file": "dbf210002e04.nes",
+    "size": 262160,
     "title": "魂斗罗外传(魂斗罗3)",
     "author": "",
     "featured": false,
@@ -4313,6 +4876,7 @@
   },
   {
     "file": "abefb4e0bc34.nes",
+    "size": 262160,
     "title": "松鼠大作战",
     "author": "",
     "featured": false,
@@ -4321,6 +4885,7 @@
   },
   {
     "file": "c9f71145d904.nes",
+    "size": 262288,
     "title": "双截龙3(中文)",
     "author": "",
     "featured": false,
@@ -4329,6 +4894,7 @@
   },
   {
     "file": "20dae84a9e99.nes",
+    "size": 524304,
     "title": "索尼克",
     "author": "",
     "featured": false,
@@ -4337,6 +4903,7 @@
   },
   {
     "file": "483ca835e907.nes",
+    "size": 40976,
     "title": "五子棋",
     "author": "",
     "featured": false,
@@ -4345,6 +4912,7 @@
   },
   {
     "file": "2916d55be157.nes",
+    "size": 655376,
     "title": "未知游戏 015",
     "author": "",
     "featured": false,
@@ -4353,6 +4921,7 @@
   },
   {
     "file": "fd5f7b7d8515.nes",
+    "size": 131088,
     "title": "未知游戏 018",
     "author": "",
     "featured": false,
@@ -4361,6 +4930,7 @@
   },
   {
     "file": "9300ee2acfe7.nes",
+    "size": 196624,
     "title": "未知游戏 020",
     "author": "",
     "featured": false,
@@ -4369,12 +4939,14 @@
   },
   {
     "file": "1787c6235fbf.nes",
+    "size": 262160,
     "title": "Astyanax",
     "author": "",
     "featured": false
   },
   {
     "file": "58128237fa27.nes",
+    "size": 393232,
     "title": "未知游戏 024",
     "author": "",
     "featured": false,
@@ -4383,6 +4955,7 @@
   },
   {
     "file": "02bfed961856.nes",
+    "size": 262160,
     "title": "热血新纪录",
     "author": "",
     "featured": false,
@@ -4391,6 +4964,7 @@
   },
   {
     "file": "e4548984d410.nes",
+    "size": 262160,
     "title": "未知游戏 027",
     "author": "",
     "featured": false,
@@ -4399,6 +4973,7 @@
   },
   {
     "file": "51a8813eabe2.nes",
+    "size": 262160,
     "title": "未知游戏 028",
     "author": "",
     "featured": false,
@@ -4407,6 +4982,7 @@
   },
   {
     "file": "10efbfcd606f.nes",
+    "size": 262160,
     "title": "美国队长与复仇者",
     "author": "",
     "featured": false,
@@ -4415,6 +4991,7 @@
   },
   {
     "file": "ecf9cbac2ead.nes",
+    "size": 262160,
     "title": "未知游戏 034",
     "author": "",
     "featured": false,
@@ -4423,6 +5000,7 @@
   },
   {
     "file": "b409bf4fda35.nes",
+    "size": 65552,
     "title": "未知游戏 037",
     "author": "",
     "featured": false,
@@ -4431,6 +5009,7 @@
   },
   {
     "file": "1643ee37073c.nes",
+    "size": 24592,
     "title": "未知游戏 041",
     "author": "",
     "featured": false,
@@ -4439,12 +5018,14 @@
   },
   {
     "file": "1ad7ab4cd12c.nes",
+    "size": 262160,
     "title": "Cross Fire",
     "author": "",
     "featured": false
   },
   {
     "file": "95610c432927.nes",
+    "size": 262160,
     "title": "大工源先生",
     "author": "",
     "featured": false,
@@ -4453,6 +5034,7 @@
   },
   {
     "file": "5f999fb675c8.nes",
+    "size": 262160,
     "title": "唐老鸭",
     "author": "",
     "featured": false,
@@ -4461,6 +5043,7 @@
   },
   {
     "file": "f1e47d578ae0.nes",
+    "size": 262160,
     "title": "人间兵器",
     "author": "",
     "featured": false,
@@ -4469,6 +5052,7 @@
   },
   {
     "file": "0bec97a1c719.nes",
+    "size": 262160,
     "title": "双截龙",
     "author": "",
     "featured": false,
@@ -4477,6 +5061,7 @@
   },
   {
     "file": "cc2daf66588b.nes",
+    "size": 262160,
     "title": "热血行进曲",
     "author": "",
     "featured": false,
@@ -4485,6 +5070,7 @@
   },
   {
     "file": "4338c3001c5e.nes",
+    "size": 262160,
     "title": "未知游戏 061",
     "author": "",
     "featured": false,
@@ -4493,6 +5079,7 @@
   },
   {
     "file": "5911a6fe7a20.nes",
+    "size": 65552,
     "title": "马里奥医生",
     "author": "",
     "featured": false,
@@ -4501,6 +5088,7 @@
   },
   {
     "file": "b0f1e37c6ead.nes",
+    "size": 524304,
     "title": "勇者斗恶龙4",
     "author": "",
     "featured": false,
@@ -4509,6 +5097,7 @@
   },
   {
     "file": "6be622818740.nes",
+    "size": 40976,
     "title": "未知游戏 065",
     "author": "",
     "featured": false,
@@ -4517,6 +5106,7 @@
   },
   {
     "file": "406542b9f2bd.nes",
+    "size": 24592,
     "title": "越野摩托",
     "author": "",
     "featured": false,
@@ -4525,6 +5115,7 @@
   },
   {
     "file": "fdb1d57455d8.nes",
+    "size": 262160,
     "title": "未知游戏 068",
     "author": "",
     "featured": false,
@@ -4533,6 +5124,7 @@
   },
   {
     "file": "4430f96f46ee.nes",
+    "size": 262160,
     "title": "幽游白书-暗黑武术会",
     "author": "",
     "featured": false,
@@ -4541,6 +5133,7 @@
   },
   {
     "file": "4b22c2c88fc7.nes",
+    "size": 524304,
     "title": "最终幻想2",
     "author": "",
     "featured": false,
@@ -4549,6 +5142,7 @@
   },
   {
     "file": "add099a77ba8.nes",
+    "size": 524304,
     "title": "最终幻想3(太空战士3)",
     "author": "",
     "featured": false,
@@ -4557,6 +5151,7 @@
   },
   {
     "file": "1173e4cb2e37.nes",
+    "size": 393232,
     "title": "火炎之纹章(圣火徽章)",
     "author": "",
     "featured": false,
@@ -4565,6 +5160,7 @@
   },
   {
     "file": "1ae0646964ad.nes",
+    "size": 393232,
     "title": "未知游戏 076",
     "author": "",
     "featured": false,
@@ -4573,6 +5169,7 @@
   },
   {
     "file": "f8229677bfad.nes",
+    "size": 262160,
     "title": "格瓦拉",
     "author": "",
     "featured": false,
@@ -4581,6 +5178,7 @@
   },
   {
     "file": "c430c45c5b48.nes",
+    "size": 262160,
     "title": "忍者神龟1-无敌版",
     "author": "",
     "featured": false,
@@ -4589,6 +5187,7 @@
   },
   {
     "file": "b802f416d7e5.nes",
+    "size": 262160,
     "title": "月风魔传",
     "author": "",
     "featured": false,
@@ -4597,12 +5196,14 @@
   },
   {
     "file": "39425f2795bc.nes",
+    "size": 393232,
     "title": "God Slayer",
     "author": "",
     "featured": false
   },
   {
     "file": "78e80a5bdf23.nes",
+    "size": 49168,
     "title": "七宝奇谋",
     "author": "",
     "featured": false,
@@ -4611,6 +5212,7 @@
   },
   {
     "file": "b65bfa270853.nes",
+    "size": 524304,
     "title": "大话西游",
     "author": "",
     "featured": false,
@@ -4619,12 +5221,14 @@
   },
   {
     "file": "296ce50986f6.nes",
+    "size": 262160,
     "title": "Great Tank",
     "author": "",
     "featured": false
   },
   {
     "file": "f339436320c2.nes",
+    "size": 262160,
     "title": "飞龙之拳3(J)",
     "author": "",
     "featured": false,
@@ -4633,6 +5237,7 @@
   },
   {
     "file": "d2da6cc20c64.nes",
+    "size": 65552,
     "title": "未知游戏 089",
     "author": "",
     "featured": false,
@@ -4641,6 +5246,7 @@
   },
   {
     "file": "e09ef9e1d9e6.nes",
+    "size": 589856,
     "title": "未知游戏 090",
     "author": "",
     "featured": false,
@@ -4649,6 +5255,7 @@
   },
   {
     "file": "2852e0f12725.nes",
+    "size": 655392,
     "title": "热血硬派",
     "author": "",
     "featured": false,
@@ -4657,6 +5264,7 @@
   },
   {
     "file": "8f2f177851fa.nes",
+    "size": 786448,
     "title": "星之卡比-梦之泉物语",
     "author": "",
     "featured": false,
@@ -4665,6 +5273,7 @@
   },
   {
     "file": "26f3b5b8076d.nes",
+    "size": 262160,
     "title": "未知游戏 093",
     "author": "",
     "featured": false,
@@ -4673,6 +5282,7 @@
   },
   {
     "file": "1690e419bc24.nes",
+    "size": 24592,
     "title": "雪人兄弟",
     "author": "",
     "featured": false,
@@ -4681,6 +5291,7 @@
   },
   {
     "file": "c467bd388005.nes",
+    "size": 262160,
     "title": "未知游戏 096",
     "author": "",
     "featured": false,
@@ -4689,6 +5300,7 @@
   },
   {
     "file": "b01ad2ca2db7.nes",
+    "size": 262160,
     "title": "未知游戏 097",
     "author": "",
     "featured": false,
@@ -4697,6 +5309,7 @@
   },
   {
     "file": "982c4f7579a8.nes",
+    "size": 786464,
     "title": "未知游戏 098",
     "author": "",
     "featured": false,
@@ -4705,6 +5318,7 @@
   },
   {
     "file": "87783e08fcf3.nes",
+    "size": 24592,
     "title": "一揆",
     "author": "",
     "featured": false,
@@ -4713,6 +5327,7 @@
   },
   {
     "file": "dda02820f3d2.nes",
+    "size": 65552,
     "title": "冒险岛",
     "author": "",
     "featured": false,
@@ -4721,6 +5336,7 @@
   },
   {
     "file": "f53fd2b03cfc.nes",
+    "size": 262160,
     "title": "冒险岛2",
     "author": "",
     "featured": false,
@@ -4729,6 +5345,7 @@
   },
   {
     "file": "9f8d51762125.nes",
+    "size": 262160,
     "title": "未知游戏 102",
     "author": "",
     "featured": false,
@@ -4737,6 +5354,7 @@
   },
   {
     "file": "e73efd3e932b.nes",
+    "size": 393232,
     "title": "未知游戏 103",
     "author": "",
     "featured": false,
@@ -4745,6 +5363,7 @@
   },
   {
     "file": "e3f7fa9b52f9.nes",
+    "size": 786464,
     "title": "成龙踢馆",
     "author": "",
     "featured": false,
@@ -4753,6 +5372,7 @@
   },
   {
     "file": "dbdbb9cc04fe.nes",
+    "size": 262160,
     "title": "兽王记",
     "author": "",
     "featured": false,
@@ -4761,12 +5381,14 @@
   },
   {
     "file": "dc4dc8894af9.nes",
+    "size": 262160,
     "title": "KAGE",
     "author": "",
     "featured": false
   },
   {
     "file": "8a9e3af36c39.nes",
+    "size": 49168,
     "title": "影之传说",
     "author": "",
     "featured": false,
@@ -4775,6 +5397,7 @@
   },
   {
     "file": "3701381a82fc.nes",
+    "size": 131088,
     "title": "塞尔达传说",
     "author": "",
     "featured": false,
@@ -4783,6 +5406,7 @@
   },
   {
     "file": "e5e5488c9211.nes",
+    "size": 196624,
     "title": "三个枪手",
     "author": "",
     "featured": false,
@@ -4791,6 +5415,7 @@
   },
   {
     "file": "3e62fae9a2a1.nes",
+    "size": 24592,
     "title": "超时空要塞",
     "author": "",
     "featured": false,
@@ -4799,6 +5424,7 @@
   },
   {
     "file": "a9daff94a800.nes",
+    "size": 262160,
     "title": "未知游戏 119",
     "author": "",
     "featured": false,
@@ -4807,6 +5433,7 @@
   },
   {
     "file": "6188e9d44859.nes",
+    "size": 131088,
     "title": "未知游戏 120",
     "author": "",
     "featured": false,
@@ -4815,6 +5442,7 @@
   },
   {
     "file": "0b8f7fd2a914.nes",
+    "size": 524304,
     "title": "重装机兵",
     "author": "",
     "featured": false,
@@ -4823,6 +5451,7 @@
   },
   {
     "file": "793683592e79.nes",
+    "size": 262160,
     "title": "未知游戏 122",
     "author": "",
     "featured": false,
@@ -4831,6 +5460,7 @@
   },
   {
     "file": "f79d87d9b324.nes",
+    "size": 262160,
     "title": "未知游戏 123",
     "author": "",
     "featured": false,
@@ -4839,6 +5469,7 @@
   },
   {
     "file": "c42bd66dc595.nes",
+    "size": 262160,
     "title": "未知游戏 124",
     "author": "",
     "featured": false,
@@ -4847,6 +5478,7 @@
   },
   {
     "file": "73c2329c3a2c.nes",
+    "size": 262160,
     "title": "热血高校躲避球部",
     "author": "",
     "featured": false,
@@ -4855,6 +5487,7 @@
   },
   {
     "file": "71efded19e16.nes",
+    "size": 262160,
     "title": "未知游戏 128",
     "author": "",
     "featured": false,
@@ -4863,6 +5496,7 @@
   },
   {
     "file": "df1d1aa408e9.nes",
+    "size": 262160,
     "title": "未知游戏 130",
     "author": "",
     "featured": false,
@@ -4871,6 +5505,7 @@
   },
   {
     "file": "89ddef170ced.nes",
+    "size": 131088,
     "title": "龙牙",
     "author": "",
     "featured": false,
@@ -4879,6 +5514,7 @@
   },
   {
     "file": "dabbea666744.nes",
+    "size": 40976,
     "title": "忍者小灵精",
     "author": "",
     "featured": false,
@@ -4887,6 +5523,7 @@
   },
   {
     "file": "02163536d83c.nes",
+    "size": 24592,
     "title": "未知游戏 133",
     "author": "",
     "featured": false,
@@ -4895,6 +5532,7 @@
   },
   {
     "file": "a10391f2b0f2.nes",
+    "size": 262160,
     "title": "忍者龙剑传3",
     "author": "",
     "featured": false,
@@ -4903,6 +5541,7 @@
   },
   {
     "file": "da1d5fb3d856.nes",
+    "size": 262160,
     "title": "未知游戏 138",
     "author": "",
     "featured": false,
@@ -4911,6 +5550,7 @@
   },
   {
     "file": "d2f25a027e39.nes",
+    "size": 24592,
     "title": "未知游戏 140",
     "author": "",
     "featured": false,
@@ -4919,6 +5559,7 @@
   },
   {
     "file": "6b58f149f34f.nes",
+    "size": 131088,
     "title": "波斯王子",
     "author": "",
     "featured": false,
@@ -4927,6 +5568,7 @@
   },
   {
     "file": "3a6f7e2c4094.nes",
+    "size": 24592,
     "title": "大力水手",
     "author": "",
     "featured": false,
@@ -4935,6 +5577,7 @@
   },
   {
     "file": "6531ff3a062c.nes",
+    "size": 131088,
     "title": "Probotector(魂斗罗欧版)",
     "author": "",
     "featured": false,
@@ -4943,6 +5586,7 @@
   },
   {
     "file": "786f4a93a5c0.nes",
+    "size": 262160,
     "title": "未知游戏 144",
     "author": "",
     "featured": false,
@@ -4951,6 +5595,7 @@
   },
   {
     "file": "77bab039b13a.nes",
+    "size": 262160,
     "title": "未知游戏 146",
     "author": "",
     "featured": false,
@@ -4959,6 +5604,7 @@
   },
   {
     "file": "5914d409ea02.nes",
+    "size": 131088,
     "title": "洛克人",
     "author": "",
     "featured": false,
@@ -4967,6 +5613,7 @@
   },
   {
     "file": "fb51875d1ff4.nes",
+    "size": 262160,
     "title": "洛克人2",
     "author": "",
     "featured": false,
@@ -4975,6 +5622,7 @@
   },
   {
     "file": "104d7c8bae79.nes",
+    "size": 917536,
     "title": "洛克人3",
     "author": "",
     "featured": false,
@@ -4983,6 +5631,7 @@
   },
   {
     "file": "a1cb0f958eaf.nes",
+    "size": 1048608,
     "title": "洛克人4",
     "author": "",
     "featured": false,
@@ -4991,6 +5640,7 @@
   },
   {
     "file": "e9a22f737235.nes",
+    "size": 1048608,
     "title": "洛克人5",
     "author": "",
     "featured": false,
@@ -4999,6 +5649,7 @@
   },
   {
     "file": "6e0c56f13188.nes",
+    "size": 1048608,
     "title": "洛克人6",
     "author": "",
     "featured": false,
@@ -5007,6 +5658,7 @@
   },
   {
     "file": "303d91f30c53.nes",
+    "size": 1048608,
     "title": "洛克人6",
     "author": "",
     "featured": false,
@@ -5015,12 +5667,14 @@
   },
   {
     "file": "371c81f2baf7.nes",
+    "size": 688160,
     "title": "Rollerball",
     "author": "",
     "featured": false
   },
   {
     "file": "cd86f567ac9d.nes",
+    "size": 131088,
     "title": "未知游戏 155",
     "author": "",
     "featured": false,
@@ -5029,6 +5683,7 @@
   },
   {
     "file": "40257a35053c.nes",
+    "size": 393232,
     "title": "三国志-群雄争霸",
     "author": "",
     "featured": false,
@@ -5037,6 +5692,7 @@
   },
   {
     "file": "1962227fc6f5.nes",
+    "size": 262160,
     "title": "三国志(Namcot)",
     "author": "",
     "featured": false,
@@ -5045,6 +5701,7 @@
   },
   {
     "file": "4eafc192ed00.nes",
+    "size": 262160,
     "title": "未知游戏 165",
     "author": "",
     "featured": false,
@@ -5053,6 +5710,7 @@
   },
   {
     "file": "69a6dc8d614d.nes",
+    "size": 524304,
     "title": "三国志2-霸王的大陆",
     "author": "",
     "featured": false,
@@ -5061,6 +5719,7 @@
   },
   {
     "file": "46dddd3ff080.nes",
+    "size": 131088,
     "title": "未知游戏 169",
     "author": "",
     "featured": false,
@@ -5069,6 +5728,7 @@
   },
   {
     "file": "0286ff35cda4.nes",
+    "size": 393232,
     "title": "街头霸王ZERO2",
     "author": "",
     "featured": false,
@@ -5077,6 +5737,7 @@
   },
   {
     "file": "560b232290f1.nes",
+    "size": 262160,
     "title": "双截龙2",
     "author": "",
     "featured": false,
@@ -5085,6 +5746,7 @@
   },
   {
     "file": "adfc8e6372fd.nes",
+    "size": 262160,
     "title": "雪人兄弟",
     "author": "",
     "featured": false,
@@ -5093,6 +5755,7 @@
   },
   {
     "file": "4aee1b4ba103.nes",
+    "size": 262160,
     "title": "快打旋风2",
     "author": "",
     "featured": false,
@@ -5101,6 +5764,7 @@
   },
   {
     "file": "ac09252456f5.nes",
+    "size": 786464,
     "title": "快打旋风2",
     "author": "",
     "featured": false,
@@ -5109,6 +5773,7 @@
   },
   {
     "file": "a937425794b4.nes",
+    "size": 139280,
     "title": "未知游戏 176",
     "author": "",
     "featured": false,
@@ -5117,6 +5782,7 @@
   },
   {
     "file": "5c5d623ba047.nes",
+    "size": 262160,
     "title": "街头霸王12人版",
     "author": "",
     "featured": false,
@@ -5125,6 +5791,7 @@
   },
   {
     "file": "dd78ece5ab0c.nes",
+    "size": 262160,
     "title": "热血物语(美版)",
     "author": "",
     "featured": false,
@@ -5133,6 +5800,7 @@
   },
   {
     "file": "c1c92e9ca256.nes",
+    "size": 262160,
     "title": "未知游戏 179",
     "author": "",
     "featured": false,
@@ -5141,6 +5809,7 @@
   },
   {
     "file": "e1388ce61ea8.nes",
+    "size": 262160,
     "title": "恶魔城2-西蒙的诅咒",
     "author": "",
     "featured": false,
@@ -5149,6 +5818,7 @@
   },
   {
     "file": "42f954e9bd32.nes",
+    "size": 262160,
     "title": "超级躲避球",
     "author": "",
     "featured": false,
@@ -5157,6 +5827,7 @@
   },
   {
     "file": "ea343f4e445a.nes",
+    "size": 40976,
     "title": "超级马里奥",
     "author": "",
     "featured": false,
@@ -5165,6 +5836,7 @@
   },
   {
     "file": "d9f36f09b863.nes",
+    "size": 262160,
     "title": "超级马里奥2",
     "author": "",
     "featured": false,
@@ -5173,6 +5845,7 @@
   },
   {
     "file": "07e3c42ad202.nes",
+    "size": 40976,
     "title": "超级马里奥(改版)",
     "author": "",
     "featured": false,
@@ -5181,6 +5854,7 @@
   },
   {
     "file": "c3e3f1b1e3a1.nes",
+    "size": 786448,
     "title": "超级马里奥世界",
     "author": "",
     "featured": false,
@@ -5189,6 +5863,7 @@
   },
   {
     "file": "31eccad1b33e.nes",
+    "size": 524304,
     "title": "超级阿拉丁",
     "author": "",
     "featured": false,
@@ -5197,6 +5872,7 @@
   },
   {
     "file": "9135bafce97b.nes",
+    "size": 393232,
     "title": "未知游戏 190",
     "author": "",
     "featured": false,
@@ -5205,6 +5881,7 @@
   },
   {
     "file": "ae8b55857e8a.nes",
+    "size": 688160,
     "title": "高桥名人之Bug奇遇记",
     "author": "",
     "featured": false,
@@ -5213,6 +5890,7 @@
   },
   {
     "file": "182f90114253.nes",
+    "size": 262160,
     "title": "忍者神龟格斗无限弹珠版",
     "author": "",
     "featured": false,
@@ -5221,6 +5899,7 @@
   },
   {
     "file": "a88275e02d03.nes",
+    "size": 65552,
     "title": "俄罗斯方块(Tengen)",
     "author": "",
     "featured": false,
@@ -5229,12 +5908,14 @@
   },
   {
     "file": "0d14c2a2527f.nes",
+    "size": 262160,
     "title": "Montana Land",
     "author": "",
     "featured": false
   },
   {
     "file": "709016db8902.nes",
+    "size": 262160,
     "title": "猫和老鼠",
     "author": "",
     "featured": false,
@@ -5243,6 +5924,7 @@
   },
   {
     "file": "4e2a008c5aa8.nes",
+    "size": 524304,
     "title": "吞食天地1",
     "author": "",
     "featured": false,
@@ -5251,6 +5933,7 @@
   },
   {
     "file": "e0c9f9984f63.nes",
+    "size": 131088,
     "title": "双鹰",
     "author": "",
     "featured": false,
@@ -5259,12 +5942,14 @@
   },
   {
     "file": "a1c47b356e39.nes",
+    "size": 49168,
     "title": "TwinBee",
     "author": "",
     "featured": false
   },
   {
     "file": "3f7428865ea2.nes",
+    "size": 262160,
     "title": "人间兵器",
     "author": "",
     "featured": false,
@@ -5273,6 +5958,7 @@
   },
   {
     "file": "7124b65b810a.nes",
+    "size": 262160,
     "title": "库克的美食世界",
     "author": "",
     "featured": false,
@@ -5281,6 +5967,7 @@
   },
   {
     "file": "4e21bb0d9b87.nes",
+    "size": 24592,
     "title": "功夫",
     "author": "",
     "featured": false,
@@ -5289,6 +5976,7 @@
   },
   {
     "file": "74aed2eead25.nes",
+    "size": 524304,
     "title": "最终幻想2(宇宙战将)",
     "author": "",
     "featured": false,
@@ -5297,6 +5985,7 @@
   },
   {
     "file": "fa4265cfd1f7.nes",
+    "size": 393232,
     "title": "幽游白书-魔强统一战",
     "author": "",
     "featured": false,
@@ -5305,6 +5994,7 @@
   },
   {
     "file": "05d8c2a70662.nes",
+    "size": 1048592,
     "title": "七国大战",
     "author": "",
     "featured": false,
@@ -5313,6 +6003,7 @@
   },
   {
     "file": "e1d29e26b58e.nes",
+    "size": 49168,
     "title": "七宝奇谋(CN)",
     "author": "",
     "featured": false,
@@ -5321,6 +6012,7 @@
   },
   {
     "file": "616ba2ec9613.nes",
+    "size": 655392,
     "title": "七宝奇谋2",
     "author": "",
     "featured": false,
@@ -5329,6 +6021,7 @@
   },
   {
     "file": "ee265d0fbac1.nes",
+    "size": 1048592,
     "title": "七龙珠大冒险",
     "author": "",
     "featured": false,
@@ -5337,6 +6030,7 @@
   },
   {
     "file": "b633cc515c6a.nes",
+    "size": 196624,
     "title": "三个枪手",
     "author": "",
     "featured": false,
@@ -5345,6 +6039,7 @@
   },
   {
     "file": "28e679d9a229.nes",
+    "size": 24592,
     "title": "三只小猪",
     "author": "",
     "featured": false,
@@ -5353,6 +6048,7 @@
   },
   {
     "file": "ce2c0c9c15bc.nes",
+    "size": 1048592,
     "title": "三国大乱斗-战国",
     "author": "",
     "featured": false,
@@ -5361,6 +6057,7 @@
   },
   {
     "file": "1e63ee48133a.nes",
+    "size": 2097168,
     "title": "三国志-曹操传",
     "author": "",
     "featured": false,
@@ -5369,6 +6066,7 @@
   },
   {
     "file": "d10bf899f9c1.nes",
+    "size": 524304,
     "title": "三国志超级版",
     "author": "",
     "featured": false,
@@ -5377,6 +6075,7 @@
   },
   {
     "file": "116dcd9c7645.nes",
+    "size": 2097168,
     "title": "三国无双-猛将传",
     "author": "",
     "featured": false,
@@ -5385,6 +6084,7 @@
   },
   {
     "file": "90957f8685fe.nes",
+    "size": 786464,
     "title": "三目童子(中文)",
     "author": "",
     "featured": false,
@@ -5393,6 +6093,7 @@
   },
   {
     "file": "cc8476f2f51c.nes",
+    "size": 262160,
     "title": "三目童子",
     "author": "",
     "featured": false,
@@ -5401,6 +6102,7 @@
   },
   {
     "file": "4b234d121093.nes",
+    "size": 262160,
     "title": "三目童子",
     "author": "",
     "featured": false,
@@ -5409,6 +6111,7 @@
   },
   {
     "file": "a4c874da1120.nes",
+    "size": 786464,
     "title": "三目童子子弹增加版",
     "author": "",
     "featured": false,
@@ -5417,6 +6120,7 @@
   },
   {
     "file": "d38cd578705f.nes",
+    "size": 262160,
     "title": "三眼童子",
     "author": "",
     "featured": false,
@@ -5425,6 +6129,7 @@
   },
   {
     "file": "c92b727ad4bd.nes",
+    "size": 262160,
     "title": "上尉命令",
     "author": "",
     "featured": false,
@@ -5433,6 +6138,7 @@
   },
   {
     "file": "ca1492c06858.nes",
+    "size": 262160,
     "title": "上尉密令",
     "author": "",
     "featured": false,
@@ -5441,6 +6147,7 @@
   },
   {
     "file": "3ab317be85c9.nes",
+    "size": 524304,
     "title": "上海大亨(大富翁2)",
     "author": "",
     "featured": false,
@@ -5449,6 +6156,7 @@
   },
   {
     "file": "7f0c544ea57e.nes",
+    "size": 131088,
     "title": "世界杯足球赛",
     "author": "",
     "featured": false,
@@ -5457,6 +6165,7 @@
   },
   {
     "file": "0806ef657604.nes",
+    "size": 786448,
     "title": "世界英雄2",
     "author": "",
     "featured": false,
@@ -5465,6 +6174,7 @@
   },
   {
     "file": "b4944e43016c.nes",
+    "size": 524304,
     "title": "东周列国志",
     "author": "",
     "featured": false,
@@ -5473,6 +6183,7 @@
   },
   {
     "file": "34959b1f71bf.nes",
+    "size": 262160,
     "title": "中东战争联合大作战",
     "author": "",
     "featured": false,
@@ -5481,6 +6192,7 @@
   },
   {
     "file": "6c95fe9dfe76.nes",
+    "size": 40976,
     "title": "中国象棋",
     "author": "",
     "featured": false,
@@ -5489,6 +6201,7 @@
   },
   {
     "file": "bc2268b3e478.nes",
+    "size": 294928,
     "title": "人间兵器",
     "author": "",
     "featured": false,
@@ -5497,6 +6210,7 @@
   },
   {
     "file": "71277e2e8819.nes",
+    "size": 262160,
     "title": "企鹅梦物语",
     "author": "",
     "featured": false,
@@ -5505,6 +6219,7 @@
   },
   {
     "file": "7589ff1c6ce7.nes",
+    "size": 65552,
     "title": "俄罗斯方块",
     "author": "",
     "featured": false,
@@ -5513,6 +6228,7 @@
   },
   {
     "file": "3603dcdd69a1.nes",
+    "size": 81936,
     "title": "保护Baby(U)",
     "author": "",
     "featured": false,
@@ -5521,6 +6237,7 @@
   },
   {
     "file": "b1127164c74a.nes",
+    "size": 98320,
     "title": "偷看扑克",
     "author": "",
     "featured": false,
@@ -5529,6 +6246,7 @@
   },
   {
     "file": "d5315401a395.nes",
+    "size": 131215,
     "title": "光之神话",
     "author": "",
     "featured": false,
@@ -5537,6 +6255,7 @@
   },
   {
     "file": "1cc3e9d52c59.nes",
+    "size": 131088,
     "title": "克纳米宣传足球",
     "author": "",
     "featured": false,
@@ -5545,6 +6264,7 @@
   },
   {
     "file": "03b89235c390.nes",
+    "size": 40976,
     "title": "兔子超级玛丽",
     "author": "",
     "featured": false,
@@ -5553,6 +6273,7 @@
   },
   {
     "file": "1829810f7c25.nes",
+    "size": 262160,
     "title": "兔宝宝冒险",
     "author": "",
     "featured": false,
@@ -5561,6 +6282,7 @@
   },
   {
     "file": "e5f952fb7e4e.nes",
+    "size": 262160,
     "title": "兔宝宝历险记2",
     "author": "",
     "featured": false,
@@ -5569,6 +6291,7 @@
   },
   {
     "file": "20cc495d1480.nes",
+    "size": 262160,
     "title": "兔宝宝大冒险1",
     "author": "",
     "featured": false,
@@ -5577,6 +6300,7 @@
   },
   {
     "file": "8070a159a1cf.nes",
+    "size": 262160,
     "title": "兔宝宝大冒险2",
     "author": "",
     "featured": false,
@@ -5585,6 +6309,7 @@
   },
   {
     "file": "20ab59e78cc0.nes",
+    "size": 262160,
     "title": "兔宝宝大冒险",
     "author": "",
     "featured": false,
@@ -5593,6 +6318,7 @@
   },
   {
     "file": "653ec81b4370.nes",
+    "size": 24592,
     "title": "公路赛车",
     "author": "",
     "featured": false,
@@ -5601,6 +6327,7 @@
   },
   {
     "file": "784dcde7d240.nes",
+    "size": 49168,
     "title": "兵蜂1",
     "author": "",
     "featured": false,
@@ -5609,6 +6336,7 @@
   },
   {
     "file": "0976e57548ed.nes",
+    "size": 262160,
     "title": "兽王记",
     "author": "",
     "featured": false,
@@ -5617,6 +6345,7 @@
   },
   {
     "file": "bcbdc254be02.nes",
+    "size": 65552,
     "title": "冒险岛1",
     "author": "",
     "featured": false,
@@ -5625,6 +6354,7 @@
   },
   {
     "file": "90556d77d18e.nes",
+    "size": 65552,
     "title": "冒险岛1无敌版",
     "author": "",
     "featured": false,
@@ -5633,6 +6363,7 @@
   },
   {
     "file": "1f8b08926876.nes",
+    "size": 262160,
     "title": "冒险岛2",
     "author": "",
     "featured": false,
@@ -5641,6 +6372,7 @@
   },
   {
     "file": "dbe403d1002d.nes",
+    "size": 262160,
     "title": "冒险岛2中文版",
     "author": "",
     "featured": false,
@@ -5649,6 +6381,7 @@
   },
   {
     "file": "440488e35c77.nes",
+    "size": 262160,
     "title": "冒险岛2全部无限",
     "author": "",
     "featured": false,
@@ -5657,6 +6390,7 @@
   },
   {
     "file": "07e2787b01b0.nes",
+    "size": 262160,
     "title": "冒险岛2无限人",
     "author": "",
     "featured": false,
@@ -5665,6 +6399,7 @@
   },
   {
     "file": "571893ebc582.nes",
+    "size": 262160,
     "title": "冒险岛3中文版",
     "author": "",
     "featured": false,
@@ -5673,6 +6408,7 @@
   },
   {
     "file": "4b8d368a8f58.nes",
+    "size": 393232,
     "title": "冒险岛4",
     "author": "",
     "featured": false,
@@ -5681,6 +6417,7 @@
   },
   {
     "file": "4bba15314edd.nes",
+    "size": 393232,
     "title": "冒险岛4隐形版",
     "author": "",
     "featured": false,
@@ -5689,6 +6426,7 @@
   },
   {
     "file": "4c30689a985f.nes",
+    "size": 24592,
     "title": "冰山登山者",
     "author": "",
     "featured": false,
@@ -5697,6 +6435,7 @@
   },
   {
     "file": "863d317417c7.nes",
+    "size": 24592,
     "title": "前线",
     "author": "",
     "featured": false,
@@ -5705,6 +6444,7 @@
   },
   {
     "file": "4a312253a8cd.nes",
+    "size": 24592,
     "title": "功夫",
     "author": "",
     "featured": false,
@@ -5713,6 +6453,7 @@
   },
   {
     "file": "db3554b25970.nes",
+    "size": 262160,
     "title": "加纳战机(无限命+无限雷)",
     "author": "",
     "featured": false,
@@ -5721,6 +6462,7 @@
   },
   {
     "file": "8d7c9af46d4f.nes",
+    "size": 262160,
     "title": "加纳战机",
     "author": "",
     "featured": false,
@@ -5729,6 +6471,7 @@
   },
   {
     "file": "9fde32482689.nes",
+    "size": 262160,
     "title": "加纳战机无敌版",
     "author": "",
     "featured": false,
@@ -5737,6 +6480,7 @@
   },
   {
     "file": "3445042019b4.nes",
+    "size": 131088,
     "title": "勇士们hack",
     "author": "",
     "featured": false,
@@ -5745,6 +6489,7 @@
   },
   {
     "file": "f0174c987f14.nes",
+    "size": 262160,
     "title": "勇者斗恶龙5",
     "author": "",
     "featured": false,
@@ -5753,6 +6498,7 @@
   },
   {
     "file": "b28b09a23ea2.nes",
+    "size": 524304,
     "title": "勇者斗恶龙6",
     "author": "",
     "featured": false,
@@ -5761,6 +6507,7 @@
   },
   {
     "file": "cc678291cf6e.nes",
+    "size": 1048592,
     "title": "勇者斗恶龙7",
     "author": "",
     "featured": false,
@@ -5769,6 +6516,7 @@
   },
   {
     "file": "58f5835efb73.nes",
+    "size": 524304,
     "title": "勇者斗恶龙8",
     "author": "",
     "featured": false,
@@ -5777,6 +6525,7 @@
   },
   {
     "file": "9e8b8153d4c2.nes",
+    "size": 393232,
     "title": "包青天",
     "author": "",
     "featured": false,
@@ -5785,6 +6534,7 @@
   },
   {
     "file": "10d6d3500aba.nes",
+    "size": 131088,
     "title": "北斗神拳",
     "author": "",
     "featured": false,
@@ -5793,6 +6543,7 @@
   },
   {
     "file": "0c7a31882ddd.nes",
+    "size": 524304,
     "title": "匹诺槽的复苏",
     "author": "",
     "featured": false,
@@ -5801,6 +6552,7 @@
   },
   {
     "file": "baba1acc23b7.nes",
+    "size": 32784,
     "title": "南极大冒险",
     "author": "",
     "featured": false,
@@ -5809,6 +6561,7 @@
   },
   {
     "file": "e4fbbe69b3b5.nes",
+    "size": 262160,
     "title": "双截龙2",
     "author": "",
     "featured": false,
@@ -5817,6 +6570,7 @@
   },
   {
     "file": "ab335f24f2a7.nes",
+    "size": 262160,
     "title": "双截龙3",
     "author": "",
     "featured": false,
@@ -5825,6 +6579,7 @@
   },
   {
     "file": "fa4c9c2b24a0.nes",
+    "size": 262288,
     "title": "双截龙3中文版",
     "author": "",
     "featured": false,
@@ -5833,6 +6588,7 @@
   },
   {
     "file": "586ba6a5e0df.nes",
+    "size": 262160,
     "title": "双截龙3跳关版",
     "author": "",
     "featured": false,
@@ -5841,6 +6597,7 @@
   },
   {
     "file": "e6524877125f.nes",
+    "size": 262288,
     "title": "双截龙",
     "author": "",
     "featured": false,
@@ -5849,6 +6606,7 @@
   },
   {
     "file": "b2aaaa8396d6.nes",
+    "size": 262160,
     "title": "双蛇城",
     "author": "",
     "featured": false,
@@ -5857,6 +6615,7 @@
   },
   {
     "file": "f1c3955a3e9d.nes",
+    "size": 131088,
     "title": "双鹰",
     "author": "",
     "featured": false,
@@ -5865,6 +6624,7 @@
   },
   {
     "file": "a1ad65f7ac29.nes",
+    "size": 262160,
     "title": "口袋妖怪",
     "author": "",
     "featured": false,
@@ -5873,6 +6633,7 @@
   },
   {
     "file": "b79713cda818.nes",
+    "size": 262160,
     "title": "口袋妖怪4合1",
     "author": "",
     "featured": false,
@@ -5881,6 +6642,7 @@
   },
   {
     "file": "917fabb535db.nes",
+    "size": 1048592,
     "title": "口袋妖怪金",
     "author": "",
     "featured": false,
@@ -5889,6 +6651,7 @@
   },
   {
     "file": "1862dc3c46c6.nes",
+    "size": 1048592,
     "title": "口袋妖怪金简体中文版",
     "author": "",
     "featured": false,
@@ -5897,6 +6660,7 @@
   },
   {
     "file": "bfbb1204a876.nes",
+    "size": 2097168,
     "title": "口袋宝石银",
     "author": "",
     "featured": false,
@@ -5905,6 +6669,7 @@
   },
   {
     "file": "995d60ec8d5e.nes",
+    "size": 1048592,
     "title": "口袋精灵水晶",
     "author": "",
     "featured": false,
@@ -5913,6 +6678,7 @@
   },
   {
     "file": "a452ba4eecd5.nes",
+    "size": 1048592,
     "title": "口袋精灵红(宠物红)",
     "author": "",
     "featured": false,
@@ -5921,6 +6687,7 @@
   },
   {
     "file": "981b0d9112fd.nes",
+    "size": 1048592,
     "title": "口袋精灵金",
     "author": "",
     "featured": false,
@@ -5929,6 +6696,7 @@
   },
   {
     "file": "a4994922e691.nes",
+    "size": 524304,
     "title": "古墓丽影",
     "author": "",
     "featured": false,
@@ -5937,6 +6705,7 @@
   },
   {
     "file": "77411a2f3a70.nes",
+    "size": 262160,
     "title": "古巴战争",
     "author": "",
     "featured": false,
@@ -5945,6 +6714,7 @@
   },
   {
     "file": "c91fa0db37b4.nes",
+    "size": 262160,
     "title": "古巴战士",
     "author": "",
     "featured": false,
@@ -5953,6 +6723,7 @@
   },
   {
     "file": "2f2ff0e133e6.nes",
+    "size": 49168,
     "title": "台湾16张麻将(中文)",
     "author": "",
     "featured": false,
@@ -5961,6 +6732,7 @@
   },
   {
     "file": "d229ab42c26e.nes",
+    "size": 131088,
     "title": "合金装备美版燃烧战车美版(U)",
     "author": "",
     "featured": false,
@@ -5969,6 +6741,7 @@
   },
   {
     "file": "870ce485fe94.nes",
+    "size": 393232,
     "title": "吉米克",
     "author": "",
     "featured": false,
@@ -5977,6 +6750,7 @@
   },
   {
     "file": "bf4431d15e3f.nes",
+    "size": 524304,
     "title": "吞食天地1",
     "author": "",
     "featured": false,
@@ -5985,6 +6759,7 @@
   },
   {
     "file": "7fb3d51176ac.nes",
+    "size": 262160,
     "title": "吞食天地一代",
     "author": "",
     "featured": false,
@@ -5993,6 +6768,7 @@
   },
   {
     "file": "88fb962d888c.nes",
+    "size": 262160,
     "title": "咸蛋超人",
     "author": "",
     "featured": false,
@@ -6001,6 +6777,7 @@
   },
   {
     "file": "278c657578be.nes",
+    "size": 262160,
     "title": "哈利传奇(中文)",
     "author": "",
     "featured": false,
@@ -6009,6 +6786,7 @@
   },
   {
     "file": "82e7a439652c.nes",
+    "size": 262160,
     "title": "哈林篮球",
     "author": "",
     "featured": false,
@@ -6017,6 +6795,7 @@
   },
   {
     "file": "05693b8c1e17.nes",
+    "size": 524304,
     "title": "哥伦布传",
     "author": "",
     "featured": false,
@@ -6025,6 +6804,7 @@
   },
   {
     "file": "fd7286390b50.nes",
+    "size": 2097168,
     "title": "哪吒传奇",
     "author": "",
     "featured": false,
@@ -6033,6 +6813,7 @@
   },
   {
     "file": "7188d8ce3d8d.nes",
+    "size": 262160,
     "title": "唐老鸭",
     "author": "",
     "featured": false,
@@ -6041,6 +6822,7 @@
   },
   {
     "file": "76093ea07a16.nes",
+    "size": 131088,
     "title": "唐老鸭2",
     "author": "",
     "featured": false,
@@ -6049,6 +6831,7 @@
   },
   {
     "file": "521076c42d80.nes",
+    "size": 131088,
     "title": "唐老鸭梦冒险2",
     "author": "",
     "featured": false,
@@ -6057,6 +6840,7 @@
   },
   {
     "file": "5735efd77646.nes",
+    "size": 131088,
     "title": "嘉蒂外传",
     "author": "",
     "featured": false,
@@ -6065,6 +6849,7 @@
   },
   {
     "file": "42ac1fcea405.nes",
+    "size": 262160,
     "title": "回到未来2&3",
     "author": "",
     "featured": false,
@@ -6073,6 +6858,7 @@
   },
   {
     "file": "0160a9732916.nes",
+    "size": 589856,
     "title": "围棋大战g",
     "author": "",
     "featured": false,
@@ -6081,6 +6867,7 @@
   },
   {
     "file": "7334940519fb.nes",
+    "size": 262160,
     "title": "圣斗士星矢2(中文)",
     "author": "",
     "featured": false,
@@ -6089,6 +6876,7 @@
   },
   {
     "file": "76c20b1cc7b7.nes",
+    "size": 1048592,
     "title": "圣斗士星矢-北欧突击篇",
     "author": "",
     "featured": false,
@@ -6097,6 +6885,7 @@
   },
   {
     "file": "6f690fd9e6e8.nes",
+    "size": 2097168,
     "title": "圣斗士星矢-天马之幻想",
     "author": "",
     "featured": false,
@@ -6105,6 +6894,7 @@
   },
   {
     "file": "46d95450348b.nes",
+    "size": 655376,
     "title": "圣火徽章2",
     "author": "",
     "featured": false,
@@ -6113,6 +6903,7 @@
   },
   {
     "file": "7bb9d13bbe3c.nes",
+    "size": 655376,
     "title": "圣火徽章-索菲亚复苏(圣火徽章外传)",
     "author": "",
     "featured": false,
@@ -6121,6 +6912,7 @@
   },
   {
     "file": "3d0d71ea765d.nes",
+    "size": 393232,
     "title": "圣铃传说(美版)(U)",
     "author": "",
     "featured": false,
@@ -6129,6 +6921,7 @@
   },
   {
     "file": "04ec186bb0f3.nes",
+    "size": 393232,
     "title": "圣铃传说",
     "author": "",
     "featured": false,
@@ -6137,6 +6930,7 @@
   },
   {
     "file": "88799d236447.nes",
+    "size": 40976,
     "title": "地底探险",
     "author": "",
     "featured": false,
@@ -6145,6 +6939,7 @@
   },
   {
     "file": "adf42bf3bd2f.nes",
+    "size": 262160,
     "title": "地狱极乐丸",
     "author": "",
     "featured": false,
@@ -6153,6 +6948,7 @@
   },
   {
     "file": "2ef8a69602f9.nes",
+    "size": 524304,
     "title": "地球战士",
     "author": "",
     "featured": false,
@@ -6161,6 +6957,7 @@
   },
   {
     "file": "79dc7e1f166b.nes",
+    "size": 41104,
     "title": "坦克1990",
     "author": "",
     "featured": false,
@@ -6169,6 +6966,7 @@
   },
   {
     "file": "e963de4ec4aa.nes",
+    "size": 24592,
     "title": "坦克仔",
     "author": "",
     "featured": false,
@@ -6177,6 +6975,7 @@
   },
   {
     "file": "c6708970a8d1.nes",
+    "size": 49168,
     "title": "坦克大战-导弹坦克",
     "author": "",
     "featured": false,
@@ -6185,6 +6984,7 @@
   },
   {
     "file": "e9250d7da4ff.nes",
+    "size": 24592,
     "title": "坦克大战加速版",
     "author": "",
     "featured": false,
@@ -6193,6 +6993,7 @@
   },
   {
     "file": "5a9502792e20.nes",
+    "size": 524304,
     "title": "塞外奇侠传",
     "author": "",
     "featured": false,
@@ -6201,6 +7002,7 @@
   },
   {
     "file": "5ed40a57d655.nes",
+    "size": 131088,
     "title": "塞尔达传说(东方的传说)",
     "author": "",
     "featured": false,
@@ -6209,6 +7011,7 @@
   },
   {
     "file": "d159197825b9.nes",
+    "size": 262160,
     "title": "外星战将",
     "author": "",
     "featured": false,
@@ -6217,6 +7020,7 @@
   },
   {
     "file": "266846b75363.nes",
+    "size": 262160,
     "title": "多变神童",
     "author": "",
     "featured": false,
@@ -6225,6 +7029,7 @@
   },
   {
     "file": "187f1a798423.nes",
+    "size": 24592,
     "title": "大力水手",
     "author": "",
     "featured": false,
@@ -6233,6 +7038,7 @@
   },
   {
     "file": "f05d1c7aee08.nes",
+    "size": 24592,
     "title": "大力水手",
     "author": "",
     "featured": false,
@@ -6241,6 +7047,7 @@
   },
   {
     "file": "c8c011ab830e.nes",
+    "size": 262160,
     "title": "大坦克",
     "author": "",
     "featured": false,
@@ -6249,6 +7056,7 @@
   },
   {
     "file": "0824e8c11d1a.nes",
+    "size": 262160,
     "title": "大拳头猫",
     "author": "",
     "featured": false,
@@ -6257,6 +7065,7 @@
   },
   {
     "file": "2793e348c636.nes",
+    "size": 262160,
     "title": "大拳猫",
     "author": "",
     "featured": false,
@@ -6265,6 +7074,7 @@
   },
   {
     "file": "61acced0cd8e.nes",
+    "size": 524304,
     "title": "大航海7",
     "author": "",
     "featured": false,
@@ -6273,6 +7083,7 @@
   },
   {
     "file": "378243a450da.nes",
+    "size": 524304,
     "title": "大话西游",
     "author": "",
     "featured": false,
@@ -6281,6 +7092,7 @@
   },
   {
     "file": "f77ff34c936f.nes",
+    "size": 393232,
     "title": "大锤子2",
     "author": "",
     "featured": false,
@@ -6289,6 +7101,7 @@
   },
   {
     "file": "870af6bda75f.nes",
+    "size": 786448,
     "title": "天使之翼(足球小将2)汉化中文",
     "author": "",
     "featured": false,
@@ -6297,6 +7110,7 @@
   },
   {
     "file": "809910e0caa7.nes",
+    "size": 262160,
     "title": "天才厨师",
     "author": "",
     "featured": false,
@@ -6305,6 +7119,7 @@
   },
   {
     "file": "667266da44bc.nes",
+    "size": 2097168,
     "title": "太空幻想",
     "author": "",
     "featured": false,
@@ -6313,6 +7128,7 @@
   },
   {
     "file": "fefc01ade684.nes",
+    "size": 180240,
     "title": "太阳系战机",
     "author": "",
     "featured": false,
@@ -6321,6 +7137,7 @@
   },
   {
     "file": "4f432a45e341.nes",
+    "size": 524304,
     "title": "夺宝小英豪",
     "author": "",
     "featured": false,
@@ -6329,6 +7146,7 @@
   },
   {
     "file": "df8425d96b3a.nes",
+    "size": 65552,
     "title": "奥运会(美版)(U)",
     "author": "",
     "featured": false,
@@ -6337,6 +7155,7 @@
   },
   {
     "file": "29bd3871447d.nes",
+    "size": 262160,
     "title": "奥运会2(美版)(U)",
     "author": "",
     "featured": false,
@@ -6345,6 +7164,7 @@
   },
   {
     "file": "cd1ee26c0cef.nes",
+    "size": 131088,
     "title": "威利熊(U)",
     "author": "",
     "featured": false,
@@ -6353,6 +7173,7 @@
   },
   {
     "file": "362b80e417e7.nes",
+    "size": 1048592,
     "title": "宠物大家族",
     "author": "",
     "featured": false,
@@ -6361,6 +7182,7 @@
   },
   {
     "file": "cecd2b179415.nes",
+    "size": 1048592,
     "title": "宠物翡翠",
     "author": "",
     "featured": false,
@@ -6369,6 +7191,7 @@
   },
   {
     "file": "972f5b713882.nes",
+    "size": 1048592,
     "title": "宠物进化史",
     "author": "",
     "featured": false,
@@ -6377,6 +7200,7 @@
   },
   {
     "file": "c722f12c71b4.nes",
+    "size": 1048592,
     "title": "宠物高达战记",
     "author": "",
     "featured": false,
@@ -6385,6 +7209,7 @@
   },
   {
     "file": "771d62a163d0.nes",
+    "size": 1048592,
     "title": "富甲三国(王子复仇记)",
     "author": "",
     "featured": false,
@@ -6393,6 +7218,7 @@
   },
   {
     "file": "5bb3d99421b6.nes",
+    "size": 524304,
     "title": "寻秦记",
     "author": "",
     "featured": false,
@@ -6401,6 +7227,7 @@
   },
   {
     "file": "38805b78fe4e.nes",
+    "size": 524304,
     "title": "封印岛",
     "author": "",
     "featured": false,
@@ -6409,6 +7236,7 @@
   },
   {
     "file": "4e27688ef47c.nes",
+    "size": 524304,
     "title": "封神榜",
     "author": "",
     "featured": false,
@@ -6417,6 +7245,7 @@
   },
   {
     "file": "293d184ef8fe.nes",
+    "size": 1048592,
     "title": "封神榜-伏魔三太子",
     "author": "",
     "featured": false,
@@ -6425,6 +7254,7 @@
   },
   {
     "file": "f7e6da68432a.nes",
+    "size": 262160,
     "title": "射击",
     "author": "",
     "featured": false,
@@ -6433,6 +7263,7 @@
   },
   {
     "file": "1a1cd790b803.nes",
+    "size": 49168,
     "title": "射击范围(U)",
     "author": "",
     "featured": false,
@@ -6441,6 +7272,7 @@
   },
   {
     "file": "5bc7ea2ab733.nes",
+    "size": 131088,
     "title": "小美人鱼",
     "author": "",
     "featured": false,
@@ -6449,6 +7281,7 @@
   },
   {
     "file": "774b311ebcc8.nes",
+    "size": 131088,
     "title": "小美人鱼中",
     "author": "",
     "featured": false,
@@ -6457,6 +7290,7 @@
   },
   {
     "file": "24b0b961c8cd.nes",
+    "size": 131088,
     "title": "小蛋大冒险(U)",
     "author": "",
     "featured": false,
@@ -6465,6 +7299,7 @@
   },
   {
     "file": "c386b44f4b67.nes",
+    "size": 262160,
     "title": "小魔女皮皮",
     "author": "",
     "featured": false,
@@ -6473,6 +7308,7 @@
   },
   {
     "file": "fe5b50fad121.nes",
+    "size": 40976,
     "title": "小鸭运蛋",
     "author": "",
     "featured": false,
@@ -6481,6 +7317,7 @@
   },
   {
     "file": "3fdb2a4bcb84.nes",
+    "size": 262160,
     "title": "少年印地安那琼斯(U)",
     "author": "",
     "featured": false,
@@ -6489,6 +7326,7 @@
   },
   {
     "file": "97cbc32dad83.nes",
+    "size": 786448,
     "title": "少年游侠",
     "author": "",
     "featured": false,
@@ -6497,6 +7335,7 @@
   },
   {
     "file": "14c92ec4c767.nes",
+    "size": 786448,
     "title": "少年街霸'97",
     "author": "",
     "featured": false,
@@ -6505,6 +7344,7 @@
   },
   {
     "file": "b507103647eb.nes",
+    "size": 655376,
     "title": "少年街霸",
     "author": "",
     "featured": false,
@@ -6513,6 +7353,7 @@
   },
   {
     "file": "a3929eb23194.nes",
+    "size": 262160,
     "title": "帝国战机",
     "author": "",
     "featured": false,
@@ -6521,6 +7362,7 @@
   },
   {
     "file": "075be9d04b22.nes",
+    "size": 524304,
     "title": "帝国风暴",
     "author": "",
     "featured": false,
@@ -6529,6 +7371,7 @@
   },
   {
     "file": "053765b71f14.nes",
+    "size": 2097168,
     "title": "幻世录",
     "author": "",
     "featured": false,
@@ -6537,6 +7380,7 @@
   },
   {
     "file": "aa1a1cbfc576.nes",
+    "size": 2097168,
     "title": "幻想传说(魔幻世界)",
     "author": "",
     "featured": false,
@@ -6545,6 +7389,7 @@
   },
   {
     "file": "e8cfb20b9f02.nes",
+    "size": 524304,
     "title": "幽灵列车(荣誉勋章)",
     "author": "",
     "featured": false,
@@ -6553,6 +7398,7 @@
   },
   {
     "file": "3363c94f38d4.nes",
+    "size": 524304,
     "title": "异形之太空探险者",
     "author": "",
     "featured": false,
@@ -6561,6 +7407,7 @@
   },
   {
     "file": "8e7b1f020825.nes",
+    "size": 262160,
     "title": "忍者猫",
     "author": "",
     "featured": false,
@@ -6569,6 +7416,7 @@
   },
   {
     "file": "79a779c28c2e.nes",
+    "size": 262160,
     "title": "忍者猫9合1",
     "author": "",
     "featured": false,
@@ -6577,6 +7425,7 @@
   },
   {
     "file": "24ea01dff7f5.nes",
+    "size": 262160,
     "title": "忍者神龟1-无敌版",
     "author": "",
     "featured": false,
@@ -6585,6 +7434,7 @@
   },
   {
     "file": "7234d6e7b4a6.nes",
+    "size": 1048608,
     "title": "忍者神龟1",
     "author": "",
     "featured": false,
@@ -6593,6 +7443,7 @@
   },
   {
     "file": "144d0d5b90fc.nes",
+    "size": 524304,
     "title": "忍者神龟2(无限命)",
     "author": "",
     "featured": false,
@@ -6601,6 +7452,7 @@
   },
   {
     "file": "fffe19b33e51.nes",
+    "size": 1048608,
     "title": "忍者神龟2",
     "author": "",
     "featured": false,
@@ -6609,6 +7461,7 @@
   },
   {
     "file": "adfaad30bc5a.nes",
+    "size": 524304,
     "title": "忍者神龟2(CN)",
     "author": "",
     "featured": false,
@@ -6617,6 +7470,7 @@
   },
   {
     "file": "2f1aa82f34af.nes",
+    "size": 524304,
     "title": "忍者神龟3(无限人)",
     "author": "",
     "featured": false,
@@ -6625,6 +7479,7 @@
   },
   {
     "file": "17cf347ad473.nes",
+    "size": 524320,
     "title": "忍者神龟3",
     "author": "",
     "featured": false,
@@ -6633,6 +7488,7 @@
   },
   {
     "file": "21c54aab45a2.nes",
+    "size": 524304,
     "title": "忍者神龟3必杀不费血命无限",
     "author": "",
     "featured": false,
@@ -6641,6 +7497,7 @@
   },
   {
     "file": "0d30b649465d.nes",
+    "size": 262160,
     "title": "忍者神龟格斗无限弹珠版",
     "author": "",
     "featured": false,
@@ -6649,6 +7506,7 @@
   },
   {
     "file": "06b88c408c8b.nes",
+    "size": 262160,
     "title": "忍者龙剑传1",
     "author": "",
     "featured": false,
@@ -6657,6 +7515,7 @@
   },
   {
     "file": "67057993271b.nes",
+    "size": 344080,
     "title": "忍者龙剑传3",
     "author": "",
     "featured": false,
@@ -6665,6 +7524,7 @@
   },
   {
     "file": "30a06c63f13d.nes",
+    "size": 24592,
     "title": "快乐猫",
     "author": "",
     "featured": false,
@@ -6673,6 +7533,7 @@
   },
   {
     "file": "a4d26b22ce4f.nes",
+    "size": 262160,
     "title": "快打旋风",
     "author": "",
     "featured": false,
@@ -6681,6 +7542,7 @@
   },
   {
     "file": "153259f788f1.nes",
+    "size": 786448,
     "title": "快打旋风3",
     "author": "",
     "featured": false,
@@ -6689,6 +7551,7 @@
   },
   {
     "file": "855f819f6745.nes",
+    "size": 262160,
     "title": "快打旋风修正",
     "author": "",
     "featured": false,
@@ -6697,6 +7560,7 @@
   },
   {
     "file": "9ba4029e4d68.nes",
+    "size": 262160,
     "title": "快攻篮球",
     "author": "",
     "featured": false,
@@ -6705,6 +7569,7 @@
   },
   {
     "file": "d9749703c085.nes",
+    "size": 131088,
     "title": "怒1",
     "author": "",
     "featured": false,
@@ -6713,6 +7578,7 @@
   },
   {
     "file": "aa22f679114e.nes",
+    "size": 393232,
     "title": "怒2",
     "author": "",
     "featured": false,
@@ -6721,6 +7587,7 @@
   },
   {
     "file": "5361b3f42816.nes",
+    "size": 262160,
     "title": "怒3",
     "author": "",
     "featured": false,
@@ -6729,6 +7596,7 @@
   },
   {
     "file": "9dc58845aa1e.nes",
+    "size": 524304,
     "title": "怪物制造者1",
     "author": "",
     "featured": false,
@@ -6737,6 +7605,7 @@
   },
   {
     "file": "787baf762864.nes",
+    "size": 524304,
     "title": "怪物制造者2",
     "author": "",
     "featured": false,
@@ -6745,6 +7614,7 @@
   },
   {
     "file": "565ded435cf7.nes",
+    "size": 262160,
     "title": "怪鸭历险",
     "author": "",
     "featured": false,
@@ -6753,6 +7623,7 @@
   },
   {
     "file": "079ba1a79ad0.nes",
+    "size": 262287,
     "title": "怪鸭历险记",
     "author": "",
     "featured": false,
@@ -6761,6 +7632,7 @@
   },
   {
     "file": "08e5d47feee6.nes",
+    "size": 262160,
     "title": "恐龙战队2(金刚战士2)",
     "author": "",
     "featured": false,
@@ -6769,6 +7641,7 @@
   },
   {
     "file": "6e7d5bce26a7.nes",
+    "size": 262160,
     "title": "恶魔之剑",
     "author": "",
     "featured": false,
@@ -6777,6 +7650,7 @@
   },
   {
     "file": "1871804e00c1.nes",
+    "size": 131088,
     "title": "恶魔城1",
     "author": "",
     "featured": false,
@@ -6785,6 +7659,7 @@
   },
   {
     "file": "69351aeac322.nes",
+    "size": 196752,
     "title": "恶魔城2",
     "author": "",
     "featured": false,
@@ -6793,6 +7668,7 @@
   },
   {
     "file": "609129abf15c.nes",
+    "size": 262160,
     "title": "恶魔城3",
     "author": "",
     "featured": false,
@@ -6801,6 +7677,7 @@
   },
   {
     "file": "a0f3b31d4e3b.nes",
+    "size": 393232,
     "title": "恶魔城传说",
     "author": "",
     "featured": false,
@@ -6809,6 +7686,7 @@
   },
   {
     "file": "1c92a306a7ab.nes",
+    "size": 262160,
     "title": "成龙之龙",
     "author": "",
     "featured": false,
@@ -6817,6 +7695,7 @@
   },
   {
     "file": "30aa3a9c8103.nes",
+    "size": 40976,
     "title": "成龙踢馆",
     "author": "",
     "featured": false,
@@ -6825,6 +7704,7 @@
   },
   {
     "file": "0da6a89a522e.nes",
+    "size": 655392,
     "title": "我王—火鸟",
     "author": "",
     "featured": false,
@@ -6833,6 +7713,7 @@
   },
   {
     "file": "8f3dc2350c26.nes",
+    "size": 524304,
     "title": "战国群雄传(战国无双)",
     "author": "",
     "featured": false,
@@ -6841,6 +7722,7 @@
   },
   {
     "file": "f9e3a5bbda06.nes",
+    "size": 262160,
     "title": "战斗原始人（无敌版）by nianxu",
     "author": "",
     "featured": false,
@@ -6849,6 +7731,7 @@
   },
   {
     "file": "bd16424879be.nes",
+    "size": 65552,
     "title": "战斗坦克",
     "author": "",
     "featured": false,
@@ -6857,6 +7740,7 @@
   },
   {
     "file": "ad148acab2bb.nes",
+    "size": 262160,
     "title": "战斗蛙",
     "author": "",
     "featured": false,
@@ -6865,6 +7749,7 @@
   },
   {
     "file": "a530c18d28a3.nes",
+    "size": 524304,
     "title": "战斧",
     "author": "",
     "featured": false,
@@ -6873,6 +7758,7 @@
   },
   {
     "file": "c3a769db1db1.nes",
+    "size": 24592,
     "title": "打气球",
     "author": "",
     "featured": false,
@@ -6881,6 +7767,7 @@
   },
   {
     "file": "be2c30d69b1e.nes",
+    "size": 24592,
     "title": "打氣球",
     "author": "",
     "featured": false,
@@ -6889,6 +7776,7 @@
   },
   {
     "file": "e21a7594cd07.nes",
+    "size": 40976,
     "title": "打空气2",
     "author": "",
     "featured": false,
@@ -6897,6 +7785,7 @@
   },
   {
     "file": "31635f1a5255.nes",
+    "size": 40976,
     "title": "拆屋工",
     "author": "",
     "featured": false,
@@ -6905,6 +7794,7 @@
   },
   {
     "file": "b160b18704c2.nes",
+    "size": 131088,
     "title": "拉德赛车2",
     "author": "",
     "featured": false,
@@ -6913,6 +7803,7 @@
   },
   {
     "file": "b88dcecbc6da.nes",
+    "size": 524304,
     "title": "拯救世纪(光明之神)",
     "author": "",
     "featured": false,
@@ -6921,6 +7812,7 @@
   },
   {
     "file": "05ed774d1abb.nes",
+    "size": 24592,
     "title": "挖金",
     "author": "",
     "featured": false,
@@ -6929,6 +7821,7 @@
   },
   {
     "file": "54118190fd89.nes",
+    "size": 40976,
     "title": "摩托车大赛",
     "author": "",
     "featured": false,
@@ -6937,6 +7830,7 @@
   },
   {
     "file": "0b56216c6e73.nes",
+    "size": 65552,
     "title": "摩艾君",
     "author": "",
     "featured": false,
@@ -6945,6 +7839,7 @@
   },
   {
     "file": "56989f90fed1.nes",
+    "size": 24592,
     "title": "救难直升机",
     "author": "",
     "featured": false,
@@ -6953,6 +7848,7 @@
   },
   {
     "file": "ee84063de827.nes",
+    "size": 2097168,
     "title": "数码战队2",
     "author": "",
     "featured": false,
@@ -6961,6 +7857,7 @@
   },
   {
     "file": "c4e837bbc9d1.nes",
+    "size": 65552,
     "title": "敲糖块2(J)",
     "author": "",
     "featured": false,
@@ -6969,6 +7866,7 @@
   },
   {
     "file": "120d8008b25b.nes",
+    "size": 262160,
     "title": "斧王",
     "author": "",
     "featured": false,
@@ -6977,6 +7875,7 @@
   },
   {
     "file": "e237bd94dfff.nes",
+    "size": 65552,
     "title": "新人类",
     "author": "",
     "featured": false,
@@ -6985,6 +7884,7 @@
   },
   {
     "file": "eaac0fc8c8c8.nes",
+    "size": 131088,
     "title": "新无敌炸弹超人2",
     "author": "",
     "featured": false,
@@ -6993,6 +7893,7 @@
   },
   {
     "file": "9f3fec5af6a0.nes",
+    "size": 524304,
     "title": "无尽的任务中文版",
     "author": "",
     "featured": false,
@@ -7001,6 +7902,7 @@
   },
   {
     "file": "33d51908ff6e.nes",
+    "size": 65552,
     "title": "无赖战士",
     "author": "",
     "featured": false,
@@ -7009,6 +7911,7 @@
   },
   {
     "file": "1d2d06206cd3.nes",
+    "size": 2097168,
     "title": "时空之轮",
     "author": "",
     "featured": false,
@@ -7017,6 +7920,7 @@
   },
   {
     "file": "5b0e248e3698.nes",
+    "size": 786448,
     "title": "星之卡比",
     "author": "",
     "featured": false,
@@ -7025,6 +7929,7 @@
   },
   {
     "file": "adfd9a5a460a.nes",
+    "size": 98320,
     "title": "星际坦克",
     "author": "",
     "featured": false,
@@ -7033,6 +7938,7 @@
   },
   {
     "file": "65314d5abe1f.nes",
+    "size": 65552,
     "title": "星际战士",
     "author": "",
     "featured": false,
@@ -7041,6 +7947,7 @@
   },
   {
     "file": "43182bf7c59c.nes",
+    "size": 262160,
     "title": "星际魂斗罗",
     "author": "",
     "featured": false,
@@ -7049,6 +7956,7 @@
   },
   {
     "file": "983de7d42df0.nes",
+    "size": 2097168,
     "title": "暗黑破坏神",
     "author": "",
     "featured": false,
@@ -7057,6 +7965,7 @@
   },
   {
     "file": "1b65d5cfe042.nes",
+    "size": 524304,
     "title": "最游记之唐三藏",
     "author": "",
     "featured": false,
@@ -7065,6 +7974,7 @@
   },
   {
     "file": "5b52534b1493.nes",
+    "size": 524304,
     "title": "最终幻想(银河时代)",
     "author": "",
     "featured": false,
@@ -7073,6 +7983,7 @@
   },
   {
     "file": "d2ae49277735.nes",
+    "size": 524304,
     "title": "最终幻想(龙魂)",
     "author": "",
     "featured": false,
@@ -7081,6 +7992,7 @@
   },
   {
     "file": "f05b8ebfdd53.nes",
+    "size": 524304,
     "title": "最终幻想2(宇宙战将)",
     "author": "",
     "featured": false,
@@ -7089,6 +8001,7 @@
   },
   {
     "file": "cde0d4da0364.nes",
+    "size": 1048592,
     "title": "最终幻想3(英雄传奇)",
     "author": "",
     "featured": false,
@@ -7097,6 +8010,7 @@
   },
   {
     "file": "2ec07954b734.nes",
+    "size": 1048592,
     "title": "最终幻想3",
     "author": "",
     "featured": false,
@@ -7105,6 +8019,7 @@
   },
   {
     "file": "9ce859ba2b36.nes",
+    "size": 1048592,
     "title": "最终幻想4-光与暗-水晶纷争",
     "author": "",
     "featured": false,
@@ -7113,6 +8028,7 @@
   },
   {
     "file": "e4439cf42d0e.nes",
+    "size": 2097168,
     "title": "最终幻想7",
     "author": "",
     "featured": false,
@@ -7121,6 +8037,7 @@
   },
   {
     "file": "8aa2f57571a5.nes",
+    "size": 65552,
     "title": "未来小子(中文)",
     "author": "",
     "featured": false,
@@ -7129,6 +8046,7 @@
   },
   {
     "file": "f2ca0b0d3592.nes",
+    "size": 131088,
     "title": "未来战士(美版)(2)",
     "author": "",
     "featured": false,
@@ -7137,6 +8055,7 @@
   },
   {
     "file": "b628106b1caf.nes",
+    "size": 262160,
     "title": "机器战警4",
     "author": "",
     "featured": false,
@@ -7145,6 +8064,7 @@
   },
   {
     "file": "a4e4fabe1a10.nes",
+    "size": 524304,
     "title": "机器猫小叮当",
     "author": "",
     "featured": false,
@@ -7153,6 +8073,7 @@
   },
   {
     "file": "c1b14b1fb475.nes",
+    "size": 262160,
     "title": "机械战警2",
     "author": "",
     "featured": false,
@@ -7161,6 +8082,7 @@
   },
   {
     "file": "c9bc04fd58f4.nes",
+    "size": 262160,
     "title": "机械战警对魔鬼终结者(U)",
     "author": "",
     "featured": false,
@@ -7169,6 +8091,7 @@
   },
   {
     "file": "cb91b9429cf1.nes",
+    "size": 49168,
     "title": "杀戮战场(原野战斗)",
     "author": "",
     "featured": false,
@@ -7177,6 +8100,7 @@
   },
   {
     "file": "a4c4f2499169.nes",
+    "size": 24592,
     "title": "杀虫大战",
     "author": "",
     "featured": false,
@@ -7185,6 +8109,7 @@
   },
   {
     "file": "dc496b14070e.nes",
+    "size": 262160,
     "title": "松鼠大作战1",
     "author": "",
     "featured": false,
@@ -7193,6 +8118,7 @@
   },
   {
     "file": "6294b8c3a7a7.nes",
+    "size": 262160,
     "title": "松鼠大作战2",
     "author": "",
     "featured": false,
@@ -7201,6 +8127,7 @@
   },
   {
     "file": "0fe9b70e5a9e.nes",
+    "size": 262160,
     "title": "松鼠大战2(体力不减版)",
     "author": "",
     "featured": false,
@@ -7209,6 +8136,7 @@
   },
   {
     "file": "dd2343312a80.nes",
+    "size": 262160,
     "title": "松鼠大战2",
     "author": "",
     "featured": false,
@@ -7217,6 +8145,7 @@
   },
   {
     "file": "51a832e9567e.nes",
+    "size": 262160,
     "title": "松鼠大战3",
     "author": "",
     "featured": false,
@@ -7225,6 +8154,7 @@
   },
   {
     "file": "47d919775d61.nes",
+    "size": 262160,
     "title": "林克的冒险",
     "author": "",
     "featured": false,
@@ -7233,6 +8163,7 @@
   },
   {
     "file": "9363818aaeff.nes",
+    "size": 1048592,
     "title": "格兰蒂亚(反恐精英)",
     "author": "",
     "featured": false,
@@ -7241,6 +8172,7 @@
   },
   {
     "file": "4940deed64b9.nes",
+    "size": 655376,
     "title": "格斗美少女战士",
     "author": "",
     "featured": false,
@@ -7249,6 +8181,7 @@
   },
   {
     "file": "dcf2dd5f9a4e.nes",
+    "size": 262160,
     "title": "梦之勇士",
     "author": "",
     "featured": false,
@@ -7257,6 +8190,7 @@
   },
   {
     "file": "fa1a36360173.nes",
+    "size": 262160,
     "title": "梦的探险者",
     "author": "",
     "featured": false,
@@ -7265,6 +8199,7 @@
   },
   {
     "file": "3c7099746e8a.nes",
+    "size": 524304,
     "title": "楚汉争霸",
     "author": "",
     "featured": false,
@@ -7273,6 +8208,7 @@
   },
   {
     "file": "e1c47936d852.nes",
+    "size": 524304,
     "title": "楚留香(梦幻)",
     "author": "",
     "featured": false,
@@ -7281,6 +8217,7 @@
   },
   {
     "file": "7fff854eefb5.nes",
+    "size": 131088,
     "title": "欢乐屋(U)",
     "author": "",
     "featured": false,
@@ -7289,6 +8226,7 @@
   },
   {
     "file": "e32d1d9f16a3.nes",
+    "size": 524304,
     "title": "欧陆之战(争霸世纪)",
     "author": "",
     "featured": false,
@@ -7297,6 +8235,7 @@
   },
   {
     "file": "019520cd128d.nes",
+    "size": 24592,
     "title": "气球大战",
     "author": "",
     "featured": false,
@@ -7305,6 +8244,7 @@
   },
   {
     "file": "0c4d0a9e329e.nes",
+    "size": 24592,
     "title": "气球大战(CN)",
     "author": "",
     "featured": false,
@@ -7313,6 +8253,7 @@
   },
   {
     "file": "0efe3bb7122a.nes",
+    "size": 262160,
     "title": "水上魂斗罗无敌",
     "author": "",
     "featured": false,
@@ -7321,6 +8262,7 @@
   },
   {
     "file": "9286a2db471d.nes",
+    "size": 24592,
     "title": "水管工马里奥",
     "author": "",
     "featured": false,
@@ -7329,6 +8271,7 @@
   },
   {
     "file": "88a56aa75612.nes",
+    "size": 1048592,
     "title": "汉刘邦",
     "author": "",
     "featured": false,
@@ -7337,6 +8280,7 @@
   },
   {
     "file": "06824f632627.nes",
+    "size": 131088,
     "title": "沙罗曼蛇",
     "author": "",
     "featured": false,
@@ -7345,6 +8289,7 @@
   },
   {
     "file": "56167c8fb796.nes",
+    "size": 131088,
     "title": "沙罗曼蛇1",
     "author": "",
     "featured": false,
@@ -7353,6 +8298,7 @@
   },
   {
     "file": "a83d0ba1f36f.nes",
+    "size": 262160,
     "title": "沙罗曼蛇2",
     "author": "",
     "featured": false,
@@ -7361,6 +8307,7 @@
   },
   {
     "file": "ed23ce968af8.nes",
+    "size": 262160,
     "title": "法拉利赛车",
     "author": "",
     "featured": false,
@@ -7369,6 +8316,7 @@
   },
   {
     "file": "0e40052299ad.nes",
+    "size": 163856,
     "title": "泡泡龙",
     "author": "",
     "featured": false,
@@ -7377,6 +8325,7 @@
   },
   {
     "file": "bfbe558fb857.nes",
+    "size": 262160,
     "title": "泡泡龙2",
     "author": "",
     "featured": false,
@@ -7385,6 +8334,7 @@
   },
   {
     "file": "c8a39dcb884a.nes",
+    "size": 1048592,
     "title": "泰坦尼克号",
     "author": "",
     "featured": false,
@@ -7393,6 +8343,7 @@
   },
   {
     "file": "5a04e8950d7a.nes",
+    "size": 131088,
     "title": "洛克人1",
     "author": "",
     "featured": false,
@@ -7401,6 +8352,7 @@
   },
   {
     "file": "55cab8a40657.nes",
+    "size": 262160,
     "title": "洛克人2",
     "author": "",
     "featured": false,
@@ -7409,6 +8361,7 @@
   },
   {
     "file": "2b30d9cfc3f4.nes",
+    "size": 393232,
     "title": "洛克人3",
     "author": "",
     "featured": false,
@@ -7417,6 +8370,7 @@
   },
   {
     "file": "1c496cc02896.nes",
+    "size": 524304,
     "title": "洛克人4",
     "author": "",
     "featured": false,
@@ -7425,6 +8379,7 @@
   },
   {
     "file": "7fdcc50f4db7.nes",
+    "size": 524304,
     "title": "洛克人6",
     "author": "",
     "featured": false,
@@ -7433,6 +8388,7 @@
   },
   {
     "file": "1dcd20735435.nes",
+    "size": 524304,
     "title": "洛克人6",
     "author": "",
     "featured": false,
@@ -7441,6 +8397,7 @@
   },
   {
     "file": "1fa4f11f5a5b.nes",
+    "size": 262160,
     "title": "流氓兔",
     "author": "",
     "featured": false,
@@ -7449,6 +8406,7 @@
   },
   {
     "file": "3769f52f9190.nes",
+    "size": 98320,
     "title": "流氓兔对决",
     "author": "",
     "featured": false,
@@ -7457,6 +8415,7 @@
   },
   {
     "file": "b191e5d30e31.nes",
+    "size": 196624,
     "title": "海盗头(U)",
     "author": "",
     "featured": false,
@@ -7465,6 +8424,7 @@
   },
   {
     "file": "f62600c46b68.nes",
+    "size": 786448,
     "title": "混沌世界",
     "author": "",
     "featured": false,
@@ -7473,6 +8433,7 @@
   },
   {
     "file": "ce489cf4d432.nes",
+    "size": 131088,
     "title": "混沌博士(U)",
     "author": "",
     "featured": false,
@@ -7481,6 +8442,7 @@
   },
   {
     "file": "00eeaf01f43c.nes",
+    "size": 40976,
     "title": "潜艇大战",
     "author": "",
     "featured": false,
@@ -7489,6 +8451,7 @@
   },
   {
     "file": "9601c3f36708.nes",
+    "size": 65552,
     "title": "激斗四驱车",
     "author": "",
     "featured": false,
@@ -7497,6 +8460,7 @@
   },
   {
     "file": "d087d89ab34e.nes",
+    "size": 1048608,
     "title": "激龟忍者传2",
     "author": "",
     "featured": false,
@@ -7505,6 +8469,7 @@
   },
   {
     "file": "811e64ea2722.nes",
+    "size": 262160,
     "title": "激龟快打",
     "author": "",
     "featured": false,
@@ -7513,6 +8478,7 @@
   },
   {
     "file": "d2a36caf2740.nes",
+    "size": 131088,
     "title": "火之鸟",
     "author": "",
     "featured": false,
@@ -7521,6 +8487,7 @@
   },
   {
     "file": "1f784a374dcf.nes",
+    "size": 2097168,
     "title": "火影忍者",
     "author": "",
     "featured": false,
@@ -7529,6 +8496,7 @@
   },
   {
     "file": "5938a071ff16.nes",
+    "size": 262160,
     "title": "火炮",
     "author": "",
     "featured": false,
@@ -7537,6 +8505,7 @@
   },
   {
     "file": "a4f9ab32f3a9.nes",
+    "size": 131088,
     "title": "火爆篮球NBA",
     "author": "",
     "featured": false,
@@ -7545,6 +8514,7 @@
   },
   {
     "file": "aebf7e835167.nes",
+    "size": 24592,
     "title": "火箭车",
     "author": "",
     "featured": false,
@@ -7553,6 +8523,7 @@
   },
   {
     "file": "01c75bb8539e.nes",
+    "size": 524304,
     "title": "灵界护法",
     "author": "",
     "featured": false,
@@ -7561,6 +8532,7 @@
   },
   {
     "file": "88ee9c2aa28d.nes",
+    "size": 131088,
     "title": "炸弹之王",
     "author": "",
     "featured": false,
@@ -7569,6 +8541,7 @@
   },
   {
     "file": "bf282d3ebccd.nes",
+    "size": 24592,
     "title": "炸弹人1",
     "author": "",
     "featured": false,
@@ -7577,6 +8550,7 @@
   },
   {
     "file": "a1b19d7781cf.nes",
+    "size": 131088,
     "title": "炸弹人2",
     "author": "",
     "featured": false,
@@ -7585,6 +8559,7 @@
   },
   {
     "file": "4558a330119e.nes",
+    "size": 262160,
     "title": "烈火",
     "author": "",
     "featured": false,
@@ -7593,6 +8568,7 @@
   },
   {
     "file": "6b48899e5c8f.nes",
+    "size": 1048592,
     "title": "热血4合1",
     "author": "",
     "featured": false,
@@ -7601,6 +8577,7 @@
   },
   {
     "file": "e3503ca20be1.nes",
+    "size": 262160,
     "title": "热血新记录",
     "author": "",
     "featured": false,
@@ -7609,6 +8586,7 @@
   },
   {
     "file": "077be75bcc66.nes",
+    "size": 262160,
     "title": "热血新记录美版",
     "author": "",
     "featured": false,
@@ -7617,6 +8595,7 @@
   },
   {
     "file": "74a83909bb4a.nes",
+    "size": 262160,
     "title": "热血时代剧美版(J)",
     "author": "",
     "featured": false,
@@ -7625,6 +8604,7 @@
   },
   {
     "file": "b92dcfb693e6.nes",
+    "size": 262160,
     "title": "热血曲棍球美版(J)",
     "author": "",
     "featured": false,
@@ -7633,6 +8613,7 @@
   },
   {
     "file": "01e2243cbc5b.nes",
+    "size": 262160,
     "title": "热血格斗中文",
     "author": "",
     "featured": false,
@@ -7641,6 +8622,7 @@
   },
   {
     "file": "32595be03851.nes",
+    "size": 262160,
     "title": "热血格斗传说",
     "author": "",
     "featured": false,
@@ -7649,6 +8631,7 @@
   },
   {
     "file": "a8612a36d9d2.nes",
+    "size": 262160,
     "title": "热血物语",
     "author": "",
     "featured": false,
@@ -7657,6 +8640,7 @@
   },
   {
     "file": "8f9abdf51b5d.nes",
+    "size": 262160,
     "title": "热血物语",
     "author": "",
     "featured": false,
@@ -7665,6 +8649,7 @@
   },
   {
     "file": "e7a6f90df750.nes",
+    "size": 131088,
     "title": "热血硬派",
     "author": "",
     "featured": false,
@@ -7673,6 +8658,7 @@
   },
   {
     "file": "16ba2e5a831e.nes",
+    "size": 786464,
     "title": "热血篮球",
     "author": "",
     "featured": false,
@@ -7681,6 +8667,7 @@
   },
   {
     "file": "75a2abb0d34b.nes",
+    "size": 262160,
     "title": "热血足球2美版",
     "author": "",
     "featured": false,
@@ -7689,6 +8676,7 @@
   },
   {
     "file": "6a8b809271bd.nes",
+    "size": 262160,
     "title": "热血足球3",
     "author": "",
     "featured": false,
@@ -7697,6 +8685,7 @@
   },
   {
     "file": "7cfb565a66c8.nes",
+    "size": 786464,
     "title": "热血躲避球",
     "author": "",
     "featured": false,
@@ -7705,6 +8694,7 @@
   },
   {
     "file": "672a99dc9bd2.nes",
+    "size": 786464,
     "title": "热血进行曲",
     "author": "",
     "featured": false,
@@ -7713,6 +8703,7 @@
   },
   {
     "file": "213d61a0bff3.nes",
+    "size": 483344,
     "title": "热血进行曲中文版",
     "author": "",
     "featured": false,
@@ -7721,6 +8712,7 @@
   },
   {
     "file": "98e7e2498d0a.nes",
+    "size": 1048592,
     "title": "爆笑三国(上古神剑)",
     "author": "",
     "featured": false,
@@ -7729,6 +8721,7 @@
   },
   {
     "file": "1cf199eac3e8.nes",
+    "size": 1048592,
     "title": "爆笑三国",
     "author": "",
     "featured": false,
@@ -7737,6 +8730,7 @@
   },
   {
     "file": "cca97fba72ca.nes",
+    "size": 24592,
     "title": "牛奶与花生(J)",
     "author": "",
     "featured": false,
@@ -7745,6 +8739,7 @@
   },
   {
     "file": "17969a99361d.nes",
+    "size": 2097168,
     "title": "牧场物语",
     "author": "",
     "featured": false,
@@ -7753,6 +8748,7 @@
   },
   {
     "file": "c4f23ee01022.nes",
+    "size": 131088,
     "title": "特库摩世界杯足球赛",
     "author": "",
     "featured": false,
@@ -7761,6 +8757,7 @@
   },
   {
     "file": "0f66f0c37f44.nes",
+    "size": 262160,
     "title": "特救指令汉化版0.8",
     "author": "",
     "featured": false,
@@ -7769,6 +8766,7 @@
   },
   {
     "file": "6e59b5620d64.nes",
+    "size": 262160,
     "title": "特救指令汉化版1.0",
     "author": "",
     "featured": false,
@@ -7777,6 +8775,7 @@
   },
   {
     "file": "45404aeac39e.nes",
+    "size": 131088,
     "title": "狂热的F1赛车",
     "author": "",
     "featured": false,
@@ -7785,6 +8784,7 @@
   },
   {
     "file": "722792263399.nes",
+    "size": 262160,
     "title": "狼人(U)",
     "author": "",
     "featured": false,
@@ -7793,6 +8793,7 @@
   },
   {
     "file": "168e14e08574.nes",
+    "size": 524304,
     "title": "猫和老鼠3",
     "author": "",
     "featured": false,
@@ -7801,6 +8802,7 @@
   },
   {
     "file": "183388e87b1e.nes",
+    "size": 24592,
     "title": "猫捉老鼠(MAPPY)",
     "author": "",
     "featured": false,
@@ -7809,6 +8811,7 @@
   },
   {
     "file": "37befa5807f1.nes",
+    "size": 262160,
     "title": "王子外传",
     "author": "",
     "featured": false,
@@ -7817,6 +8820,7 @@
   },
   {
     "file": "475785967e0e.nes",
+    "size": 1048592,
     "title": "生化危机",
     "author": "",
     "featured": false,
@@ -7825,6 +8829,7 @@
   },
   {
     "file": "ced41850fa68.nes",
+    "size": 393232,
     "title": "疯狂鸡蛋仔",
     "author": "",
     "featured": false,
@@ -7833,6 +8838,7 @@
   },
   {
     "file": "f25325148ab6.nes",
+    "size": 524304,
     "title": "盟军敢死队(破釜沉舟)",
     "author": "",
     "featured": false,
@@ -7841,6 +8847,7 @@
   },
   {
     "file": "b797b8413952.nes",
+    "size": 65552,
     "title": "碰碰车(CN)",
     "author": "",
     "featured": false,
@@ -7849,6 +8856,7 @@
   },
   {
     "file": "96c08677108a.nes",
+    "size": 524304,
     "title": "神探柯南",
     "author": "",
     "featured": false,
@@ -7857,6 +8865,7 @@
   },
   {
     "file": "8408f0801b1e.nes",
+    "size": 131088,
     "title": "秘密风暴(U)",
     "author": "",
     "featured": false,
@@ -7865,6 +8874,7 @@
   },
   {
     "file": "74a15693eebc.nes",
+    "size": 262160,
     "title": "空中魂斗罗",
     "author": "",
     "featured": false,
@@ -7873,6 +8883,7 @@
   },
   {
     "file": "c912efe18b2e.nes",
+    "size": 262160,
     "title": "空魂",
     "author": "",
     "featured": false,
@@ -7881,6 +8892,7 @@
   },
   {
     "file": "11fbae93f19a.nes",
+    "size": 131088,
     "title": "突然君",
     "author": "",
     "featured": false,
@@ -7889,6 +8901,7 @@
   },
   {
     "file": "0f00406be0f5.nes",
+    "size": 524304,
     "title": "第2次超级机器人大战",
     "author": "",
     "featured": false,
@@ -7897,6 +8910,7 @@
   },
   {
     "file": "e9f3ab8e99e4.nes",
+    "size": 24592,
     "title": "筋肉人摔跤",
     "author": "",
     "featured": false,
@@ -7905,6 +8919,7 @@
   },
   {
     "file": "cda500269bb1.nes",
+    "size": 262160,
     "title": "红猪",
     "author": "",
     "featured": false,
@@ -7913,6 +8928,7 @@
   },
   {
     "file": "f3cb8f6c6e0f.nes",
+    "size": 524304,
     "title": "绝代英雄",
     "author": "",
     "featured": false,
@@ -7921,6 +8937,7 @@
   },
   {
     "file": "f0848696f389.nes",
+    "size": 131088,
     "title": "绿色兵团",
     "author": "",
     "featured": false,
@@ -7929,6 +8946,7 @@
   },
   {
     "file": "bcae35cbc7f8.nes",
+    "size": 24592,
     "title": "网球",
     "author": "",
     "featured": false,
@@ -7937,6 +8955,7 @@
   },
   {
     "file": "47d217722bc2.nes",
+    "size": 65552,
     "title": "罗罗大冒险2",
     "author": "",
     "featured": false,
@@ -7945,6 +8964,7 @@
   },
   {
     "file": "20622bb297a0.nes",
+    "size": 131088,
     "title": "美人鱼",
     "author": "",
     "featured": false,
@@ -7953,6 +8973,7 @@
   },
   {
     "file": "6f4325d782f3.nes",
+    "size": 65552,
     "title": "老虎直升机",
     "author": "",
     "featured": false,
@@ -7961,6 +8982,7 @@
   },
   {
     "file": "2eff050df4a4.nes",
+    "size": 24592,
     "title": "老鼠偷东西",
     "author": "",
     "featured": false,
@@ -7969,6 +8991,7 @@
   },
   {
     "file": "854d7982400f.nes",
+    "size": 262160,
     "title": "胜利的进球",
     "author": "",
     "featured": false,
@@ -7977,6 +9000,7 @@
   },
   {
     "file": "53584a3940db.nes",
+    "size": 270352,
     "title": "能源战士1",
     "author": "",
     "featured": false,
@@ -7985,6 +9009,7 @@
   },
   {
     "file": "5262624ce4db.nes",
+    "size": 262160,
     "title": "能源战士2",
     "author": "",
     "featured": false,
@@ -7993,6 +9018,7 @@
   },
   {
     "file": "a008c9920516.nes",
+    "size": 262160,
     "title": "脱狱-战俘",
     "author": "",
     "featured": false,
@@ -8001,6 +9027,7 @@
   },
   {
     "file": "e933dd8cfaac.nes",
+    "size": 262160,
     "title": "脱狱1",
     "author": "",
     "featured": false,
@@ -8009,6 +9036,7 @@
   },
   {
     "file": "6c87c7daaed2.nes",
+    "size": 262160,
     "title": "脱狱1换枪版",
     "author": "",
     "featured": false,
@@ -8017,6 +9045,7 @@
   },
   {
     "file": "32946fc54618.nes",
+    "size": 131088,
     "title": "花式撞球u",
     "author": "",
     "featured": false,
@@ -8025,6 +9054,7 @@
   },
   {
     "file": "22a5e8db9c63.nes",
+    "size": 786448,
     "title": "英雄格斗3",
     "author": "",
     "featured": false,
@@ -8033,6 +9063,7 @@
   },
   {
     "file": "318adc24d71c.nes",
+    "size": 131088,
     "title": "荒野大镖客完全汉化版",
     "author": "",
     "featured": false,
@@ -8041,6 +9072,7 @@
   },
   {
     "file": "9f1120477f74.nes",
+    "size": 131088,
     "title": "荒野大镖客无敌版",
     "author": "",
     "featured": false,
@@ -8049,6 +9081,7 @@
   },
   {
     "file": "a57ae87a051e.nes",
+    "size": 262160,
     "title": "菲力克丝猫",
     "author": "",
     "featured": false,
@@ -8057,6 +9090,7 @@
   },
   {
     "file": "25d4550c454e.nes",
+    "size": 262160,
     "title": "菲力猫",
     "author": "",
     "featured": false,
@@ -8065,6 +9099,7 @@
   },
   {
     "file": "82652cc8bb01.nes",
+    "size": 2097168,
     "title": "葫芦金刚",
     "author": "",
     "featured": false,
@@ -8073,6 +9108,7 @@
   },
   {
     "file": "6e93b3bdbb67.nes",
+    "size": 131088,
     "title": "蓝色兄弟(U)",
     "author": "",
     "featured": false,
@@ -8081,6 +9117,7 @@
   },
   {
     "file": "07efcb459f40.nes",
+    "size": 786464,
     "title": "虎穴行动",
     "author": "",
     "featured": false,
@@ -8089,6 +9126,7 @@
   },
   {
     "file": "fcdea4faed61.nes",
+    "size": 262160,
     "title": "蝙蝠侠",
     "author": "",
     "featured": false,
@@ -8097,6 +9135,7 @@
   },
   {
     "file": "43a0fee6878c.nes",
+    "size": 393232,
     "title": "蝙蝠侠归来",
     "author": "",
     "featured": false,
@@ -8105,6 +9144,7 @@
   },
   {
     "file": "88673645fcc3.nes",
+    "size": 262160,
     "title": "街头篮球",
     "author": "",
     "featured": false,
@@ -8113,6 +9153,7 @@
   },
   {
     "file": "dd7424b984ee.nes",
+    "size": 262160,
     "title": "街头篮球二对二挑战赛",
     "author": "",
     "featured": false,
@@ -8121,6 +9162,7 @@
   },
   {
     "file": "25da807a5aac.nes",
+    "size": 262160,
     "title": "街头霸王II",
     "author": "",
     "featured": false,
@@ -8129,6 +9171,7 @@
   },
   {
     "file": "17183e561ce6.nes",
+    "size": 131088,
     "title": "西天取经(中文)",
     "author": "",
     "featured": false,
@@ -8137,6 +9180,7 @@
   },
   {
     "file": "094b56db62dd.nes",
+    "size": 131088,
     "title": "西游记1",
     "author": "",
     "featured": false,
@@ -8145,6 +9189,7 @@
   },
   {
     "file": "8be3d2c7f253.nes",
+    "size": 262160,
     "title": "西游记2",
     "author": "",
     "featured": false,
@@ -8153,6 +9198,7 @@
   },
   {
     "file": "46c1ae24c068.nes",
+    "size": 1048592,
     "title": "西游记后传",
     "author": "",
     "featured": false,
@@ -8161,6 +9207,7 @@
   },
   {
     "file": "979c671be5f5.nes",
+    "size": 524304,
     "title": "赌神(洛克人X)",
     "author": "",
     "featured": false,
@@ -8169,6 +9216,7 @@
   },
   {
     "file": "89db1a458bd7.nes",
+    "size": 524304,
     "title": "赌神",
     "author": "",
     "featured": false,
@@ -8177,6 +9225,7 @@
   },
   {
     "file": "85ccfd7439ec.nes",
+    "size": 262160,
     "title": "赤影战士",
     "author": "",
     "featured": false,
@@ -8185,6 +9234,7 @@
   },
   {
     "file": "93bca5871b6c.nes",
+    "size": 262160,
     "title": "赤影战士龙珠版",
     "author": "",
     "featured": false,
@@ -8193,6 +9243,7 @@
   },
   {
     "file": "37e268d98cc3.nes",
+    "size": 131088,
     "title": "赤色要塞",
     "author": "",
     "featured": false,
@@ -8201,6 +9252,7 @@
   },
   {
     "file": "37a31492f373.nes",
+    "size": 24592,
     "title": "超时空要塞",
     "author": "",
     "featured": false,
@@ -8209,6 +9261,7 @@
   },
   {
     "file": "3d580c1ce546.nes",
+    "size": 524304,
     "title": "超级2合1",
     "author": "",
     "featured": false,
@@ -8217,6 +9270,7 @@
   },
   {
     "file": "78c24e9fad3b.nes",
+    "size": 262160,
     "title": "超级厨师",
     "author": "",
     "featured": false,
@@ -8225,6 +9279,7 @@
   },
   {
     "file": "f65b83f85619.nes",
+    "size": 40976,
     "title": "超级坦克",
     "author": "",
     "featured": false,
@@ -8233,6 +9288,7 @@
   },
   {
     "file": "2924f8b3bf51.nes",
+    "size": 1048592,
     "title": "超级大富翁(百万富翁)",
     "author": "",
     "featured": false,
@@ -8241,6 +9297,7 @@
   },
   {
     "file": "44bfdf72b64e.nes",
+    "size": 524304,
     "title": "超级大战略",
     "author": "",
     "featured": false,
@@ -8249,6 +9306,7 @@
   },
   {
     "file": "0aad6634fa86.nes",
+    "size": 262160,
     "title": "超级战魂（魂斗罗7）",
     "author": "",
     "featured": false,
@@ -8257,6 +9315,7 @@
   },
   {
     "file": "b7f520485863.nes",
+    "size": 1048592,
     "title": "超级机器人大战A",
     "author": "",
     "featured": false,
@@ -8265,6 +9324,7 @@
   },
   {
     "file": "6fd00a7889ce.nes",
+    "size": 40976,
     "title": "超级玛丽",
     "author": "",
     "featured": false,
@@ -8273,6 +9333,7 @@
   },
   {
     "file": "fc94600ab6d8.nes",
+    "size": 41488,
     "title": "超级玛丽2升级",
     "author": "",
     "featured": false,
@@ -8281,6 +9342,7 @@
   },
   {
     "file": "d4ac6ab8d2f8.nes",
+    "size": 40976,
     "title": "超级玛丽2无敌版",
     "author": "",
     "featured": false,
@@ -8289,6 +9351,7 @@
   },
   {
     "file": "9657ab3bbee5.nes",
+    "size": 262160,
     "title": "超级玛丽2无限血版",
     "author": "",
     "featured": false,
@@ -8297,6 +9360,7 @@
   },
   {
     "file": "f2a6fb3a4d89.nes",
+    "size": 40976,
     "title": "超级玛丽2隐身版",
     "author": "",
     "featured": false,
@@ -8305,6 +9369,7 @@
   },
   {
     "file": "6bd518e85eb4.nes",
+    "size": 393232,
     "title": "超级玛丽3",
     "author": "",
     "featured": false,
@@ -8313,6 +9378,7 @@
   },
   {
     "file": "adf7eda28c03.nes",
+    "size": 393232,
     "title": "超级玛丽3无敌狐狸尾巴",
     "author": "",
     "featured": false,
@@ -8321,6 +9387,7 @@
   },
   {
     "file": "bb97ee058265.nes",
+    "size": 262160,
     "title": "超级玛丽与麦当劳",
     "author": "",
     "featured": false,
@@ -8329,6 +9396,7 @@
   },
   {
     "file": "8ae6049cfa55.nes",
+    "size": 262160,
     "title": "超级玛丽的使命",
     "author": "",
     "featured": false,
@@ -8337,6 +9405,7 @@
   },
   {
     "file": "ae565ce9ddac.nes",
+    "size": 40976,
     "title": "超级玛利水管工人",
     "author": "",
     "featured": false,
@@ -8345,6 +9414,7 @@
   },
   {
     "file": "4c9576d7ced3.nes",
+    "size": 131088,
     "title": "超级赛车",
     "author": "",
     "featured": false,
@@ -8353,6 +9423,7 @@
   },
   {
     "file": "8cba33da2765.nes",
+    "size": 524304,
     "title": "超级路易寻宝记",
     "author": "",
     "featured": false,
@@ -8361,6 +9432,7 @@
   },
   {
     "file": "17d92dde313b.nes",
+    "size": 262160,
     "title": "超级间谍猎人",
     "author": "",
     "featured": false,
@@ -8369,6 +9441,7 @@
   },
   {
     "file": "a2a68edddb43.nes",
+    "size": 262160,
     "title": "超级间谍赛车",
     "author": "",
     "featured": false,
@@ -8377,6 +9450,7 @@
   },
   {
     "file": "75427e2e8308.nes",
+    "size": 393232,
     "title": "超级马里奥3",
     "author": "",
     "featured": false,
@@ -8385,6 +9459,7 @@
   },
   {
     "file": "8e2e11f41987.nes",
+    "size": 393232,
     "title": "超级马里奥3超级版",
     "author": "",
     "featured": false,
@@ -8393,6 +9468,7 @@
   },
   {
     "file": "aa9d718fd129.nes",
+    "size": 40976,
     "title": "超级马里奥兄弟1命数不减",
     "author": "",
     "featured": false,
@@ -8401,6 +9477,7 @@
   },
   {
     "file": "ad9c348d2b5c.nes",
+    "size": 393232,
     "title": "超级马里奥兄弟3",
     "author": "",
     "featured": false,
@@ -8409,6 +9486,7 @@
   },
   {
     "file": "b9758988e0a8.nes",
+    "size": 131088,
     "title": "超级魂2",
     "author": "",
     "featured": false,
@@ -8417,6 +9495,7 @@
   },
   {
     "file": "542fea0d6eae.nes",
+    "size": 24592,
     "title": "越野摩托",
     "author": "",
     "featured": false,
@@ -8425,6 +9504,7 @@
   },
   {
     "file": "8c68582bdaa3.nes",
+    "size": 262160,
     "title": "越野赛车2",
     "author": "",
     "featured": false,
@@ -8433,6 +9513,7 @@
   },
   {
     "file": "fbe67722ae50.nes",
+    "size": 589856,
     "title": "趣味方块",
     "author": "",
     "featured": false,
@@ -8441,6 +9522,7 @@
   },
   {
     "file": "f3ad4a109848.nes",
+    "size": 131088,
     "title": "跑跑卡丁车",
     "author": "",
     "featured": false,
@@ -8449,6 +9531,7 @@
   },
   {
     "file": "a94a5d673a76.nes",
+    "size": 65679,
     "title": "跳跳车",
     "author": "",
     "featured": false,
@@ -8457,6 +9540,7 @@
   },
   {
     "file": "e14b6ba27655.nes",
+    "size": 262160,
     "title": "轰天至尊中文",
     "author": "",
     "featured": false,
@@ -8465,6 +9549,7 @@
   },
   {
     "file": "d3bbb7e28d1e.nes",
+    "size": 393232,
     "title": "进球（goal）",
     "author": "",
     "featured": false,
@@ -8473,6 +9558,7 @@
   },
   {
     "file": "31bc2514c780.nes",
+    "size": 49168,
     "title": "迷宫龙(U)",
     "author": "",
     "featured": false,
@@ -8481,6 +9567,7 @@
   },
   {
     "file": "8ced9c0c54bd.nes",
+    "size": 40976,
     "title": "通道卡车",
     "author": "",
     "featured": false,
@@ -8489,6 +9576,7 @@
   },
   {
     "file": "97bbe52c01a3.nes",
+    "size": 262160,
     "title": "重级作战",
     "author": "",
     "featured": false,
@@ -8497,6 +9585,7 @@
   },
   {
     "file": "4afbd0b24224.nes",
+    "size": 786448,
     "title": "重装机兵(机甲战士)",
     "author": "",
     "featured": false,
@@ -8505,6 +9594,7 @@
   },
   {
     "file": "f34399eb0612.nes",
+    "size": 786448,
     "title": "重装机兵",
     "author": "",
     "featured": false,
@@ -8513,6 +9603,7 @@
   },
   {
     "file": "2de06eec22ae.nes",
+    "size": 786448,
     "title": "重装机兵",
     "author": "",
     "featured": false,
@@ -8521,6 +9612,7 @@
   },
   {
     "file": "dd07cc7b9582.nes",
+    "size": 2097168,
     "title": "金庸群侠传",
     "author": "",
     "featured": false,
@@ -8529,6 +9621,7 @@
   },
   {
     "file": "a0e778312fde.nes",
+    "size": 24592,
     "title": "金牌掏金者",
     "author": "",
     "featured": false,
@@ -8537,6 +9630,7 @@
   },
   {
     "file": "e50319616f23.nes",
+    "size": 393232,
     "title": "铁拳3",
     "author": "",
     "featured": false,
@@ -8545,6 +9639,7 @@
   },
   {
     "file": "0049c1fe0463.nes",
+    "size": 131216,
     "title": "银河号",
     "author": "",
     "featured": false,
@@ -8553,6 +9648,7 @@
   },
   {
     "file": "fb625d57edc9.nes",
+    "size": 524304,
     "title": "镜花缘",
     "author": "",
     "featured": false,
@@ -8561,6 +9657,7 @@
   },
   {
     "file": "834ddb79ebb3.nes",
+    "size": 393232,
     "title": "闪电小组(J)",
     "author": "",
     "featured": false,
@@ -8569,6 +9666,7 @@
   },
   {
     "file": "a04dfd4713ec.nes",
+    "size": 524304,
     "title": "阿拉丁",
     "author": "",
     "featured": false,
@@ -8577,6 +9675,7 @@
   },
   {
     "file": "2276a5edec10.nes",
+    "size": 393232,
     "title": "阿拉丁2",
     "author": "",
     "featured": false,
@@ -8585,6 +9684,7 @@
   },
   {
     "file": "a6d643047dc7.nes",
+    "size": 65552,
     "title": "阿拉丁3",
     "author": "",
     "featured": false,
@@ -8593,6 +9693,7 @@
   },
   {
     "file": "5bbc89901c85.nes",
+    "size": 262160,
     "title": "阿贝道X中文(J)",
     "author": "",
     "featured": false,
@@ -8601,6 +9702,7 @@
   },
   {
     "file": "03dd71102498.nes",
+    "size": 524304,
     "title": "隋唐演义",
     "author": "",
     "featured": false,
@@ -8609,6 +9711,7 @@
   },
   {
     "file": "a516bf26974f.nes",
+    "size": 1048592,
     "title": "隋唐英雄",
     "author": "",
     "featured": false,
@@ -8617,6 +9720,7 @@
   },
   {
     "file": "e72f81a20583.nes",
+    "size": 262160,
     "title": "雪人兄弟",
     "author": "",
     "featured": false,
@@ -8625,6 +9729,7 @@
   },
   {
     "file": "88ccfb00e1a1.nes",
+    "size": 2097168,
     "title": "雷电皇-比卡丘传说",
     "author": "",
     "featured": false,
@@ -8633,6 +9738,7 @@
   },
   {
     "file": "b574c923a187.nes",
+    "size": 49168,
     "title": "雷鸟2",
     "author": "",
     "featured": false,
@@ -8641,6 +9747,7 @@
   },
   {
     "file": "881bd152f6ee.nes",
+    "size": 65552,
     "title": "雷鸟号",
     "author": "",
     "featured": false,
@@ -8649,6 +9756,7 @@
   },
   {
     "file": "769f8483de1a.nes",
+    "size": 262160,
     "title": "霹雳神兵",
     "author": "",
     "featured": false,
@@ -8657,6 +9765,7 @@
   },
   {
     "file": "8c7a804421f7.nes",
+    "size": 65552,
     "title": "青蛙大冒险",
     "author": "",
     "featured": false,
@@ -8665,6 +9774,7 @@
   },
   {
     "file": "fa799e8f1b1f.nes",
+    "size": 172048,
     "title": "面粉袋子",
     "author": "",
     "featured": false,
@@ -8673,6 +9783,7 @@
   },
   {
     "file": "6dc0ae074591.nes",
+    "size": 262160,
     "title": "顽皮狗(美版)(U)",
     "author": "",
     "featured": false,
@@ -8681,6 +9792,7 @@
   },
   {
     "file": "c7057c1226e7.nes",
+    "size": 262160,
     "title": "顽皮狗",
     "author": "",
     "featured": false,
@@ -8689,6 +9801,7 @@
   },
   {
     "file": "083793f71533.nes",
+    "size": 786448,
     "title": "风云",
     "author": "",
     "featured": false,
@@ -8697,6 +9810,7 @@
   },
   {
     "file": "c20d56d03a96.nes",
+    "size": 655392,
     "title": "飞龙之拳",
     "author": "",
     "featured": false,
@@ -8705,6 +9819,7 @@
   },
   {
     "file": "34fc5865724d.nes",
+    "size": 786464,
     "title": "飞龙之拳2",
     "author": "",
     "featured": false,
@@ -8713,6 +9828,7 @@
   },
   {
     "file": "38809f553d13.nes",
+    "size": 786464,
     "title": "飞龙之拳3(J)",
     "author": "",
     "featured": false,
@@ -8721,6 +9837,7 @@
   },
   {
     "file": "34dfc0dcd987.nes",
+    "size": 262160,
     "title": "香蕉王子",
     "author": "",
     "featured": false,
@@ -8729,6 +9846,7 @@
   },
   {
     "file": "6a617aecbd85.nes",
+    "size": 40976,
     "title": "馬里奧1",
     "author": "",
     "featured": false,
@@ -8737,6 +9855,7 @@
   },
   {
     "file": "76246ac6e7c4.nes",
+    "size": 24592,
     "title": "马戏团(CN)",
     "author": "",
     "featured": false,
@@ -8745,6 +9864,7 @@
   },
   {
     "file": "3c6b94d49e67.nes",
+    "size": 65552,
     "title": "马路英雄中文",
     "author": "",
     "featured": false,
@@ -8753,6 +9873,7 @@
   },
   {
     "file": "1a4c31c3d602.nes",
+    "size": 262160,
     "title": "马里奥16代(中文)",
     "author": "",
     "featured": false,
@@ -8761,6 +9882,7 @@
   },
   {
     "file": "01de1e04c396.nes",
+    "size": 65552,
     "title": "马里奥医生",
     "author": "",
     "featured": false,
@@ -8769,6 +9891,7 @@
   },
   {
     "file": "a94481b04378.nes",
+    "size": 524304,
     "title": "骇客",
     "author": "",
     "featured": false,
@@ -8777,6 +9900,7 @@
   },
   {
     "file": "17bd0a46df60.nes",
+    "size": 262160,
     "title": "高尔夫",
     "author": "",
     "featured": false,
@@ -8785,6 +9909,7 @@
   },
   {
     "file": "b24adfa4bfea.nes",
+    "size": 262160,
     "title": "高桥名人冒险岛（比卡丘版）",
     "author": "",
     "featured": false,
@@ -8793,6 +9918,7 @@
   },
   {
     "file": "d416159014e1.nes",
+    "size": 262160,
     "title": "鬼屋冒险美版",
     "author": "",
     "featured": false,
@@ -8801,6 +9927,7 @@
   },
   {
     "file": "b4e102e42436.nes",
+    "size": 131088,
     "title": "魂斗罗",
     "author": "",
     "featured": false,
@@ -8809,6 +9936,7 @@
   },
   {
     "file": "9207955455be.nes",
+    "size": 131088,
     "title": "魂斗罗1改版地形",
     "author": "",
     "featured": false,
@@ -8817,6 +9945,7 @@
   },
   {
     "file": "0c104de27a4b.nes",
+    "size": 131088,
     "title": "魂斗罗1散弹版",
     "author": "",
     "featured": false,
@@ -8825,6 +9954,7 @@
   },
   {
     "file": "bdc0b505607a.nes",
+    "size": 262160,
     "title": "魂斗罗2代-3合1(命不减)可选3种子弹和选关",
     "author": "",
     "featured": false,
@@ -8833,6 +9963,7 @@
   },
   {
     "file": "07c896cd54ac.nes",
+    "size": 253968,
     "title": "魂斗罗2初始散弹版",
     "author": "",
     "featured": false,
@@ -8841,6 +9972,7 @@
   },
   {
     "file": "cd3a33ae2d19.nes",
+    "size": 786464,
     "title": "魂斗罗2无敌中文版",
     "author": "",
     "featured": false,
@@ -8849,6 +9981,7 @@
   },
   {
     "file": "cbbdda5649be.nes",
+    "size": 262160,
     "title": "魂斗罗2永远隐身版",
     "author": "",
     "featured": false,
@@ -8857,6 +9990,7 @@
   },
   {
     "file": "1260a412fd68.nes",
+    "size": 262160,
     "title": "魂斗罗2（怪鸭历险记改版）",
     "author": "",
     "featured": false,
@@ -8865,6 +9999,7 @@
   },
   {
     "file": "8b2591e204d2.nes",
+    "size": 393232,
     "title": "魂斗罗5",
     "author": "",
     "featured": false,
@@ -8873,6 +10008,7 @@
   },
   {
     "file": "7dd0bfcac2b5.nes",
+    "size": 262160,
     "title": "魂斗罗7",
     "author": "",
     "featured": false,
@@ -8881,6 +10017,7 @@
   },
   {
     "file": "d2fa931ae6ea.nes",
+    "size": 131088,
     "title": "魂斗罗S枪30条命版",
     "author": "",
     "featured": false,
@@ -8889,6 +10026,7 @@
   },
   {
     "file": "2008a619582e.nes",
+    "size": 524304,
     "title": "魂斗罗X",
     "author": "",
     "featured": false,
@@ -8897,6 +10035,7 @@
   },
   {
     "file": "8030e77eb516.nes",
+    "size": 262288,
     "title": "魂斗罗力量版",
     "author": "",
     "featured": false,
@@ -8905,6 +10044,7 @@
   },
   {
     "file": "a39122c93863.nes",
+    "size": 262160,
     "title": "魂斗罗枪林弹雨版",
     "author": "",
     "featured": false,
@@ -8913,6 +10053,7 @@
   },
   {
     "file": "76c4e4da5e25.nes",
+    "size": 262160,
     "title": "魂斗罗隐身散弹",
     "author": "",
     "featured": false,
@@ -8921,6 +10062,7 @@
   },
   {
     "file": "a43dae812eff.nes",
+    "size": 131088,
     "title": "魂斗罗（四种枪)",
     "author": "",
     "featured": false,
@@ -8929,6 +10071,7 @@
   },
   {
     "file": "d7efa1c5f986.nes",
+    "size": 524304,
     "title": "魔域英雄传",
     "author": "",
     "featured": false,
@@ -8937,6 +10080,7 @@
   },
   {
     "file": "8887894d6e44.nes",
+    "size": 262160,
     "title": "魔女小红帽(美版)(U)",
     "author": "",
     "featured": false,
@@ -8945,6 +10089,7 @@
   },
   {
     "file": "1d3661e61ef6.nes",
+    "size": 524304,
     "title": "魔导士阴谋（修正版）",
     "author": "",
     "featured": false,
@@ -8953,6 +10098,7 @@
   },
   {
     "file": "7bc4d849ea85.nes",
+    "size": 524304,
     "title": "魔法门",
     "author": "",
     "featured": false,
@@ -8961,6 +10107,7 @@
   },
   {
     "file": "433171cdc95c.nes",
+    "size": 2097168,
     "title": "魔界塔士(魔界霸主)",
     "author": "",
     "featured": false,
@@ -8969,6 +10116,7 @@
   },
   {
     "file": "1e7e0147dd92.nes",
+    "size": 131088,
     "title": "魔界村(GNG)",
     "author": "",
     "featured": false,
@@ -8977,6 +10125,7 @@
   },
   {
     "file": "3e181847ca79.nes",
+    "size": 524304,
     "title": "魔神法师",
     "author": "",
     "featured": false,
@@ -8985,6 +10134,7 @@
   },
   {
     "file": "59fa3b8b2fc0.nes",
+    "size": 524304,
     "title": "魔神英雄传外传(创世纪英雄)",
     "author": "",
     "featured": false,
@@ -8993,6 +10143,7 @@
   },
   {
     "file": "2642a2b4b0f8.nes",
+    "size": 524304,
     "title": "魔神英雄外传",
     "author": "",
     "featured": false,
@@ -9001,6 +10152,7 @@
   },
   {
     "file": "b3aec4e889c4.nes",
+    "size": 262160,
     "title": "魔鬼总动员",
     "author": "",
     "featured": false,
@@ -9009,6 +10161,7 @@
   },
   {
     "file": "5b4c78a47ce7.nes",
+    "size": 262160,
     "title": "魔鬼终结者(U)",
     "author": "",
     "featured": false,
@@ -9017,6 +10170,7 @@
   },
   {
     "file": "fcad4b5bc48e.nes",
+    "size": 262160,
     "title": "鳄鱼先生",
     "author": "",
     "featured": false,
@@ -9025,6 +10179,7 @@
   },
   {
     "file": "98c3c6d3f940.nes",
+    "size": 262160,
     "title": "鸟人战队(CN)",
     "author": "",
     "featured": false,
@@ -9033,6 +10188,7 @@
   },
   {
     "file": "35ff37f6ef3c.nes",
+    "size": 262160,
     "title": "麻将",
     "author": "",
     "featured": false,
@@ -9041,6 +10197,7 @@
   },
   {
     "file": "5bc3dd6ffdce.nes",
+    "size": 2097168,
     "title": "黄金之太阳",
     "author": "",
     "featured": false,
@@ -9049,6 +10206,7 @@
   },
   {
     "file": "16092606c66f.nes",
+    "size": 524304,
     "title": "黑暗之蛊",
     "author": "",
     "featured": false,
@@ -9057,6 +10215,7 @@
   },
   {
     "file": "4ee16061b03d.nes",
+    "size": 524304,
     "title": "鼻涕超人",
     "author": "",
     "featured": false,
@@ -9065,6 +10224,7 @@
   },
   {
     "file": "0450c78c839f.nes",
+    "size": 262160,
     "title": "龙战士",
     "author": "",
     "featured": false,
@@ -9073,6 +10233,7 @@
   },
   {
     "file": "2ac8956922ec.nes",
+    "size": 131088,
     "title": "龙牙",
     "author": "",
     "featured": false,
@@ -9081,6 +10242,7 @@
   },
   {
     "file": "e5d69336b4ad.nes",
+    "size": 786448,
     "title": "龙珠Z2-激神弗利萨",
     "author": "",
     "featured": false,
@@ -9089,6 +10251,7 @@
   },
   {
     "file": "8dae161d968a.nes",
+    "size": 786448,
     "title": "龙珠Z3-烈战人造人间",
     "author": "",
     "featured": false,
@@ -9097,6 +10260,7 @@
   },
   {
     "file": "59ad0c12158b.nes",
+    "size": 786448,
     "title": "龙珠Z-强袭赛亚人",
     "author": "",
     "featured": false,
@@ -9105,6 +10269,7 @@
   },
   {
     "file": "096bc952e018.nes",
+    "size": 786448,
     "title": "龙珠Z外传-赛亚人绝灭计划",
     "author": "",
     "featured": false,
@@ -9113,6 +10278,7 @@
   },
   {
     "file": "b551ab6f8150.nes",
+    "size": 262160,
     "title": "龙珠英雄",
     "author": "",
     "featured": false,
@@ -9121,6 +10287,7 @@
   },
   {
     "file": "59b913f473b3.nes",
+    "size": 786464,
     "title": "龙魂2",
     "author": "",
     "featured": false,
